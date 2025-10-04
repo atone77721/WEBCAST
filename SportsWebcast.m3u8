@@ -234,6 +234,11 @@ https://live.webcastserver.online/hdstream/embed/1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 https://live.webcastserver.online/hdstream/embed/5.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Jerusalem @ Nets • Oct 4 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Jerusalem @ Nets • Oct 4 at 5:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nbawebcast.app/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+https://live.webcastserver.online/hdstream/embed/139.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Knicks @ 76Ers • Oct 4 at 8:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Knicks @ 76Ers • Oct 4 at 8:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nbawebcast.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
