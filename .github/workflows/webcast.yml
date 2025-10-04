@@ -30,15 +30,26 @@ jobs:
           playwright install-deps
           playwright install
 
-      - name: 🔓 Decode Base64 Script
+      - name: 🔒 Restore Base64 Script (silent)
         env:
           WEBCAST_B64: ${{ secrets.WEBCAST_B64 }}
+        shell: bash
         run: |
-          echo "$WEBCAST_B64" | base64 --decode > webcast.py
-          echo "✅ webcast.py restored successfully"
+          echo "⚙️ Restoring script..."
+          # Decode silently without logging content
+          echo "$WEBCAST_B64" | base64 --decode > webcast.py 2>/dev/null
+          echo "✅ webcast.py restored."
 
-      - name: 🎯 Run scraping script
-        run: python webcast.py
+      - name: 🎯 Run scraping script (silent)
+        shell: bash
+        run: |
+          echo "🚀 Running webcast.py (output hidden)..."
+          # Run quietly; show only error if it fails
+          if ! python webcast.py > /dev/null 2>&1; then
+            echo "::error::❌ webcast.py failed — check script manually."
+            exit 1
+          fi
+          echo "✅ webcast.py completed successfully"
 
       - name: 💾 Commit & Safely Push if Playlists Changed
         env:
