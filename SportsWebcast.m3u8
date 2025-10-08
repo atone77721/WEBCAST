@@ -23,22 +23,22 @@ https://live.webcastserver.online/hdstream/embed/103.m3u8
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://live.webcastserver.online/hdstream/embed/86.m3u8
+https://gate.pixelpanel.online/hdstream/embed/574.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Maple Leafs • Oct 8 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Canadiens @ Maple Leafs • Oct 8 at 4:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://live.webcastserver.online/hdstream/embed/83.m3u8
+https://gate.pixelpanel.online/hdstream/embed/572.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flames @ Oilers • Oct 8 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Flames @ Oilers • Oct 8 at 7:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://live.webcastserver.online/hdstream/embed/67.m3u8
+https://gate.pixelpanel.online/hdstream/embed/578.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Knights • Oct 8 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Kings @ Knights • Oct 8 at 7:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://live.webcastserver.online/hdstream/embed/85.m3u8
+https://gate.pixelpanel.online/hdstream/embed/576.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB⚾",MLB Network
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
