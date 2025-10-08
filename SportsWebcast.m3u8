@@ -19,16 +19,26 @@ https://live.webcastserver.online/hdstream/embed/5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
 https://live.webcastserver.online/hdstream/embed/103.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Avalanche @ Kings • Oct 5 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Avalanche @ Kings • Oct 5 at 7:30 PM PDT
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Bruins @ Capitals • Oct 8 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Bruins @ Capitals • Oct 8 at 4:30 PM PDT
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://gate.pixelpanel.online/hdstream/embed/559.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Penguins @ Rangers • Oct 5 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Penguins @ Rangers • Oct 5 at 5:00 PM PDT
+https://live.webcastserver.online/hdstream/embed/86.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Maple Leafs • Oct 8 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Canadiens @ Maple Leafs • Oct 8 at 4:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://gate.pixelpanel.online/hdstream/embed/557.m3u8
+https://live.webcastserver.online/hdstream/embed/83.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flames @ Oilers • Oct 8 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Flames @ Oilers • Oct 8 at 7:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
+https://live.webcastserver.online/hdstream/embed/67.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Knights • Oct 8 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Kings @ Knights • Oct 8 at 7:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
+https://live.webcastserver.online/hdstream/embed/85.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB⚾",MLB Network
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
@@ -43,22 +53,22 @@ https://live.webcastserver.online/hdstream/embed/434.m3u8
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
-https://live.webcastserver.online/hdstream/embed/483.m3u8
+https://gate.pixelpanel.online/hdstream/embed/566.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Jays @ Yankees • Oct 9 at 4:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Jays @ Yankees • Oct 9 at 4:08 PM PDT
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
-https://live.webcastserver.online/hdstream/embed/382.m3u8
+https://gate.pixelpanel.online/hdstream/embed/568.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Mariners @ Tigers • Oct 9 at 12:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Mariners @ Tigers • Oct 9 at 12:08 PM PDT
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
-https://live.webcastserver.online/hdstream/embed/374.m3u8
+https://gate.pixelpanel.online/hdstream/embed/564.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Phillies @ Dodgers • Oct 9 at 6:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Phillies @ Dodgers • Oct 9 at 6:08 PM PDT
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
-https://live.webcastserver.online/hdstream/embed/394.m3u8
+https://gate.pixelpanel.online/hdstream/embed/570.m3u8
 #EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Toronto @ Los Angeles • Oct 8 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Toronto @ Los Angeles • Oct 8 at 7:30 PM PDT
 #EXTVLCOPT:http-referrer=https://mlswebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
