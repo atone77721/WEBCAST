@@ -59,28 +59,23 @@ https://live.webcastserver.online/hdstream/embed/1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
 https://live.webcastserver.online/hdstream/embed/5.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Blazers @ Warriors • Oct 8 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Blazers @ Warriors • Oct 8 at 7:00 PM PDT
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Cavaliers @ Bulls • Oct 9 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Cavaliers @ Bulls • Oct 9 at 5:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nbawebcast.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
-https://live.webcastserver.online/hdstream/embed/159.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Celtics @ Grizzlies • Oct 8 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Celtics @ Grizzlies • Oct 8 at 5:00 PM PDT
+https://live.webcastserver.online/hdstream/embed/166.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Hornets @ Thunder • Oct 9 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Hornets @ Thunder • Oct 9 at 5:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nbawebcast.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
-https://live.webcastserver.online/hdstream/embed/146.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Raptors @ Kings • Oct 8 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Raptors @ Kings • Oct 8 at 7:00 PM PDT
+https://live.webcastserver.online/hdstream/embed/520.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Lions @ Clippers • Oct 9 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Lions @ Clippers • Oct 9 at 7:30 PM PDT
 #EXTVLCOPT:http-referrer=https://nbawebcast.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
-https://live.webcastserver.online/hdstream/embed/144.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Spurs @ Heat • Oct 8 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Spurs @ Heat • Oct 8 at 4:30 PM PDT
+https://live.webcastserver.online/hdstream/embed/162.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Pistons @ Bucks • Oct 9 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Pistons @ Bucks • Oct 9 at 5:00 PM PDT
 #EXTVLCOPT:http-referrer=https://nbawebcast.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nbawebcast.app/
-https://live.webcastserver.online/hdstream/embed/147.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah @ Rockets • Oct 8 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball5.png" group-title="NBA🏀",Utah @ Rockets • Oct 8 at 5:00 PM PDT
-#EXTVLCOPT:http-referrer=https://nbawebcast.app/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-origin=https://nbawebcast.app/
-https://live.webcastserver.online/hdstream/embed/160.m3u8
+https://live.webcastserver.online/hdstream/embed/148.m3u8
