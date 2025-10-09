@@ -99,16 +99,36 @@ https://live.webcastserver.online/hdstream/embed/364.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 https://live.webcastserver.online/hdstream/embed/434.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Phillies @ Dodgers • Oct 9 at 6:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Phillies @ Dodgers • Oct 9 at 6:08 PM PDT
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Brewers @ Cubs • Oct 10 at 6:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Brewers @ Cubs • Oct 10 at 6:08 PM PDT
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/566.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Phillies @ Dodgers • Oct 10 at 3:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Phillies @ Dodgers • Oct 10 at 3:08 PM PDT
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/570.m3u8
-#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Toronto @ Los Angeles • Oct 8 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Toronto @ Los Angeles • Oct 8 at 7:30 PM PDT
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Atlanta @ Inter Miami • Oct 11 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Atlanta @ Inter Miami • Oct 11 at 4:30 PM PDT
 #EXTVLCOPT:http-referrer=https://mlswebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://mlswebcast.com/
-https://live.webcastserver.online/hdstream/embed/497.m3u8
+https://live.webcastserver.online/hdstream/embed/495.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Fc Dallas @ La Galaxy • Oct 11 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Fc Dallas @ La Galaxy • Oct 11 at 7:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/496.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Real Salt @ Seattle • Oct 11 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Real Salt @ Seattle • Oct 11 at 7:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/509.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Vancouver @ Orlando • Oct 11 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Vancouver @ Orlando • Oct 11 at 4:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/503.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA🏀",NBA TV
 #EXTVLCOPT:http-referrer=https://nbawebcast.app/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
