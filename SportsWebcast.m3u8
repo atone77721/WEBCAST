@@ -28,7 +28,7 @@ https://gate.pixelpanel.online/hdstream/embed/587.m3u8
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-origin=https://nhlwebcast.com/
-https://gate.pixelpanel.online/hdstream/embed/595.m3u8
+https://gate.pixelpanel.online/hdstream/embed/600.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Devils @ Hurricanes • Oct 9 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Devils @ Hurricanes • Oct 9 at 4:30 PM PDT
 #EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
