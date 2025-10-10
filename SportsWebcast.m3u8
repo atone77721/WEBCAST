@@ -153,7 +153,7 @@ https://gate.pixelpanel.online/hdstream/embed/620.m3u8
 #EXTVLCOPT:http-origin=https://mlbwebcast.com/
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/564.m3u8
+https://gate.pixelpanel.online/hdstream/embed/624.m3u8
 #EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Atlanta @ Inter Miami" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLSWebcast - Live Games",Atlanta @ Inter Miami
 #EXTVLCOPT:http-origin=https://mlswebcast.com/
 #EXTVLCOPT:http-referrer=https://mlswebcast.com/
