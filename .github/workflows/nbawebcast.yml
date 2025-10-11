@@ -42,7 +42,7 @@ jobs:
       - name: 🎯 Run scraping script (errors only)
         shell: bash
         run: |
-          echo "🚀 Running webcast.py (errors only)..."
+          echo "🚀 Running nbawebcast.py (errors only)..."
           LOG_FILE=$(mktemp)
 
           # Run script quietly
