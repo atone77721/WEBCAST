@@ -1,4 +1,4 @@
-name: 🏀 Update NBAWebcast Playlist 📺
+name: 🏈🏒⚾ Update NBAWebcast Playlist 📺
 
 on:
   schedule:
@@ -45,7 +45,8 @@ jobs:
           echo "🚀 Running webcast.py (errors only)..."
           LOG_FILE=$(mktemp)
 
-          if ! python nbawebcast.py >"$LOG_FILE" 2>&1; then
+          # Run script quietly
+          if ! python webcast.py >"$LOG_FILE" 2>&1; then
             echo "::error::❌ nbawebcast.py failed — see log below:"
             cat "$LOG_FILE"
             rm -f "$LOG_FILE"
@@ -55,45 +56,6 @@ jobs:
           rm -f "$LOG_FILE"
           echo "✅ nbawebcast.py completed successfully"
 
-      - name: 🔗 Combine, Sort & Clean Playlists
-        shell: bash
-        run: |
-          echo "🧩 Combining and cleaning playlists..."
-
-          # Combine if existing file found
-          if [ -f "SportsWebcast.m3u8" ]; then
-            grep -v '^#EXTM3U' SportsWebcast.m3u8 > old.m3u8 || true
-            grep -v '^#EXTM3U' NBAWebcast.m3u8 > new.m3u8 || true
-            cat old.m3u8 new.m3u8 > merged.m3u8
-          else
-            grep -v '^#EXTM3U' NBAWebcast.m3u8 > merged.m3u8 || true
-          fi
-
-          echo "#EXTM3U" > SportsWebcast.m3u8
-
-          # Pair EXTINF lines with next line (URL), remove duplicates and sort
-          awk 'BEGIN{RS=""; FS="\n"} {
-              for(i=1;i<=NF;i+=2){
-                  info=$i
-                  url=$(i+1)
-                  if(url!=""){
-                      combo=info"\n"url
-                      if(!seen[combo]++){
-                          entries[info]=url
-                      }
-                  }
-              }
-          }
-          END{
-              n=asorti(entries, sorted)
-              for(i=1;i<=n;i++){
-                  print sorted[i] "\n" entries[sorted[i]]
-              }
-          }' merged.m3u8 >> SportsWebcast.m3u8
-
-          rm -f old.m3u8 new.m3u8 merged.m3u8
-          echo "✅ Cleaned, sorted, and saved to SportsWebcast.m3u8"
-
       - name: 💾 Commit & Safely Push if Playlists Changed
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -102,14 +64,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add SportsWebcast.m3u8 NBAWebcast.m3u8
+          git add NBAWebcast.m3u8
 
           if git diff --cached --quiet; then
             echo "✅ No changes to commit"
             exit 0
           fi
 
-          git commit -m "🔁 Update & clean SportsWebcast playlist $(date -u +'%a %b %d %T UTC %Y')"
+          git commit -m "🔁 Update playlists $(date -u +'%a %b %d %T UTC %Y')"
 
           sleep $((RANDOM % 10 + 5))
 
