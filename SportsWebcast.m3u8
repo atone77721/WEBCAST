@@ -1,161 +1,201 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="49Ers @ Buccaneers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",49Ers @ Buccaneers
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="NFL🏈",NFL Network
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/523.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cardinals @ Colts" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Cardinals @ Colts
 #EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/513.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chargers @ Dolphins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Chargers @ Dolphins
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/514.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cowboys @ Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Cowboys @ Panthers
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/514.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Lions @ Chiefs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Lions @ Chiefs
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/547.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Saints" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Patriots @ Saints
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/515.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Rams @ Ravens" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Rams @ Ravens
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/512.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seahawks @ Jaguars" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Seahawks @ Jaguars
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/547.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Titans @ Raiders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFLWebcast - Live Games",Titans @ Raiders
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/513.m3u8
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="Nfl Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-hz-us.png?raw=true" group-title="NFLWebcast - 24/7 Channels",Nfl Network
-#EXTVLCOPT:http-origin=https://nflwebcast.com/
-#EXTVLCOPT:http-referrer=https://nflwebcast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gate.pixelpanel.online/hdstream/embed/335.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blues @ Flames" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Blues @ Flames
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="NFL🏈",NFL RedZone
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://nflwebcast.com/nflredzone/
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NFL🏈",ESPN
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/hdstream/embed/5.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="49Ers @ Buccaneers • Oct 12 at 1:25 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",49Ers @ Buccaneers • Oct 12 at 1:25 PM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/523.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Bengals @ Packers • Oct 12 at 1:25 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Bengals @ Packers • Oct 12 at 1:25 PM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/hdstream/embed/107.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Broncos @ Jets • Oct 12 at 6:30 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Broncos @ Jets • Oct 12 at 6:30 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/hdstream/embed/105.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Browns @ Steelers • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Browns @ Steelers • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://live.webcastserver.online/hdstream/embed/116.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cardinals @ Colts • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Cardinals @ Colts • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/513.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Chargers @ Dolphins • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Chargers @ Dolphins • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/514.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Cowboys @ Panthers • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Cowboys @ Panthers • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/514.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Lions @ Chiefs • Oct 12 at 5:20 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Lions @ Chiefs • Oct 12 at 5:20 PM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/547.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Patriots @ Saints • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Patriots @ Saints • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/515.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Rams @ Ravens • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Rams @ Ravens • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/512.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Seahawks @ Jaguars • Oct 12 at 10:00 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Seahawks @ Jaguars • Oct 12 at 10:00 AM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/547.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-name="Titans @ Raiders • Oct 12 at 1:05 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" group-title="NFL🏈",Titans @ Raiders • Oct 12 at 1:05 PM PDT
+#EXTVLCOPT:http-referrer=https://nflwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nflwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/513.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blues @ Flames • Oct 11 at 1:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Blues @ Flames • Oct 11 at 1:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/589.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Blackhawks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Canadiens @ Blackhawks
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Blackhawks • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Canadiens @ Blackhawks • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/591.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canucks @ Oilers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Canucks @ Oilers
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canucks @ Oilers • Oct 11 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Canucks @ Oilers • Oct 11 at 7:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/596.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Capitals @ Islanders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Capitals @ Islanders
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Capitals @ Islanders • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Capitals @ Islanders • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/602.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Devils @ Lightning" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Devils @ Lightning
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Devils @ Lightning • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Devils @ Lightning • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/610.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Ducks @ Sharks
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Sharks • Oct 10 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Ducks @ Sharks • Oct 10 at 7:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/607.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Hurricanes" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Flyers @ Hurricanes
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Flyers @ Hurricanes • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Flyers @ Hurricanes • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/590.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jackets @ Wild" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Jackets @ Wild
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Jackets @ Wild • Oct 11 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Jackets @ Wild • Oct 11 at 5:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/599.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Jets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Kings @ Jets
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Kings @ Jets • Oct 11 at 10:30 AM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Kings @ Jets • Oct 11 at 10:30 AM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/615.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Kraken" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Knights @ Kraken
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Knights @ Kraken • Oct 11 at 7:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Knights @ Kraken • Oct 11 at 7:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/608.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Maple Leafs @ Wings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Maple Leafs @ Wings
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Maple Leafs @ Wings • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Maple Leafs @ Wings • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/595.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Rangers @ Penguins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Rangers @ Penguins
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Rangers @ Penguins • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Rangers @ Penguins • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/606.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Bruins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Sabres @ Bruins
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Bruins • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Sabres @ Bruins • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/587.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Senators @ Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Senators @ Panthers
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Senators @ Panthers • Oct 11 at 4:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Senators @ Panthers • Oct 11 at 4:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/597.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Avalanche" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Stars @ Avalanche
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Avalanche • Oct 11 at 6:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Stars @ Avalanche • Oct 11 at 6:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/592.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah @ Predators" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Utah @ Predators
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Utah @ Predators • Oct 11 at 5:00 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHL🏒",Utah @ Predators • Oct 11 at 5:00 PM PDT
+#EXTVLCOPT:http-referrer=https://nhlwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nhlwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/620.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tigers @ " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLBWebcast - Live Games",Tigers @ 
-#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" group-title="MLB⚾",MLB Network
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+https://gate.pixelpanel.online/hdstream/embed/443.m3u8
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="MLB⚾",Fox Sports 1
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
+https://live.webcastserver.online/hdstream/embed/434.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tigers @ Mariners • Oct 11 at 5:08 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MLB.png" group-title="MLB⚾",Tigers @ Mariners • Oct 11 at 5:08 PM PDT
+#EXTVLCOPT:http-referrer=https://mlbwebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlbwebcast.com/
 https://gate.pixelpanel.online/hdstream/embed/624.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ Brooklyn Nets • Oct 10 at 5:00 AM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/bkn.png&w=64&h=64" group-title="NBAWebcast - Live Games",Phoenix Suns @ Brooklyn Nets • Oct 10 at 5:00 AM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Toronto Raptors • Oct 10 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&w=64&h=64" group-title="NBAWebcast - Live Games",Boston Celtics @ Toronto Raptors • Oct 10 at 4:00 PM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/raptors/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Orlando Magic @ Philadelphia 76Ers • Oct 10 at 4:00 PM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&w=64&h=64" group-title="NBAWebcast - Live Games",Orlando Magic @ Philadelphia 76Ers • Oct 10 at 4:00 PM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/76ers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ San Antonio Spurs • Oct 10 at 5:00 PM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/sa.png&w=64&h=64" group-title="NBAWebcast - Live Games",Utah Jazz @ San Antonio Spurs • Oct 10 at 5:00 PM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/spurs/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Sacramento Kings @ Portland Trail Blazers • Oct 10 at 7:00 PM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/por.png&w=64&h=64" group-title="NBAWebcast - Live Games",Sacramento Kings @ Portland Trail Blazers • Oct 10 at 7:00 PM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/blazers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Atlanta @ Inter Miami • Oct 11 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Atlanta @ Inter Miami • Oct 11 at 4:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/495.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Fc Dallas @ La Galaxy • Oct 11 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Fc Dallas @ La Galaxy • Oct 11 at 7:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/496.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Real Salt @ Seattle • Oct 11 at 7:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Real Salt @ Seattle • Oct 11 at 7:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/509.m3u8
+#EXTINF:-1 tvg-id="MLS.Soccer.Dummy.us" tvg-name="Vancouver @ Orlando • Oct 11 at 4:30 PM PDT" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Football2.png" group-title="MLS⚽",Vancouver @ Orlando • Oct 11 at 4:30 PM PDT
+#EXTVLCOPT:http-referrer=https://mlswebcast.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://mlswebcast.com/
+https://live.webcastserver.online/hdstream/embed/503.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA🏀",NBA TV
+#EXTVLCOPT:http-referrer=https://nbawebcast.app/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+https://gate.pixelpanel.online/hdstream/embed/444.m3u8
+#EXTINF:-1 tvg-id="ESPN.NBA.HD.us2" tvg-name="ESPN NBA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-us.png?raw=true" group-title="NBA🏀",ESPN NBA
+#EXTVLCOPT:http-referrer=https://nbawebcast.app/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-origin=https://nbawebcast.app/
+https://live.webcastserver.online/hdstream/embed/5.m3u8
