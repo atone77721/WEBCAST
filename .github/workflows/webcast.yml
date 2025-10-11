@@ -2,7 +2,7 @@ name: 🏈🏒⚾ Update SportsWebcast Playlist 📺
 
 on:
   schedule:
-    - cron: '4 * * * *'
+    - cron: '0 */4 * * *'  # every 4 hours
   workflow_dispatch:
 
 permissions:
@@ -26,10 +26,16 @@ jobs:
       - name: 📦 Install Python dependencies & Playwright
         run: |
           python -m pip install --upgrade pip
-          # --- EDIT: Added beautifulsoup4 and lxml for the NBA scraper ---
           pip install playwright urllib3 aiohttp beautifulsoup4 lxml
           playwright install-deps
           playwright install
+
+      - name: 🔐 Decode Base64 Script from Secret
+        env:
+          WEBCAST_B64: ${{ secrets.WEBCAST_B64 }}
+        run: |
+          echo "$WEBCAST_B64" | base64 --decode > webcast.py
+          ls -lh webcast.py
 
       - name: 🎯 Run scraping script
         run: python webcast.py
@@ -41,21 +47,16 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Stage the output file
           git add SportsWebcast.m3u8
 
-          # Check if the file actually changed
           if git diff --cached --quiet; then
             echo "✅ No changes to commit"
             exit 0
           fi
 
           git commit -m "🔁 Update playlist $(date -u +'%a %b %d %T UTC %Y')"
-          
-          # Small random delay to reduce race conditions
           sleep $((RANDOM % 10 + 5))
-          
-          # Attempt to push, with a fallback to pull and re-try
+
           if ! git push origin main; then
             echo "⚠️ Push rejected. Trying safe fetch + merge..."
             git pull origin main --rebase || {
