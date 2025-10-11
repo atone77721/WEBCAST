@@ -1,4 +1,4 @@
-name: 🏈🏒⚾ Update NBAWebcast Playlist 📺
+name: 🏀 Update NBAWebcast Playlist 📺
 
 on:
   schedule:
@@ -30,48 +30,45 @@ jobs:
           playwright install-deps
           playwright install
 
-      - name: 🔒 Restore Base64 Script (silent)
+      - name: 🔒 Restore Base64 Script
         env:
           NBAWEBCAST_B64: ${{ secrets.NBAWEBCAST_B64 }}
-        shell: bash
         run: |
           echo "⚙️ Restoring script..."
-          echo "$NBAWEBCAST_B64" | base64 --decode > nbawebcast.py 2>/dev/null
+          echo "$NBAWEBCAST_B64" | base64 --decode > nbawebcast.py
           echo "✅ nbawebcast.py restored."
 
-      - name: 🎯 Run scraping script (errors only)
-        shell: bash
+      - name: 🎯 Run NBA scraper
         run: |
-          echo "🚀 Running nbawebcast.py (errors only)..."
-          LOG_FILE=$(mktemp)
+          echo "🚀 Running nbawebcast.py..."
+          python nbawebcast.py || { echo "::error::❌ Script failed"; exit 1; }
 
-          # Run script quietly
-          if ! python nbawebcast.py >"$LOG_FILE" 2>&1; then
-            echo "::error::❌ nbawebcast.py failed — see log below:"
-            cat "$LOG_FILE"
-            rm -f "$LOG_FILE"
+      - name: 🕵️ Verify NBAWebcast.m3u8
+        run: |
+          echo "🔍 Checking for NBAWebcast.m3u8..."
+          ls -lh || true
+          if [ ! -f "NBAWebcast.m3u8" ]; then
+            echo "::error::❌ NBAWebcast.m3u8 not found — script did not generate output."
             exit 1
           fi
+          echo "✅ NBAWebcast.m3u8 generated successfully"
+          echo "📄 Preview last lines:"
+          tail -n 10 NBAWebcast.m3u8 || true
 
-          rm -f "$LOG_FILE"
-          echo "✅ nbawebcast.py completed successfully"
-
-      - name: 💾 Commit & Safely Push if Playlists Changed
+      - name: 💾 Commit & Push if Updated
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add NBAWebcast.m3u8
-
+          git add -A
           if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
+            echo "✅ No new changes to commit"
             exit 0
           fi
 
-          git commit -m "🔁 Update playlists $(date -u +'%a %b %d %T UTC %Y')"
+          git commit -m "🏀 Update NBAWebcast.m3u8 $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
 
           sleep $((RANDOM % 10 + 5))
 
