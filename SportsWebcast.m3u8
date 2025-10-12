@@ -9,11 +9,6 @@ https://gate.pixelpanel.online/hdstream/embed/515.m3u8
 #EXTVLCOPT:http-referrer=https://nflwebcast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gate.pixelpanel.online/hdstream/embed/335.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Blues @ Flames" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Blues @ Flames
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://live.frpanels.top/hd100/hd100/91.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canadiens @ Blackhawks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Canadiens @ Blackhawks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -29,11 +24,6 @@ https://gate.pixelpanel.online/hdstream/embed/596.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gate.pixelpanel.online/hdstream/embed/602.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Devils @ Lightning" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Devils @ Lightning
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/610.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ducks @ Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Ducks @ Sharks
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
@@ -54,26 +44,6 @@ https://gate.pixelpanel.online/hdstream/embed/599.m3u8
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://gate.pixelpanel.online/hdstream/embed/608.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Maple Leafs @ Wings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Maple Leafs @ Wings
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/595.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Rangers @ Penguins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Rangers @ Penguins
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/606.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sabres @ Bruins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Sabres @ Bruins
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/587.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Senators @ Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Senators @ Panthers
-#EXTVLCOPT:http-origin=https://slapstreams.com/
-#EXTVLCOPT:http-referrer=https://slapstreams.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-https://gate.pixelpanel.online/hdstream/embed/597.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Stars @ Avalanche" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Hockey.png" group-title="NHLWebcast - Live Games",Stars @ Avalanche
 #EXTVLCOPT:http-origin=https://slapstreams.com/
 #EXTVLCOPT:http-referrer=https://slapstreams.com/
