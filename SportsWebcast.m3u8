@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Buffalo Bills @ Atlanta Falcons • Oct 13 at 4:15 PM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/scoreboard/atl.png&w=64&h=64" group-title="NFLWebcast - Live Games",Buffalo Bills @ Atlanta Falcons • Oct 13 at 4:15 PM PDT
-#EXTVLCOPT:http-origin=https://nflwebcast.top/
-#EXTVLCOPT:http-referrer=https://nflwebcast.top/
+#EXTVLCOPT:http-origin=https://embednow.top/
+#EXTVLCOPT:http-referrer=https://embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/falcons/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Football.Dummy.us" tvg-name="Chicago Bears @ Washington Commanders • Oct 13 at 5:15 PM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/scoreboard/wsh.png&w=64&h=64" group-title="NFLWebcast - Live Games",Chicago Bears @ Washington Commanders • Oct 13 at 5:15 PM PDT
-#EXTVLCOPT:http-origin=https://nflwebcast.top/
-#EXTVLCOPT:http-referrer=https://nflwebcast.top/
+#EXTVLCOPT:http-origin=https://embednow.top/
+#EXTVLCOPT:http-referrer=https://embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/commanders/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche @ Buffalo Sabres • Oct 13 at 9:30 AM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/buf.png&w=64&h=64" group-title="NHLWebcast - Live Games",Colorado Avalanche @ Buffalo Sabres • Oct 13 at 9:30 AM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://embednow.top/
+#EXTVLCOPT:http-referrer=https://embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/sabres/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Tampa Bay Lightning @ Boston Bruins • Oct 13 at 10:00 AM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/bos.png&w=64&h=64" group-title="NHLWebcast - Live Games",Tampa Bay Lightning @ Boston Bruins • Oct 13 at 10:00 AM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://embednow.top/
+#EXTVLCOPT:http-referrer=https://embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bruins/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators @ Ottawa Senators • Oct 13 at 10:00 AM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/ott.png&w=64&h=64" group-title="NHLWebcast - Live Games",Nashville Predators @ Ottawa Senators • Oct 13 at 10:00 AM PDT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-origin=https://embednow.top/
+#EXTVLCOPT:http-referrer=https://embednow.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/senators/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Winnipeg Jets @ New York Islanders • Oct 13 at 10:00 AM PDT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/nyi.png&w=64&h=64" group-title="NHLWebcast - Live Games",Winnipeg Jets @ New York Islanders • Oct 13 at 10:00 AM PDT
