@@ -4,61 +4,21 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/miamidolphins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres @ Boston Bruins • Oct 31 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/bos.png&w=64&h=64" group-title="NHLWebcast - Live Games",Buffalo Sabres @ Boston Bruins • Oct 31 at 7:00 AM PHT
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche @ Vegas Golden Knights • Nov 1 at 4:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/vgk.png&w=64&h=64" group-title="NHLWebcast - Live Games",Colorado Avalanche @ Vegas Golden Knights • Nov 1 at 4:00 AM PHT
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bostonbruins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames @ Ottawa Senators • Oct 31 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/ott.png&w=64&h=64" group-title="NHLWebcast - Live Games",Calgary Flames @ Ottawa Senators • Oct 31 at 7:00 AM PHT
+https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders @ Washington Capitals • Nov 1 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/wsh.png&w=64&h=64" group-title="NHLWebcast - Live Games",New York Islanders @ Washington Capitals • Nov 1 at 7:00 AM PHT
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ottawasenators/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Dallas Stars @ Tampa Bay Lightning • Oct 31 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/tb.png&w=64&h=64" group-title="NHLWebcast - Live Games",Dallas Stars @ Tampa Bay Lightning • Oct 31 at 7:00 AM PHT
+https://gg.poocloud.in/washingtoncapitals/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings @ Anaheim Ducks • Nov 1 at 10:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/ana.png&w=64&h=64" group-title="NHLWebcast - Live Games",Detroit Red Wings @ Anaheim Ducks • Nov 1 at 10:00 AM PHT
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/tampabaylightning/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Nashville Predators @ Philadelphia Flyers • Oct 31 at 7:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/phi.png&w=64&h=64" group-title="NHLWebcast - Live Games",Nashville Predators @ Philadelphia Flyers • Oct 31 at 7:00 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/philadelphiaflyers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders @ Carolina Hurricanes • Oct 31 at 7:30 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/car.png&w=64&h=64" group-title="NHLWebcast - Live Games",New York Islanders @ Carolina Hurricanes • Oct 31 at 7:30 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks @ St. Louis Blues • Oct 31 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/stl.png&w=64&h=64" group-title="NHLWebcast - Live Games",Vancouver Canucks @ St. Louis Blues • Oct 31 at 8:00 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/stlouisblues/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins @ Minnesota Wild • Oct 31 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/min.png&w=64&h=64" group-title="NHLWebcast - Live Games",Pittsburgh Penguins @ Minnesota Wild • Oct 31 at 8:00 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Chicago Blackhawks @ Winnipeg Jets • Oct 31 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/wpg.png&w=64&h=64" group-title="NHLWebcast - Live Games",Chicago Blackhawks @ Winnipeg Jets • Oct 31 at 8:00 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/winnipegjets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Rangers @ Edmonton Oilers • Oct 31 at 9:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/edm.png&w=64&h=64" group-title="NHLWebcast - Live Games",New York Rangers @ Edmonton Oilers • Oct 31 at 9:00 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/edmontonoilers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New Jersey Devils @ San Jose Sharks • Oct 31 at 10:00 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/sj.png&w=64&h=64" group-title="NHLWebcast - Live Games",New Jersey Devils @ San Jose Sharks • Oct 31 at 10:00 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Detroit Red Wings @ Los Angeles Kings • Oct 31 at 10:30 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/scoreboard/la.png&w=64&h=64" group-title="NHLWebcast - Live Games",Detroit Red Wings @ Los Angeles Kings • Oct 31 at 10:30 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers @ Toronto Blue Jays • Nov 1 at 8:00 AM PHT" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png" group-title="MLBWebcast - Live Games",Los Angeles Dodgers @ Toronto Blue Jays • Nov 1 at 8:00 AM PHT
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
