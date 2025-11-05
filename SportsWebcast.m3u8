@@ -9,41 +9,6 @@ https://gg.poocloud.in/ucl_golazo/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_goalsxtra/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Man City vs. B. Dortmund (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_mci/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Inter vs. Kairat Almaty (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_int/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7500130919702a346df264a8b551d3d8-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Benfica vs. Leverkusen (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_ben/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b88b6937de7f6a9465d2522273908d98-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Club Brugge vs. Barcelona (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_bru/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/342b04e4223154755f5aa2b0485b223f-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Ajax vs. Galatasaray (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_ajx/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b4be4f35f41c9b9e162d51d7a248988-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Marseille vs. Atalanta (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_mar/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/89b5c993faa1c30f9c28da5d93717ace-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Newcastle vs. Athletic Club (Nov 06 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_new/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a09c34df30498852e48f0eadc1fac7f3-thumbnail.jpg" group-title="NBA Games",Philadelphia 76ers vs. Cleveland Cavaliers (Nov 06 @ 08:00 AM PHT) [FDSNOH]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -74,6 +39,11 @@ https://gg.poocloud.in/nba_newyorkknicks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3a2a33fb92d69a9eb830758738265342-thumbnail.jpg" group-title="NCAA College Basketball",South Dakota Coyotes vs. Creighton Bluejays (Nov 06 @ 09:00 AM PHT) [Peacock]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/cbb-1/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/079a74d4191c8390952ee3164ca9548f-thumbnail.jpg" group-title="NHL Action",Utah Mammoth vs. Toronto Maple Leafs (Nov 06 @ 09:00 AM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
