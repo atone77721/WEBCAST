@@ -1,55 +1,45 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7b69b66b188088bf5ffdf254e2411a4e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Qarabağ vs. Chelsea (Nov 05 @ 09:45 AM PST) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_qar/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/08c1f5171006cb3df5e81dd5bf334151-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Pafos vs. Villarreal (Nov 05 @ 09:45 AM PST) [Champions League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_paf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ac5ffe0730c07087e3659b377e57714e-thumbnail.jpg" group-title="Global Football Streams",CBS Sports Golazo Show (Nov 05 @ 11:59 AM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ac5ffe0730c07087e3659b377e57714e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - CBS Sports Golazo Show (Nov 05 @ 11:59 AM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_golazo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b298c483d47e2a1e15899b4c6097fa99-thumbnail.jpg" group-title="Global Football Streams",TNT Sports Goals Show (Nov 05 @ 11:59 AM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b298c483d47e2a1e15899b4c6097fa99-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - TNT Sports Goals Show (Nov 05 @ 11:59 AM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_goalsxtra/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg" group-title="Global Football Streams",Man City vs. B. Dortmund (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/de63a262852ae09f47ad54559669a538-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Man City vs. B. Dortmund (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_mci/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg" group-title="Global Football Streams",Inter vs. Kairat Almaty (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4bd55f4b84c203035195023087ccbb99-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Inter vs. Kairat Almaty (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_int/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7500130919702a346df264a8b551d3d8-thumbnail.jpg" group-title="Global Football Streams",Benfica vs. Leverkusen (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7500130919702a346df264a8b551d3d8-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Benfica vs. Leverkusen (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_ben/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b88b6937de7f6a9465d2522273908d98-thumbnail.jpg" group-title="Global Football Streams",Club Brugge vs. Barcelona (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b88b6937de7f6a9465d2522273908d98-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Club Brugge vs. Barcelona (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_bru/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/342b04e4223154755f5aa2b0485b223f-thumbnail.jpg" group-title="Global Football Streams",Ajax vs. Galatasaray (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/342b04e4223154755f5aa2b0485b223f-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Ajax vs. Galatasaray (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_ajx/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b4be4f35f41c9b9e162d51d7a248988-thumbnail.jpg" group-title="Global Football Streams",Marseille vs. Atalanta (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b4be4f35f41c9b9e162d51d7a248988-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Marseille vs. Atalanta (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_mar/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/89b5c993faa1c30f9c28da5d93717ace-thumbnail.jpg" group-title="Global Football Streams",Newcastle vs. Athletic Club (Nov 05 @ 12:00 PM PST) [Champions League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/89b5c993faa1c30f9c28da5d93717ace-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Newcastle vs. Athletic Club (Nov 05 @ 12:00 PM PST) [Champions League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
