@@ -1,21 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a1a74762161ced9562881f9f05713462-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Oklahoma City Thunder vs. LA Clippers (Nov 05 @ 12:00 PM PHT) [Peacock]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_laclippers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/214db6e29b686f20de709d59e038e7f7-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Detroit Red Wings vs. Vegas Golden Knights (Nov 05 @ 12:00 PM PHT) [Scripps Sports]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9c1fa1d21aaf60da2ec03aab97ab4551-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Florida Panthers vs. Anaheim Ducks (Nov 05 @ 12:00 PM PHT) [KCOP]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/anaheimducks/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/48b9ef98708e113d959f207e52fabdab-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Winnipeg Jets vs. Los Angeles Kings (Nov 05 @ 12:30 PM PHT) [FanDuel SN West]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/losangeleskings/index.m3u8
