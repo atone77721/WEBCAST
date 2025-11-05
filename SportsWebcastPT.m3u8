@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/59dd2844a7644b03837f2000673b9479-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Phoenix Suns vs. Golden State Warriors (Nov 04 @ 07:00 PM PST) [NBCSBA]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_goldenstatewarriors/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3b4a5d74555921b1f0858deb52330262-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Tampa Bay Lightning vs. Colorado Avalanche (Nov 04 @ 07:30 PM PST) [Altitude Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -29,8 +24,8 @@ https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/eaba06443e7594c61028d9c16c532fac-thumbnail.jpg" group-title="NCAA College Basketball",🔴 ENDED - Texas Longhorns vs. Duke Blue Devils (Nov 04 @ 05:45 PM PST) [ESPN]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/59dd2844a7644b03837f2000673b9479-thumbnail.jpg" group-title="NBA Games",🔴 ENDED - Phoenix Suns vs. Golden State Warriors (Nov 04 @ 07:00 PM PST) [NBCSBA]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nba_goldenstatewarriors/tracks-v1a1/mono.ts.m3u8
