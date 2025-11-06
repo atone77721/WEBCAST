@@ -1,95 +1,95 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7667bfb4147d701265dad618cb466e01-thumbnail.jpg" group-title="Global Football Streams",CBS Sports Golazo Show (Nov 06 @ 09:44 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7667bfb4147d701265dad618cb466e01-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - CBS Sports Golazo Show (Nov 06 @ 09:44 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ucl_golazo/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/eb155fba339d5baaff555fb2a6116f15-thumbnail.jpg" group-title="Global Football Streams",GNK Dinamo vs. Celta (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/eb155fba339d5baaff555fb2a6116f15-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - GNK Dinamo vs. Celta (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_din/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/444892b18e950e0fbc19f7af19c0b355-thumbnail.jpg" group-title="Global Football Streams",Salzburg vs. Go Ahead Eagles (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/444892b18e950e0fbc19f7af19c0b355-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Salzburg vs. Go Ahead Eagles (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_sal/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/66c6081bad3e7e80f74c5749a32aa211-thumbnail.jpg" group-title="Global Football Streams",Crvena Zvezda vs. Lille (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/66c6081bad3e7e80f74c5749a32aa211-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Crvena Zvezda vs. Lille (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_zve/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/16fa52863b27fd9e935dc68e9bea929c-thumbnail.jpg" group-title="Global Football Streams",Basel vs. FCSB (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/16fa52863b27fd9e935dc68e9bea929c-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Basel vs. FCSB (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_bsl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cd7e921080fe7e1f3ebf7349071073b7-thumbnail.jpg" group-title="Global Football Streams",Midtjylland vs. Celtic (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cd7e921080fe7e1f3ebf7349071073b7-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Midtjylland vs. Celtic (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_mid/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0d03fba097674d494037f08ff73cd1f3-thumbnail.jpg" group-title="Global Football Streams",Sturm Graz vs. Nott'm Forest (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0d03fba097674d494037f08ff73cd1f3-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Sturm Graz vs. Nott'm Forest (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_sgr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/636810e8bc6c0f81aac23400ea6ed77e-thumbnail.jpg" group-title="Global Football Streams",Nice vs. Freiburg (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/636810e8bc6c0f81aac23400ea6ed77e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Nice vs. Freiburg (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_nic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f194a801274a365dd353dbd39ceb1821-thumbnail.jpg" group-title="Global Football Streams",Malmö vs. Panathinaikos (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f194a801274a365dd353dbd39ceb1821-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Malmö vs. Panathinaikos (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_mal/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2fdeccd51f72e5ddc41b857b94f9d55c-thumbnail.jpg" group-title="Global Football Streams",Utrecht vs. Porto (Nov 06 @ 09:45 AM PST) [Europa League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2fdeccd51f72e5ddc41b857b94f9d55c-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Utrecht vs. Porto (Nov 06 @ 09:45 AM PST) [Europa League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uel_utr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/db5c460679d8910fd825ce043bef5cf2-thumbnail.jpg" group-title="Global Football Streams",Shakhtar vs. Breiðablik (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/db5c460679d8910fd825ce043bef5cf2-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Shakhtar vs. Breiðablik (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_shk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/00fb94e3d96796b0a543740640e7b3d5-thumbnail.jpg" group-title="Global Football Streams",Sparta Praha vs. Raków (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/00fb94e3d96796b0a543740640e7b3d5-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Sparta Praha vs. Raków (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_spa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b6e66f39102a2b4df603e3e9ea3d8bd7-thumbnail.jpg" group-title="Global Football Streams",Mainz vs. Fiorentina (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b6e66f39102a2b4df603e3e9ea3d8bd7-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Mainz vs. Fiorentina (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_mai/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/79660bd2d6db1f8a981b309c2d906129-thumbnail.jpg" group-title="Global Football Streams",Celje vs. Legia Warszawa (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/79660bd2d6db1f8a981b309c2d906129-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Celje vs. Legia Warszawa (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_clj/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5a8307ec11de5ae464abf30623bfc96f-thumbnail.jpg" group-title="Global Football Streams",KuPS Kuopio vs. S. Bratislava (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5a8307ec11de5ae464abf30623bfc96f-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - KuPS Kuopio vs. S. Bratislava (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_kup/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1303c74d9392a7193463ee549392a546-thumbnail.jpg" group-title="Global Football Streams",AEK Athens vs. Shamrock Rovers (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1303c74d9392a7193463ee549392a546-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - AEK Athens vs. Shamrock Rovers (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_aek/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7ff3080620510cd17a9f5513c012e94b-thumbnail.jpg" group-title="Global Football Streams",Samsunspor vs. Hamrun Spartans (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7ff3080620510cd17a9f5513c012e94b-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Samsunspor vs. Hamrun Spartans (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_sam/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0d8dbbeac4b87d5c7aa1fd3dd2f4bce7-thumbnail.jpg" group-title="Global Football Streams",AEK Larnaca vs. Aberdeen (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0d8dbbeac4b87d5c7aa1fd3dd2f4bce7-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - AEK Larnaca vs. Aberdeen (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/uecl_lar/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cd30a5fc9b4620138cc32d2a01ca59ff-thumbnail.jpg" group-title="Global Football Streams",Noah vs. Sigma Olomouc (Nov 06 @ 09:45 AM PST) [Conference League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cd30a5fc9b4620138cc32d2a01ca59ff-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Noah vs. Sigma Olomouc (Nov 06 @ 09:45 AM PST) [Conference League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
