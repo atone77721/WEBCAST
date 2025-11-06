@@ -2,7 +2,7 @@ name: 🏈🏒⚾ Update SportsWebcast Playlist 📺
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+       - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 permissions:
@@ -11,85 +11,60 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 25  # prevent endless hangs
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
       - name: 🐍 Set up Python 3.11
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: 📦 Install dependencies (Python + Playwright)
+      - name: 📦 Install Python dependencies & Playwright
         run: |
           python -m pip install --upgrade pip
-          pip install playwright aiohttp pytz lxml beautifulsoup4 urllib3
+          pip install playwright urllib3 aiohttp beautifulsoup4 lxml pytz
           playwright install-deps
-          playwright install firefox
+          playwright install
 
-      - name: 🔐 Decode and prepare webcast script
+      - name: 🔐 Decode Base64 Script from Secret
         env:
           WEBCAST_B64: ${{ secrets.WEBCAST_B64 }}
         run: |
           echo "$WEBCAST_B64" | base64 --decode > webcast.py
-          chmod +x webcast.py
-          echo "✅ webcast.py restored from secret"
           ls -lh webcast.py
 
-      - name: 🎯 Run SportsWebcast scraper
-        run: |
-          echo "🚀 Running scraper at $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          python webcast.py
-          echo "✅ Script completed successfully"
+      - name: 🎯 Run scraping script
+        run: python webcast.py
 
-      - name: 🧹 Clean up old backup files (keep last 5)
-        run: |
-          echo "🧹 Cleaning up old backup files..."
-          ls -t SportsWebcast_backup_*.m3u8 2>/dev/null | tail -n +6 | xargs -r rm -f
-          echo "✅ Backup cleanup done"
-
-      - name: 💾 Commit & safely push updated playlist
+      - name: 💾 Commit & Safely Push if Playlist Changed
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Add playlist and recent backups
           git add SportsWebcast.m3u8
-          git add SportsWebcast_backup_*.m3u8 || true
 
           if git diff --cached --quiet; then
-            echo "✅ No new playlist changes to commit."
+            echo "✅ No changes to commit"
             exit 0
           fi
 
-          git commit -m "🔁 Auto-update playlist $(date -u +'%a %b %d %T UTC %Y')"
-
-          echo "⏳ Pushing changes..."
+          git commit -m "🔁 Update playlist $(date -u +'%a %b %d %T UTC %Y')"
           sleep $((RANDOM % 10 + 5))
 
           if ! git push origin main; then
-            echo "⚠️ Push failed — retrying with rebase..."
-            git pull --rebase origin main || {
-              echo "❌ Rebase failed; aborting to prevent data corruption."
+            echo "⚠️ Push rejected. Trying safe fetch + merge..."
+            git pull origin main --rebase || {
+              echo "❌ Rebase failed. Exiting to avoid corruption."
               exit 1
             }
             git push origin main || {
-              echo "❌ Final push failed — remote changed again."
+              echo "❌ Second push failed. Remote may have changed again."
               exit 1
             }
           fi
-
-      - name: 📊 Summary
-        if: always()
-        run: |
-          echo "-------------------------------------------"
-          echo "🏁 Workflow complete!"
-          echo "🕓 Completed at: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          echo "📺 Updated: SportsWebcast.m3u8"
-          echo "-------------------------------------------"
