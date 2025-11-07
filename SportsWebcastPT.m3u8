@@ -3,17 +3,17 @@
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/index.m3u8
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg" group-title="Racing Action",Brazillian Grand Prix - Sprint Quali (Nov 07 @ 10:30 AM PST) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/index.m3u8
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e63658470cf0a195ee74d8d75853918-thumbnail.jpg" group-title="Global Football Streams",Bremen vs. Wolfsburg (Nov 07 @ 11:30 AM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_svw/index.m3u8
+https://gg.poocloud.in/bundesliga_svw/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1d553a52f3ed116c7717d354941cc9c4-thumbnail.jpg" group-title="Global Football Streams",Pisa vs. Cremonese (Nov 07 @ 11:45 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -28,7 +28,7 @@ https://gg.poocloud.in/ligue1_pfc/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_elc/index.m3u8
+https://gg.poocloud.in/ll_elc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ad675274a30ebdf527ae7e41297174ab-thumbnail.jpg" group-title="NBA Games",Boston Celtics vs. Orlando Magic (East Group B) (Nov 07 @ 04:00 PM PST) [FDSNFL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
