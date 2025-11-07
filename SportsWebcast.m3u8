@@ -1,19 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e63658470cf0a195ee74d8d75853918-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Bremen vs. Wolfsburg (Nov 08 @ 03:30 AM PHT) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_svw/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1d553a52f3ed116c7717d354941cc9c4-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Pisa vs. Cremonese (Nov 08 @ 03:45 AM PHT) [Serie A]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_pis/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c814af81abe4c9c376f1ab2805286e6b-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Paris FC vs. Rennes (Nov 08 @ 03:45 AM PHT) [Ligue 1]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_pfc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dc45bf50a1f965d8193b63f30c803f67-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Elche CF vs. Real Sociedad (Nov 08 @ 04:00 AM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -33,12 +18,12 @@ https://gg.poocloud.in/nba_washingtonwizards/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/Peacock/index.m3u8
+https://gg.poocloud.in/cbb-1/index.m3u8
 #EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a853a09368cee35647098815e88ec790-thumbnail.jpg" group-title="NCAA College Basketball",Valparaiso Beacons vs. Kentucky Wildcats (Nov 08 @ 08:00 AM PHT) [SECN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/SECN+/index.m3u8
+https://gg.poocloud.in/cbb-2/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1014f813d6a17d4dce53425edeb9bc99-thumbnail.jpg" group-title="NBA Games",Kansas Jayhawks vs. North Carolina Tar Heels (Nov 08 @ 08:00 AM PHT) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -63,7 +48,7 @@ https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/Peacock/index.m3u8
+https://gg.poocloud.in/cbb-3/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1dca98f54f51cdd305bd0a0be61f9418-thumbnail.jpg" group-title="NBA Games",Charlotte Hornets vs. Miami Heat (East Group C) (Nov 08 @ 09:00 AM PHT) [FDSNSU]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
