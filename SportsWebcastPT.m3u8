@@ -33,7 +33,7 @@ https://gg.poocloud.in/buffalosabres/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/newjerseydevils/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/newjerseydevils/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/85476cf0b324d093db7e196ef576fce1-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Minnesota Wild vs. Carolina Hurricanes (Nov 06 @ 05:00 PM PST) [FanDuel SN South]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -44,32 +44,32 @@ https://gg.poocloud.in/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/299cb8922c6e4acec9f916581a868cb4-thumbnail.jpg" group-title="NFL Action",Raiders vs. Broncos (with Next Gen Stats) (Nov 06 @ 05:15 PM PST) [Prime Vision]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/299cb8922c6e4acec9f916581a868cb4-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Raiders vs. Broncos (with Next Gen Stats) (Nov 06 @ 05:15 PM PST) [Prime Vision]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/primenextgen/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/949a5d21395579dc9f3b85bb53f179a9-thumbnail.jpg" group-title="NFL Action",Las Vegas Raiders vs. Denver Broncos (Nov 06 @ 05:15 PM PST) [Prime Video]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/949a5d21395579dc9f3b85bb53f179a9-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Las Vegas Raiders vs. Denver Broncos (Nov 06 @ 05:15 PM PST) [Prime Video]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/denverbroncos/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/51c2bdafec0c498ca2e3a12ab3771080-thumbnail.jpg" group-title="NHL Action",Washington Capitals vs. Pittsburgh Penguins (Nov 06 @ 05:30 PM PST) [ESPN+]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/51c2bdafec0c498ca2e3a12ab3771080-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Washington Capitals vs. Pittsburgh Penguins (Nov 06 @ 05:30 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg" group-title="NBA Games",LA Clippers vs. Phoenix Suns (Nov 06 @ 06:00 PM PST) [NBA TV]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5ce65f7b57feb0188808d4eeb80844b-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - LA Clippers vs. Phoenix Suns (Nov 06 @ 06:00 PM PST) [NBA TV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/50c69b6897eb483e7ea237d1d61ef04a-thumbnail.jpg" group-title="NHL Action",Philadelphia Flyers vs. Nashville Predators (Nov 06 @ 06:00 PM PST) [FanDuel SN South]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/50c69b6897eb483e7ea237d1d61ef04a-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Philadelphia Flyers vs. Nashville Predators (Nov 06 @ 06:00 PM PST) [FanDuel SN South]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nashvillepredators/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a4edbfad5d69ca62c197f6f3dfc8098a-thumbnail.jpg" group-title="NHL Action",Anaheim Ducks vs. Dallas Stars (Nov 06 @ 06:00 PM PST) [Victory+]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a4edbfad5d69ca62c197f6f3dfc8098a-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Anaheim Ducks vs. Dallas Stars (Nov 06 @ 06:00 PM PST) [Victory+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -78,9 +78,9 @@ https://gg.poocloud.in/dallasstars/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5f7be1d5779c0ca16dec91f1e8b83fb-thumbnail.jpg" group-title="NHL Action",Florida Panthers vs. Los Angeles Kings (Nov 06 @ 08:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangeleskings/index.m3u8
+https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
