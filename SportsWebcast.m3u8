@@ -4,26 +4,26 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ligue1_mar/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg" group-title="NFL Action",Indiana Hoosiers vs. Penn State Nittany Lions (Nov 09 @ 01:00 AM PHT) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Indiana Hoosiers vs. Penn State Nittany Lions (Nov 09 @ 01:00 AM PHT) [FOX]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1a0ba998a3486f306d523b411dc51b55-thumbnail.jpg" group-title="NFL Action",Georgia Bulldogs vs. Mississippi State Bulldogs (Nov 09 @ 01:00 AM PHT) [ESPN]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1a0ba998a3486f306d523b411dc51b55-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Georgia Bulldogs vs. Mississippi State Bulldogs (Nov 09 @ 01:00 AM PHT) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" group-title="NFL Action",BYU Cougars vs. Texas Tech Red Raiders (Nov 09 @ 01:00 AM PHT) [ABC]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0b554946e401035aed44cfcbe5e95102-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - BYU Cougars vs. Texas Tech Red Raiders (Nov 09 @ 01:00 AM PHT) [ABC]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d9c0aec6e5c87dbd1c4b0b82f8993b68-thumbnail.jpg" group-title="Global Football Streams",Juventus vs. Torino (Nov 09 @ 01:00 AM PHT) [Serie A]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d9c0aec6e5c87dbd1c4b0b82f8993b68-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Juventus vs. Torino (Nov 09 @ 01:00 AM PHT) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_juv/index.m3u8
+https://gg.poocloud.in/seriea_juv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ee646e582c0392e3fb0d6eb257fabfc7-thumbnail.jpg" group-title="Global Football Streams",Atlético de Madrid vs. Levante UD (Nov 09 @ 01:30 AM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -63,12 +63,12 @@ https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/newjerseydevils/index.m3u8
+https://gg.poocloud.in/newjerseydevils/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",Grand Slam of Darts - Day 1 Evening (Nov 09 @ 03:00 AM PHT) [PDC Darts]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d1ae159f63df10442a712d6b8d5d32d3-thumbnail.jpg" group-title="NHL Action",Ottawa Senators vs. Philadelphia Flyers (Nov 09 @ 03:00 AM PHT) [NBC Sports Phil]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -88,7 +88,7 @@ https://gg.poocloud.in/ll_esp/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_che/index.m3u8
+https://gg.poocloud.in/epl_che/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/36cf3eca92e5d53f32e09bac9266f5f8-thumbnail.jpg" group-title="Global Football Streams",AS Monaco vs. RC Lens (Nov 09 @ 04:05 AM PHT) [Ligue 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -103,27 +103,27 @@ https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/CBS/index.m3u8
+https://gg.poocloud.in/CBS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5f1b07db7a8aa5d34a6a928fa3bc7fed-thumbnail.jpg" group-title="NFL Action",Syracuse Orange vs. Miami Hurricanes (Nov 09 @ 04:30 AM PHT) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/81e1be8271bd2834945c820222f9db49-thumbnail.jpg" group-title="NFL Action",❌ NO STREAM - Auburn Tigers vs. Vanderbilt Commodores (Nov 09 @ 05:00 AM PHT) [SEC Network]
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/81e1be8271bd2834945c820222f9db49-thumbnail.jpg" group-title="NFL Action",Auburn Tigers vs. Vanderbilt Commodores (Nov 09 @ 05:00 AM PHT) [SEC Network]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6a4cdf0873030b0a6ca8f37ed6667142-thumbnail.jpg" group-title="Combat Sports",❌ NO STREAM - UFC Fight Night: Bonfim vs. Brown (Nov 09 @ 05:00 AM PHT) [ESPN]
+https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6a4cdf0873030b0a6ca8f37ed6667142-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Bonfim vs. Brown (Nov 09 @ 05:00 AM PHT) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg" group-title="NFL Action",❌ NO STREAM - Washington Huskies vs. Wisconsin Badgers (Nov 09 @ 05:30 AM PHT) [BTN]
+https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a54070f277ea5ada4b8bcd02bc45cc79-thumbnail.jpg" group-title="NFL Action",Washington Huskies vs. Wisconsin Badgers (Nov 09 @ 05:30 AM PHT) [BTN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
+https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e7f993addc85625519f625482c394471-thumbnail.jpg" group-title="NHL Action",Dallas Stars vs. Nashville Predators (Nov 09 @ 05:30 AM PHT) [FanDuel SN South]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -133,7 +133,7 @@ https://gg.poocloud.in/nashvillepredators/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0a1938136cee5375302754b8ac25ba6a-thumbnail.jpg" group-title="NFL Action",California Golden Bears vs. Louisville Cardinals (Nov 09 @ 08:00 AM PHT) [ESPN2]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -253,7 +253,7 @@ https://gg.poocloud.in/seriea_ata/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4610ca98fd420264c2370344a235ba76-thumbnail.jpg" group-title="Global Football Streams",Athletic Club vs. Real Oviedo (Nov 09 @ 09:00 PM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
