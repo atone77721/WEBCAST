@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c483856dec124b691c58176e4ce3a4b1-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - OM vs. Brest (Nov 09 @ 12:00 AM PHT) [Ligue 1]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_mar/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/83f2dc4572174a8b4ad5c53ad4d4dbce-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Indiana Hoosiers vs. Penn State Nittany Lions (Nov 09 @ 01:00 AM PHT) [FOX]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -59,17 +54,17 @@ https://gg.poocloud.in/ligue1_lhv/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6ce75950acae386156b0e8ce04add36f-thumbnail.jpg" group-title="NHL Action",Pittsburgh Penguins vs. New Jersey Devils (Nov 09 @ 02:30 AM PHT) [MSGSN]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6ce75950acae386156b0e8ce04add36f-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Pittsburgh Penguins vs. New Jersey Devils (Nov 09 @ 02:30 AM PHT) [MSGSN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newjerseydevils/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",Grand Slam of Darts - Day 1 Evening (Nov 09 @ 03:00 AM PHT) [PDC Darts]
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",🟢 LIVE - Grand Slam of Darts - Day 1 Evening (Nov 09 @ 03:00 AM PHT) [PDC Darts]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d1ae159f63df10442a712d6b8d5d32d3-thumbnail.jpg" group-title="NHL Action",Ottawa Senators vs. Philadelphia Flyers (Nov 09 @ 03:00 AM PHT) [NBC Sports Phil]
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d1ae159f63df10442a712d6b8d5d32d3-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Ottawa Senators vs. Philadelphia Flyers (Nov 09 @ 03:00 AM PHT) [NBC Sports Phil]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -78,7 +73,7 @@ https://gg.poocloud.in/philadelphiaflyers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_par/index.m3u8
+https://gg.poocloud.in/seriea_par/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0dafbcac38e4c92da8e98e488a47ad75-thumbnail.jpg" group-title="Global Football Streams",RCD Espanyol de Barcelona vs. Villarreal CF (Nov 09 @ 04:00 AM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -253,7 +248,7 @@ https://gg.poocloud.in/seriea_ata/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/index.m3u8
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4610ca98fd420264c2370344a235ba76-thumbnail.jpg" group-title="Global Football Streams",Athletic Club vs. Real Oviedo (Nov 09 @ 09:00 PM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
