@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg" group-title="Global Football Streams",Tottenham Hotspur vs. Manchester United (Nov 08 @ 04:30 AM PST) [Premier League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Tottenham Hotspur vs. Manchester United (Nov 08 @ 04:30 AM PST) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_tot/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",Grand Slam of Darts - Day 1 Afternoon (Nov 08 @ 05:00 AM PST) [PDC Darts]
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",🟢 LIVE - Grand Slam of Darts - Day 1 Afternoon (Nov 08 @ 05:00 AM PST) [PDC Darts]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ff542120489afd98b78d9679e4e2890c-thumbnail.jpg" group-title="Global Football Streams",Girona FC vs. Deportivo Alavés (Nov 08 @ 05:00 AM PST) [LaLiga]
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ff542120489afd98b78d9679e4e2890c-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Girona FC vs. Deportivo Alavés (Nov 08 @ 05:00 AM PST) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -133,7 +133,7 @@ https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/index.m3u8
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8596f4d6ad06689f206f8a5df75dc544-thumbnail.jpg" group-title="Global Football Streams",Parma vs. Milan (Nov 08 @ 11:45 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
