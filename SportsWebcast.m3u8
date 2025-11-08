@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dcc267d047354572014411f5c4b1266e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Tottenham Hotspur vs. Manchester United (Nov 08 @ 08:30 PM PHT) [Premier League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_tot/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",🟢 LIVE - Grand Slam of Darts - Day 1 Afternoon (Nov 08 @ 09:00 PM PHT) [PDC Darts]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -29,42 +24,42 @@ https://gg.poocloud.in/seriea_lec/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg" group-title="Global Football Streams",Goal Arena (Nov 08 @ 10:30 PM PHT) [Bundesliga]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c035a04a4d84afedca7706c23aabf3e2-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Goal Arena (Nov 08 @ 10:30 PM PHT) [Bundesliga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_goalarena/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0d7bd594ba9cf546b559870e7666a348-thumbnail.jpg" group-title="Global Football Streams",Union Berlin vs. Bayern (Nov 08 @ 10:30 PM PHT) [ESPN+]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0d7bd594ba9cf546b559870e7666a348-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Union Berlin vs. Bayern (Nov 08 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_fcu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5c393b16d0ea4329c08d632ec5d0ab3f-thumbnail.jpg" group-title="Global Football Streams",Leverkusen vs. Heidenheim (Nov 08 @ 10:30 PM PHT) [ESPN+]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5c393b16d0ea4329c08d632ec5d0ab3f-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Leverkusen vs. Heidenheim (Nov 08 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_b04/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c2db36351d22dcd5c4087f968a3093e8-thumbnail.jpg" group-title="Global Football Streams",Hamburg vs. Dortmund (Nov 08 @ 10:30 PM PHT) [ESPN+]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c2db36351d22dcd5c4087f968a3093e8-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Hamburg vs. Dortmund (Nov 08 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_hsv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e33d2e33fe26e382f17d766e9d63f66-thumbnail.jpg" group-title="Global Football Streams",Hoffenheim vs. RB Leipzig (Nov 08 @ 10:30 PM PHT) [ESPN+]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e33d2e33fe26e382f17d766e9d63f66-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Hoffenheim vs. RB Leipzig (Nov 08 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_tsg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ee8d7150172f60feed8dad74eed40d56-thumbnail.jpg" group-title="Global Football Streams",Everton vs. Fulham (Nov 08 @ 11:00 PM PHT) [Premier League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ee8d7150172f60feed8dad74eed40d56-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Everton vs. Fulham (Nov 08 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_eve/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7ddca3c61f36743c39e6be0b09ff272c-thumbnail.jpg" group-title="Global Football Streams",West Ham United vs. Burnley (Nov 08 @ 11:00 PM PHT) [Premier League]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7ddca3c61f36743c39e6be0b09ff272c-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - West Ham United vs. Burnley (Nov 08 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_whu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3ec94612d98080a46b4fb71a9b505cda-thumbnail.jpg" group-title="Global Football Streams",Sevilla FC vs. CA Osasuna (Nov 08 @ 11:15 PM PHT) [LaLiga]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3ec94612d98080a46b4fb71a9b505cda-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Sevilla FC vs. CA Osasuna (Nov 08 @ 11:15 PM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
