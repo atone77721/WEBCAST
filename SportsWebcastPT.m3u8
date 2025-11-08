@@ -1,11 +1,1 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/aef5b024f271e3167bbc1ee7f2a09b46-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Pepperdine Waves vs. UCLA Bruins (Nov 07 @ 07:30 PM PST) [BTN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5f5bfd7f6eb5bdb64bfd6a95864bf84d-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Winnipeg Jets vs. San Jose Sharks (Nov 07 @ 08:00 PM PST) [NBC Sports BA]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanjosesharks/index.m3u8
