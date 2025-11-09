@@ -14,11 +14,6 @@ https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d647a35eefcfdc7c5c16c83736f11483-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Dallas Mavericks vs. Washington Wizards (Nov 08 @ 04:00 PM PST) [MNMT]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f4392abdbaf2c54404a54eb692e9f345-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - LSU Tigers vs. Alabama Crimson Tide (Nov 08 @ 04:30 PM PST) [ABC]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -48,7 +43,7 @@ https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_miamiheat/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f58fae5522ec3b2d9f06dc8402c28447-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - New Orleans Pelicans vs. San Antonio Spurs (Nov 08 @ 05:00 PM PST) [FDSNSW]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -94,7 +89,7 @@ https://gg.poocloud.in/stlouisblues/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg" group-title="NBA Games",Indiana Pacers vs. Denver Nuggets (Nov 08 @ 06:00 PM PST) [ALT]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Indiana Pacers vs. Denver Nuggets (Nov 08 @ 06:00 PM PST) [ALT]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -103,7 +98,7 @@ https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_laclippers/index.m3u8
+https://gg.poocloud.in/nba_laclippers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg" group-title="NHL Action",Colorado Avalanche vs. Edmonton Oilers (Nov 08 @ 08:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -113,14 +108,14 @@ https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vancouvercanucks/index.m3u8
+https://gg.poocloud.in/vancouvercanucks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/239534308d94df6102e69e400955fec4-thumbnail.jpg" group-title="NHL Action",Anaheim Ducks vs. Vegas Golden Knights (Nov 08 @ 08:00 PM PST) [Scripps Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vegasgoldenknights/index.m3u8
+https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/24ae95ab6931222fed48d32314035ca6-thumbnail.jpg" group-title="NHL Action",Florida Panthers vs. San Jose Sharks (Nov 08 @ 08:00 PM PST) [NBC Sports BA]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanjosesharks/index.m3u8
+https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
