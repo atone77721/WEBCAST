@@ -1,19 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7910a967b3592719a4f45983531a2a53-thumbnail.jpg" group-title="Combat Sports",🟢 LIVE - UFC Fight Night: Bonfim vs. Brown (Nov 09 @ 05:00 AM PHT) [ESPN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a692f5d35307fa1b1316f953a5a6f0ab-thumbnail.jpg" group-title="Combat Sports",🟢 LIVE - Ortiz Jr. vs. Lubin (Nov 09 @ 09:00 AM PHT) [DAZN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/daznboxing/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/918b17119387fc2b8c869048bf41c974-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Indiana Pacers vs. Denver Nuggets (Nov 09 @ 10:00 AM PHT) [ALT]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Phoenix Suns vs. LA Clippers (Nov 09 @ 11:30 AM PHT) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
