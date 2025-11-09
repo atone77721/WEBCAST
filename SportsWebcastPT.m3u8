@@ -4,11 +4,11 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/422885f01d7b92847befdad10a3b4152-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Phoenix Suns vs. LA Clippers (Nov 08 @ 07:30 PM PST) [ESPN]
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/34a3156cfba40b42f757d0a6ad226cd1-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Oklahoma Sooners vs. Gonzaga Bulldogs (Nov 08 @ 07:30 PM PST) [ESPN2]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_laclippers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a86af6a069b37b241c40af7a1767749b-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Colorado Avalanche vs. Edmonton Oilers (Nov 08 @ 08:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -28,4 +28,4 @@ https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/sanjosesharks/index.m3u8
