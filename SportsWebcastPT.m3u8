@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0f1db6fabc686c689b3752761a5fd791-thumbnail.jpg" group-title="Global Football Streams",Atalanta vs. Sassuolo (Nov 09 @ 03:30 AM PST) [Serie A]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0f1db6fabc686c689b3752761a5fd791-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Atalanta vs. Sassuolo (Nov 09 @ 03:30 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -103,7 +103,7 @@ https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_val/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ll_val/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f8a50589cb65a0e90b7ecdbbfcacd56a-thumbnail.jpg" group-title="Global Football Streams",RCD Mallorca vs. Getafe CF (Nov 09 @ 09:30 AM PST) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
