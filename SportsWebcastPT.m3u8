@@ -33,22 +33,12 @@ https://gg.poocloud.in/tampabaybuccaneers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/carolinapanthers/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0c43d8b844a739daed4846ca054c995f-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Jacksonville Jaguars vs. Houston Texans (Nov 09 @ 10:00 AM PST) [CBS]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/houstontexans/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5789d36e410d1ea6a2cf74dee49080d7-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Chicago Blackhawks vs. Detroit Red Wings (Nov 09 @ 10:00 AM PST) [CHSN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/detroitredwings/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5fd53eb60168786a0728b49a65569a8d-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Frankfurt vs. Mainz (Nov 09 @ 10:30 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_sge/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5ef1a7410916e017bf7cf1d5629ae3c1-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Los Angeles Kings vs. Pittsburgh Penguins (Nov 09 @ 11:00 AM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -74,17 +64,17 @@ https://gg.poocloud.in/ligue1_lyn/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ll_cel/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg" group-title="NBA Games",Houston Rockets vs. Milwaukee Bucks (Nov 09 @ 12:30 PM PST) [FDSNWI]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/830a7812bc9446e2c6ec90ad4c698733-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Houston Rockets vs. Milwaukee Bucks (Nov 09 @ 12:30 PM PST) [FDSNWI]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg" group-title="Combat Sports",MF Duel: Lil CraCra vs. Fox The G (Nov 09 @ 01:00 PM PST) [DAZN]
+https://gg.poocloud.in/nba_milwaukeebucks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2901a10bcde47db4cd3e6b6ad32aa4e4-thumbnail.jpg" group-title="Combat Sports",🟢 LIVE - MF Duel: Lil CraCra vs. Fox The G (Nov 09 @ 01:00 PM PST) [DAZN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8ba3f500dc3d3f6a229a4435aa6b18dd-thumbnail.jpg" group-title="NFL Action",Arizona Cardinals vs. Seattle Seahawks (Nov 09 @ 01:05 PM PST) [CBS]
+https://gg.poocloud.in/daznboxing/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8ba3f500dc3d3f6a229a4435aa6b18dd-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Arizona Cardinals vs. Seattle Seahawks (Nov 09 @ 01:05 PM PST) [CBS]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -93,7 +83,7 @@ https://gg.poocloud.in/seattleseahawks/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
+https://gg.poocloud.in/seattleseahawks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/245b663afa3e766a02528a16c8cebafb-thumbnail.jpg" group-title="NFL Action",Detroit Lions vs. Washington Commanders (Nov 09 @ 01:25 PM PST) [FOX]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
