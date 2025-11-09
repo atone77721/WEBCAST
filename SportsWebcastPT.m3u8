@@ -4,16 +4,11 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4610ca98fd420264c2370344a235ba76-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Athletic Club vs. Real Oviedo (Nov 09 @ 05:00 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_ath/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7e5a5d5d101ec513c9f8e00aea73e1ed-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Goal Rush (Nov 09 @ 06:00 AM PST) [Peacock]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_goalrush/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_goalrush/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5d177ab1a18ac8241576dc2b65dde26a-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Bologna vs. Napoli (Nov 09 @ 06:00 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -33,12 +28,12 @@ https://gg.poocloud.in/epl_avl/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_bre/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_bre/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3dbaed171eeb49a2ff10805a2bb3978a-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Crystal Palace vs. Brighton and Hove Albion (Nov 09 @ 06:00 AM PST) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_cry/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/epl_cry/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6ee4180cd1ee0e4293a6bc8a41f17c9e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Nottingham Forest vs. Leeds United (Nov 09 @ 06:00 AM PST) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -53,32 +48,32 @@ https://gg.poocloud.in/ligue1_lor/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/indianapoliscolts/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/indianapoliscolts/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/487a9764d5853e93999c0b698debff1f-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Freiburg vs. St. Pauli (Nov 09 @ 06:30 AM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/bundesliga_scf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/507770aa44a9eaaaebbbe8db296d9ee0-thumbnail.jpg" group-title="Global Football Streams",Rayo Vallecano vs. Real Madrid (Nov 09 @ 07:15 AM PST) [LaLiga]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/507770aa44a9eaaaebbbe8db296d9ee0-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Rayo Vallecano vs. Real Madrid (Nov 09 @ 07:15 AM PST) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ll_ray/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ca05450cc15b820627b6320aab679a9f-thumbnail.jpg" group-title="Global Football Streams",Angers SCO vs. AJ Auxerre (Nov 09 @ 08:15 AM PST) [Ligue 1]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ca05450cc15b820627b6320aab679a9f-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Angers SCO vs. AJ Auxerre (Nov 09 @ 08:15 AM PST) [Ligue 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_anr/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/90f0e8745878fc5a2475498467113cde-thumbnail.jpg" group-title="Global Football Streams",FC Metz vs. OGC Nice (Nov 09 @ 08:15 AM PST) [Ligue 1]
+https://gg.poocloud.in/ligue1_anr/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/90f0e8745878fc5a2475498467113cde-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - FC Metz vs. OGC Nice (Nov 09 @ 08:15 AM PST) [Ligue 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_met/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/10c2ef911ee55fcf00ad70a977e2ccdc-thumbnail.jpg" group-title="Global Football Streams",Strasbourg vs. LOSC (Nov 09 @ 08:15 AM PST) [Ligue 1]
+https://gg.poocloud.in/ligue1_met/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/10c2ef911ee55fcf00ad70a977e2ccdc-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Strasbourg vs. LOSC (Nov 09 @ 08:15 AM PST) [Ligue 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_sbg/index.m3u8
+https://gg.poocloud.in/ligue1_sbg/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6e2d157d131f20a65b0b8c502ee325a1-thumbnail.jpg" group-title="Global Football Streams",Stuttgart vs. Augsburg (Nov 09 @ 08:30 AM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -93,7 +88,7 @@ https://gg.poocloud.in/epl_mci/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_rom/index.m3u8
+https://gg.poocloud.in/seriea_rom/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e3c35d1967f4b4b254844d029c52d4d6-thumbnail.jpg" group-title="Racing Action",Brazillian Grand Prix - Race (Nov 09 @ 09:00 AM PST) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
