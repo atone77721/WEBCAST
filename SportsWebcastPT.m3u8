@@ -1,24 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/af7091f127a44ba3fd6514a331849939-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Philadelphia Eagles vs. Green Bay Packers (Nov 10 @ 05:15 PM PST) [ABC]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/greenbaypackers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bbf109a8bd4c1bc2552ccdf817c27c1c-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Columbus Blue Jackets vs. Edmonton Oilers (Nov 10 @ 05:30 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/edmontonoilers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8a4f4b281469b039be63715cb0bdeaf8-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - New Orleans Pelicans vs. Phoenix Suns (Nov 10 @ 06:00 PM PST) [KPHE]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e66bb30c84d9e613d47b62121e963092-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Minnesota Timberwolves vs. Utah Jazz (Nov 10 @ 06:00 PM PST) [KJZZ]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4939197c440c5586117915c39fea7a9-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Florida Panthers vs. Vegas Golden Knights (Nov 10 @ 07:00 PM PST) [Scripps Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
