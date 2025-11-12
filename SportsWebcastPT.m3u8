@@ -1,34 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dc5d95bd28b5bb9a1b547175f52586fa-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Kentucky Wildcats vs. Louisville Cardinals (Nov 11 @ 05:00 PM PST) [ESPN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8a60b24fa21ed0066fde5f2ef7bd9285-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Wofford Terriers vs. Auburn Tigers (Nov 11 @ 05:00 PM PST) [SECN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/cbb-1/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cdd4783701d693637ade96cb455c2061-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Texas A&M-Corpus Christi Islanders vs. Kansas Jayhawks (Nov 11 @ 05:00 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/cbb-2/index.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0c529f382fc95e8202df02c1390200e6-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Texas Tech Red Raiders vs. Illinois Fighting Illini (Nov 11 @ 05:30 PM PST) [FS1]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c46a146f39c908437f15aaa03c1200bf-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Ball State Cardinals vs. Wisconsin Badgers (Nov 11 @ 05:30 PM PST) [BTN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/a13df17399ebc9b7091b6b9fa6f111c6-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Indiana Pacers vs. Utah Jazz (Nov 11 @ 06:00 PM PST) [KJZZ]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/90aaeb81de571835276bf4d6658502ae-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Northern Arizona Lumberjacks vs. Arizona Wildcats (Nov 11 @ 06:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
