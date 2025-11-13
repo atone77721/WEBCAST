@@ -84,6 +84,11 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newenglandpatriots/index.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f7156a3f45ac720fa5050fa079876c74-thumbnail.jpg" group-title="NFL Action",New York Jets vs. New England Patriots (Next Gen Stats) (Nov 13 @ 05:15 PM PST) [Prime]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/primenextgen/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/955758ef984b19124ca0113c818b442b-thumbnail.jpg" group-title="NBA Games",Indiana Pacers vs. Phoenix Suns (Nov 13 @ 06:00 PM PST) [KTVK]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
