@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0c87765860b3d8411088917c203fb625-thumbnail.jpg" group-title="Global Football Streams",Armenia vs. Hungary (Nov 14 @ 01:00 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0c87765860b3d8411088917c203fb625-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Armenia vs. Hungary (Nov 14 @ 01:00 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_arm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8dd5933cd53599d7a2f60d4b77ce1597-thumbnail.jpg" group-title="Global Football Streams",Azerbaijan vs. Iceland (Nov 14 @ 01:00 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8dd5933cd53599d7a2f60d4b77ce1597-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Azerbaijan vs. Iceland (Nov 14 @ 01:00 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_aze/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef0465664779165326ad738bebb9a173-thumbnail.jpg" group-title="Global Football Streams",Norway vs. Estonia (Nov 14 @ 01:00 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef0465664779165326ad738bebb9a173-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Norway vs. Estonia (Nov 14 @ 01:00 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
