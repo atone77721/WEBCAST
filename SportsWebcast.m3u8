@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b09ec5417e8f5831860f91a0a8ea5e2b-thumbnail.jpg" group-title="Darts",🟢 LIVE - Grand Slam of Darts - Day 6 (Nov 14 @ 03:00 AM PHT) [PDC Darts]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/30a67f4b75c8bea6538f78ab47f9f286-thumbnail.jpg" group-title="NCAA College Basketball",San José State Spartans vs. Michigan State Spartans (Nov 14 @ 07:30 AM PHT) [BTN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -58,12 +53,12 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/newenglandpatriots/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f7156a3f45ac720fa5050fa079876c74-thumbnail.jpg" group-title="NFL Action",New York Jets vs. New England Patriots (Next Gen Stats) (Nov 14 @ 09:15 AM PHT) [Prime]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/primenextgen/index.m3u8
+https://gg.poocloud.in/primenextgen/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/955758ef984b19124ca0113c818b442b-thumbnail.jpg" group-title="NBA Games",Indiana Pacers vs. Phoenix Suns (Nov 14 @ 10:00 AM PHT) [KTVK]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
