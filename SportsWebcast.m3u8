@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3d2638821274821be53f6fa51d361fe9-thumbnail.jpg" group-title="Global Football Streams",Finland vs. Malta (Nov 15 @ 01:00 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/508448a1fdcc17310e80acd65f19245e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Angola vs. Argentina (Nov 15 @ 12:00 AM PHT) [TyC Sports Argentina]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/tyc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3d2638821274821be53f6fa51d361fe9-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Finland vs. Malta (Nov 15 @ 01:00 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
