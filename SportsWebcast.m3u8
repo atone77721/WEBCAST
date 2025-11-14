@@ -1,20 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/630e6637a40cc70222f2e4f97b4d9340-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Purdue Boilermakers vs. Alabama Crimson Tide (Nov 14 @ 08:00 AM PHT) [ESPN2]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f76e0b0b3d11ae5392f42cec3fc60abd-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Edmonton Oilers vs. Columbus Blue Jackets (Nov 14 @ 08:30 AM PHT) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling Events",🟢 LIVE - TNA: Impact (Nov 14 @ 09:00 AM PHT) [AXS TV]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9de526c931a25b1cc00f46a6f787f2ce-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - New York Jets vs. New England Patriots (Nov 14 @ 09:15 AM PHT) [Prime Video]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa30104781e56106053210ca0d3f6a1f-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - New York Jets vs. New England Patriots (Nov 14 @ 09:15 AM PHT) [Prime Video]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
