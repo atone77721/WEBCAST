@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/508448a1fdcc17310e80acd65f19245e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Angola vs. Argentina (Nov 15 @ 12:00 AM PHT) [TyC Sports Argentina]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/tyc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3d2638821274821be53f6fa51d361fe9-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Finland vs. Malta (Nov 15 @ 01:00 AM PHT) [WC Qualifying]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_fin/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f2e1696c889d9ab460134d1d90234a88-thumbnail.jpg" group-title="PPVLand - Miscellaneous",🟢 LIVE - Skankfest: New Orleans (Nov 15 @ 02:00 AM PHT) [Kratom]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -19,27 +9,27 @@ https://gg.poocloud.in/skankfest-new-orleans/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f06df93c14ce4697bd20e4eeb8c3eed4-thumbnail.jpg" group-title="Global Football Streams",Luxembourg vs. Germany (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f06df93c14ce4697bd20e4eeb8c3eed4-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Luxembourg vs. Germany (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_lux/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6c21702b4052bfb1fb37f47afaebcac1-thumbnail.jpg" group-title="Global Football Streams",Gibraltar vs. Montenegro (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6c21702b4052bfb1fb37f47afaebcac1-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Gibraltar vs. Montenegro (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_gib/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bfa3a6711990d8d33502319f0fc0e23e-thumbnail.jpg" group-title="Global Football Streams",Croatia vs. Faroe Islands (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
+https://gg.poocloud.in/wc_gib/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/bfa3a6711990d8d33502319f0fc0e23e-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Croatia vs. Faroe Islands (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_cro/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dad7f77257c99a1a7dc556c3b6fc9388-thumbnail.jpg" group-title="Global Football Streams",Poland vs. Netherlands (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/dad7f77257c99a1a7dc556c3b6fc9388-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Poland vs. Netherlands (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_pol/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b2b56e343345ebc082402beb2575e852-thumbnail.jpg" group-title="Global Football Streams",Slovakia vs. Northern Ireland (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b2b56e343345ebc082402beb2575e852-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Slovakia vs. Northern Ireland (Nov 15 @ 03:45 AM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
