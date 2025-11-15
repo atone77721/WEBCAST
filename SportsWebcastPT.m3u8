@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_kaz/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wc_kaz/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f72749f2ceae64363327128783a807dc-thumbnail.jpg" group-title="Combat Sports",Eubank Jr. vs. Benn 2 (Nov 15 @ 08:45 AM PST) [PPV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -13,7 +13,7 @@ https://gg.poocloud.in/daznboxing/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/BTN/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/097b697fd1be2cef778883d377cf60af-thumbnail.jpg" group-title="NFL Action",South Carolina Gamecocks vs. Texas A&M Aggies (Nov 15 @ 09:00 AM PST) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -28,7 +28,7 @@ https://gg.poocloud.in/ABC/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/FOX/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4bbcc99125d36632aa00c63a6d10bc33-thumbnail.jpg" group-title="NFL Action",South Florida Bulls vs. Navy Midshipmen (Nov 15 @ 09:00 AM PST) [ESPN2]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
