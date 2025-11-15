@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1befe93b9c43777049ee90f07295c607-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Gonzaga Bulldogs vs. Arizona State Sun Devils (Nov 15 @ 12:00 PM PHT) [ESPN2]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8d63714ff29d2dbdc2a01166c9140549-thumbnail.jpg" group-title="Global Football Streams",Kazakhstan vs. Belgium (Nov 15 @ 10:00 PM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
