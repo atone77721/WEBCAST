@@ -4,23 +4,23 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8e1b6d1e94574135e2a692efeffcbb87-thumbnail.jpg" group-title="Global Football Streams",Hungary vs. Republic of Ireland (Nov 16 @ 10:00 PM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8e1b6d1e94574135e2a692efeffcbb87-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Hungary vs. Republic of Ireland (Nov 16 @ 10:00 PM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_hun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/53633da974263321b0df3e01f3ed9101-thumbnail.jpg" group-title="Global Football Streams",Portugal vs. Armenia (Nov 16 @ 10:00 PM PHT) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/53633da974263321b0df3e01f3ed9101-thumbnail.jpg" group-title="Global Football Streams",🟢 LIVE - Portugal vs. Armenia (Nov 16 @ 10:00 PM PHT) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_por/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/0cc42c912a11b3490fbf4b9c5e9a615e-thumbnail.jpg" group-title="NHL Action",Predators vs. Penguins (Nov 16 @ 10:00 PM PHT) [NHL]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/53173faf0c39ecedb5f8caa455697b11-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Nashville Predators vs. Pittsburgh Penguins (Nov 16 @ 10:00 PM PHT) [FanDuel SN South]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_nsh/index.m3u8
+https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/004b8c4a5ad53813eb31a5d4c0128dfe-thumbnail.jpg" group-title="NFL Action",Washington Commanders vs. Miami Dolphins (Nov 16 @ 10:30 PM PHT) [NFL Net]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/miamidolphins/index.m3u8
+https://gg.poocloud.in/miamidolphins/tracks-v1a1/mono.ts.m3u8
