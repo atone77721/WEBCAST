@@ -1,24 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4b7cc76be329823e61bd7a6a13da518f-thumbnail.jpg" group-title="PPVLand - Miscellaneous",🟢 LIVE - Skankfest: New Orleans (Nov 15 @ 12:00 PM PST) [Kratom]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/skankfest-new-orleans/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f752b3f8b3a333d521202fba6c8e0d24-thumbnail.jpg" group-title="Combat Sports",🟢 LIVE - UFC 322: Della Maddalena vs. Makhachev (Nov 15 @ 03:00 PM PST) [PPV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8b4ae455fe27d97fa5bf0bf5401096b-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Winnipeg Jets vs. Calgary Flames (Nov 15 @ 07:00 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/calgaryflames/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5fa24c8cf2b3b7aa09e1258df71c7d1f-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - San Jose Sharks vs. Seattle Kraken (Nov 15 @ 07:00 PM PST) [KONG]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seattlekraken/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/346e68c05fd70bc1addf86c1bf3f4fed-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - TCU Horned Frogs vs. BYU Cougars (Nov 15 @ 07:15 PM PST) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
