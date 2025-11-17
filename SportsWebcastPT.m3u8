@@ -4,26 +4,6 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/skankfest-new-orleans/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d456f2bde48eb5a8655cb32a33e4c641-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Portland Trail Blazers vs. Dallas Mavericks (Nov 16 @ 04:30 PM PST) [KFAA]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_dallasmavericks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7fdc878e93df1bfafd56d43dc3ca9479-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Akron Zips vs. Purdue Boilermakers (Nov 16 @ 04:30 PM PST) [BTN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/cb31e1e30b5e9a06d4a35acf0c944838-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Atlanta Hawks vs. Phoenix Suns (Nov 16 @ 05:00 PM PST) [KTVK]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f6848207130a9dbdde02ac56e0cd8c8b-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Chicago Bulls vs. Utah Jazz (Nov 16 @ 05:00 PM PST) [KJZZ]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa89b1b957c4758b182991f4615e302f-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Detroit Lions vs. Philadelphia Eagles (Nov 16 @ 05:20 PM PST) [NBC]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
