@@ -4,18 +4,3 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/skankfest-new-orleans/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/fa89b1b957c4758b182991f4615e302f-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Detroit Lions vs. Philadelphia Eagles (Nov 17 @ 09:20 AM PHT) [NBC]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/philadelphiaeagles/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8eb000540a1b35e6e3bb79da9de98499-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Miami Hurricanes vs. Florida Gators (Nov 17 @ 09:30 AM PHT) [ESPN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4e6bdce6dafd4f003448be020643d6d3-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - New York Islanders vs. Colorado Avalanche (Nov 17 @ 10:00 AM PHT) [Altitude Sports]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/coloradoavalanche/index.m3u8
