@@ -1,29 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/18d9df6533f338a6806cfc393e91172d-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Stonehill Skyhawks vs. Iowa State Cyclones (Nov 17 @ 05:00 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/cbb-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/25e1b7c5f068c3f45f0ca634dc5fb6e5-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - SIU Edwardsville Cougars vs. Wisconsin Badgers (Nov 17 @ 05:00 PM PST) [BTN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4dba27aa4735346e83752332cd1ebaae-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Dallas Cowboys vs. Las Vegas Raiders (Nov 17 @ 05:15 PM PST) [ABC]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/lasvegasraiders/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/3f774191c798de5ec3b9d1ef3e99d862-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Rice Owls vs. Tennessee Volunteers (Nov 17 @ 05:30 PM PST) [SEC Network]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/54e71efed5af22a7c681e5e406753771-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Chicago Bulls vs. Denver Nuggets (Nov 17 @ 06:00 PM PST) [ALT]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b0d4e9b19dae4a350abee5f235f5e08e-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Southern Utah Thunderbirds vs. Gonzaga Bulldogs (Nov 17 @ 06:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
