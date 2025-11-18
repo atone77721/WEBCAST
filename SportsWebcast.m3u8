@@ -69,7 +69,7 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/chicagoblackhawks/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4eed4d7d5216194f714a50b7c46289b-thumbnail.jpg" group-title="NBA Games",Kansas Jayhawks vs. Duke Blue Devils (Nov 19 @ 10:00 AM PHT) [ESPN]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4eed4d7d5216194f714a50b7c46289b-thumbnail.jpg" group-title="NCAA College Basketball",Kansas Jayhawks vs. Duke Blue Devils (Nov 19 @ 10:00 AM PHT) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
