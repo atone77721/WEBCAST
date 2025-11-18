@@ -34,53 +34,53 @@ https://gg.poocloud.in/wc_sco/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wc_bul/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e952200c3fb97aa1286bf30bb37a1341-thumbnail.jpg" group-title="Global Football Streams",Belarus vs. Greece (Nov 18 @ 11:45 AM PST) [WC Qualifying]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e952200c3fb97aa1286bf30bb37a1341-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Belarus vs. Greece (Nov 18 @ 11:45 AM PST) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_blr/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8a853c22605b8a34775cfcd79e7372d-thumbnail.jpg" group-title="Global Football Streams",Spain vs. Türki̇ye (Nov 18 @ 11:45 AM PST) [WC Qualifying]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b8a853c22605b8a34775cfcd79e7372d-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Spain vs. Türki̇ye (Nov 18 @ 11:45 AM PST) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_esp/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/417c880e347e173be9181ee894ea0ae7-thumbnail.jpg" group-title="Global Football Streams",Belgium vs. Liechtenstein (Nov 18 @ 11:45 AM PST) [WC Qualifying]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/417c880e347e173be9181ee894ea0ae7-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Belgium vs. Liechtenstein (Nov 18 @ 11:45 AM PST) [WC Qualifying]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wc_bel/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e695e48cfc24b46b801f51d03f03df2a-thumbnail.jpg" group-title="NBA Games",Golden State Warriors vs. Orlando Magic (Nov 18 @ 04:00 PM PST) [FDSNFL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e695e48cfc24b46b801f51d03f03df2a-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Golden State Warriors vs. Orlando Magic (Nov 18 @ 04:00 PM PST) [FDSNFL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_orlandomagic/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ed2f49db5d70bc8e24bd191c28cd23a8-thumbnail.jpg" group-title="NBA Games",Boston Celtics vs. Brooklyn Nets (Nov 18 @ 04:30 PM PST) [YES]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ed2f49db5d70bc8e24bd191c28cd23a8-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Boston Celtics vs. Brooklyn Nets (Nov 18 @ 04:30 PM PST) [YES]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_brooklynnets/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/77791264d7d5ecc11c194098f693a9de-thumbnail.jpg" group-title="NBA Games",Detroit Pistons vs. Atlanta Hawks (Nov 18 @ 04:30 PM PST) [FDSNSE-ATL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/77791264d7d5ecc11c194098f693a9de-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Detroit Pistons vs. Atlanta Hawks (Nov 18 @ 04:30 PM PST) [FDSNSE-ATL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_atlantahawks/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" group-title="NBA Games",Memphis Grizzlies vs. San Antonio Spurs (Nov 18 @ 05:00 PM PST) [Peacock]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b5311d48967e05c6e71640311a6d9ed0-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Memphis Grizzlies vs. San Antonio Spurs (Nov 18 @ 05:00 PM PST) [Peacock]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling Events",WWE: NXT (Nov 18 @ 05:00 PM PST) [Netflix]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling Events",❌ NO STREAM - WWE: NXT (Nov 18 @ 05:00 PM PST) [Netflix]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6653d29a93af2b7e4be307f9f7109c1f-thumbnail.jpg" group-title="NBA Games",Utah Jazz vs. Los Angeles Lakers (Nov 18 @ 07:30 PM PST) [SPECSN]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6653d29a93af2b7e4be307f9f7109c1f-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Utah Jazz vs. Los Angeles Lakers (Nov 18 @ 07:30 PM PST) [SPECSN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_losangeleslakers/index.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8bba381d8ae13a2fd31aca353f2330d7-thumbnail.jpg" group-title="NBA Games",Phoenix Suns vs. Portland Trail Blazers (Nov 18 @ 08:00 PM PST) [Peacock]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8bba381d8ae13a2fd31aca353f2330d7-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Phoenix Suns vs. Portland Trail Blazers (Nov 18 @ 08:00 PM PST) [Peacock]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_portlandtrailblazers/index.m3u8
+https://example.com/stream_unavailable.m3u8
