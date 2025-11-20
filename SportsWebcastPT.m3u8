@@ -1,14 +1,59 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/14c884073314efe5be787ac5642acd55-thumbnail.jpg" group-title="NCAA College Basketball",Memphis Tigers vs. Purdue Boilermakers (Nov 20 @ 03:00 PM PST) [CBSSN]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/CBSSN/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/602761bf0d0eb49f4e8f313b32deb8e4-thumbnail.jpg" group-title="NBA Games",LA Clippers vs. Orlando Magic (Nov 20 @ 04:00 PM PST) [FDSNFL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_orlandomagic/index.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d6f177943c51da13e53908de40aa1704-thumbnail.jpg" group-title="NCAA College Basketball",Bucknell Bison vs. St. John's Red Storm (Nov 20 @ 04:00 PM PST) [TNT]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/TNT/index.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/205a17c80f3ef1a57d5f252c2806d353-thumbnail.jpg" group-title="NCAA College Basketball",Tennessee State Tigers vs. Tennessee Volunteers (Nov 20 @ 04:00 PM PST) [SECN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/SECN+/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ddf3ac596cc860e42f7c978474b3460c-thumbnail.jpg" group-title="NHL Action",Columbus Blue Jackets vs. Toronto Maple Leafs (Nov 20 @ 04:00 PM PST) [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8dc436991bf8fe00a3e673f9db5e9cc2-thumbnail.jpg" group-title="NHL Action",Washington Capitals vs. Montreal Canadiens (Nov 20 @ 04:00 PM PST) [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/montrealcanadiens/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4aaecf5af4dfefbb486ec95ef467ec99-thumbnail.jpg" group-title="NHL Action",New York Islanders vs. Detroit Red Wings (Nov 20 @ 04:00 PM PST) [FanDuel SN DET]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/detroitredwings/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7dd52cf506e859f065bf721b3d0b6d17-thumbnail.jpg" group-title="NHL Action",New Jersey Devils vs. Florida Panthers (Nov 20 @ 04:00 PM PST) [Scripps Sports]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/floridapanthers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9b4b616b63bd60468ad57fae053f155c-thumbnail.jpg" group-title="NHL Action",St. Louis Blues vs. Philadelphia Flyers (Nov 20 @ 04:00 PM PST) [NBC Sports Phil]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6cfd36c5fcaa09a77404bca95a2e12a1-thumbnail.jpg" group-title="NHL Action",Edmonton Oilers vs. Tampa Bay Lightning (Nov 20 @ 04:30 PM PST) [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/tampabaylightning/index.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4ac24a9a90c0c04ecbea31189930fbbe-thumbnail.jpg" group-title="Racing Action",Las Vegas Grand Prix - FP1 (Nov 20 @ 04:30 PM PST) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/index.m3u8
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/587b7115d1e4d29e53e2c82d326dfb7a-thumbnail.jpg" group-title="NBA Games",Sacramento Kings vs. Memphis Grizzlies (Nov 20 @ 05:00 PM PST) [FDSNSE-MEM]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -24,18 +69,63 @@ https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/80af6200883e66939fbffa22e238b8c0-thumbnail.jpg" group-title="NHL Action",Seattle Kraken vs. Chicago Blackhawks (Nov 20 @ 05:00 PM PST) [CHSN]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling Events",TNA: Impact (Nov 20 @ 05:00 PM PST) [AXS TV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/648b237bda5ce68bdf59eaf9bac63f63-thumbnail.jpg" group-title="NFL Action",Buffalo Bills vs. Houston Texans (Nov 20 @ 05:15 PM PST) [Prime Video]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/houstontexans/index.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b2a49d4747d513cf1dc40a439d22f68a-thumbnail.jpg" group-title="NCAA College Basketball",Wake Forest Demon Deacons vs. Texas Tech Red Raiders (Nov 20 @ 05:30 PM PST) [CBSSN]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/FOX/index.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2a8f10d2c895d97ad6577a3398754fc2-thumbnail.jpg" group-title="NCAA College Basketball",Rider Broncs vs. Houston Cougars (Nov 20 @ 06:00 PM PST) [TNT]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/af5eca49c29cf952c039b7f090421a03-thumbnail.jpg" group-title="NHL Action",New York Rangers vs. Colorado Avalanche (Nov 20 @ 06:00 PM PST) [Altitude Sports]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/coloradoavalanche/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/b25ccb75afb9c54c986175ce465dc64d-thumbnail.jpg" group-title="NHL Action",Vegas Golden Knights vs. Utah Mammoth (Nov 20 @ 06:00 PM PST) [Utah 16]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/utahmammoth/index.m3u8
 #EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="PPVLand - Cricket",1st Test, Day 1: Australia vs. England (Nov 20 @ 06:20 PM PST) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ashes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d8772dacaa24bbef0f747a1f9ca1b364-thumbnail.jpg" group-title="NHL Action",Dallas Stars vs. Vancouver Canucks (Nov 20 @ 07:00 PM PST) [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/vancouvercanucks/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/19c832f177e31e674bbbe1ac57594a42-thumbnail.jpg" group-title="NHL Action",Ottawa Senators vs. Anaheim Ducks (Nov 20 @ 07:00 PM PST) [Victory+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/anaheimducks/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d5bcef864ec0ad8d6860d1d0889a8f7a-thumbnail.jpg" group-title="NHL Action",Los Angeles Kings vs. San Jose Sharks (Nov 20 @ 07:00 PM PST) [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e70db4bcb8788cf56d0e194a2c237b02-thumbnail.jpg" group-title="Racing Action",Las Vegas Grand Prix - FP2 (Nov 20 @ 08:00 PM PST) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/index.m3u8
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
