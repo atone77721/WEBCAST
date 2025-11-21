@@ -1,6 +1,81 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="PPVLand - Cricket",🟢 LIVE - 1st Test, Day 1: Australia vs. England (Nov 20 @ 06:20 PM PST) [TNT Sports]
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/937a613e75ba921e035118b15ff2da6d-thumbnail.jpg" group-title="Global Football Streams",Mainz vs. Hoffenheim (Nov 21 @ 11:30 AM PST) [ESPN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/bundesliga_m05/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/9d7c0f0a0e64af832b84a607befcadaa-thumbnail.jpg" group-title="Global Football Streams",OGC Nice vs. OM (Nov 21 @ 11:45 AM PST) [Ligue 1]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ligue1_nic/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2797b31691157ceb93cca2e5ed9b6c27-thumbnail.jpg" group-title="Global Football Streams",Valencia CF vs. Levante UD (Nov 21 @ 12:00 PM PST) [LaLiga]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/ll_val/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/71c1c6eddca3be6dd1d4ed66c9107eb5-thumbnail.jpg" group-title="NBA Games",Indiana Pacers vs. Cleveland Cavaliers (East Group A) (Nov 21 @ 04:00 PM PST) [Prime Video]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_clevelandcavaliers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8563f38e9234c35c91ff2d4fd4ca2790-thumbnail.jpg" group-title="NBA Games",Brooklyn Nets vs. Boston Celtics (East Group B) (Nov 21 @ 04:30 PM PST) [NBCSB]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_bostonceltics/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/37d5cfaa80ad37fdfd2dc7478ade184a-thumbnail.jpg" group-title="NBA Games",Washington Wizards vs. Toronto Raptors (East Group A) (Nov 21 @ 04:30 PM PST) [MNMT]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_torontoraptors/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/43a28bbec6b78d817ea1f73e70bd7722-thumbnail.jpg" group-title="Racing Action",Las Vegas Grand Prix - FP3 (Nov 21 @ 04:30 PM PST) [Formula 1]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d03ddab55f04ae99f039d51deb2972ea-thumbnail.jpg" group-title="NBA Games",Miami Heat vs. Chicago Bulls (East Group C) (Nov 21 @ 05:00 PM PST) [CHSN+]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling Events",WWE: Friday Night Smackdown (Nov 21 @ 05:00 PM PST) [USA Network]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/14a73ef73279127e4995ced4e89654e5-thumbnail.jpg" group-title="NBA Games",New Orleans Pelicans vs. Dallas Mavericks (West Group B) (Nov 21 @ 05:30 PM PST) [KFAA]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2116ccade7c809f2a538183753303d00-thumbnail.jpg" group-title="NBA Games",Minnesota Timberwolves vs. Phoenix Suns (West Group A) (Nov 21 @ 06:00 PM PST) [KPHE]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="PPVLand - Cricket",1st Test, Day 2: Australia vs. England (Nov 21 @ 06:20 PM PST) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ashes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1b6c5b8dcfaef71cabeb6f0ce4805bc8-thumbnail.jpg" group-title="NBA Games",Denver Nuggets vs. Houston Rockets (West Group C) (Nov 21 @ 06:30 PM PST) [Prime Video]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_houstonrockets/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ae96aa9cf44b45504f71c6d5e3a7be90-thumbnail.jpg" group-title="NBA Games",Oklahoma City Thunder vs. Utah Jazz (West Group A) (Nov 21 @ 07:00 PM PST) [KJZZ]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/4a2cabd49a28c3f2fa1249a6cefc4238-thumbnail.jpg" group-title="NBA Games",Portland Trail Blazers vs. Golden State Warriors (West Group C) (Nov 21 @ 07:00 PM PST) [NBCSBA]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6e4a4ab4403fe5ecf25486cdb3de4160-thumbnail.jpg" group-title="Racing Action",Las Vegas Grand Prix - Qualifying (Nov 21 @ 08:00 PM PST) [Formula 1]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
