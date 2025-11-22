@@ -19,16 +19,6 @@ https://gg.poocloud.in/oktagon-de/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/oktagon-cz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f7a9b58ef375aa1ce03a5a7700302102-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Charlotte 49ers vs. Georgia Bulldogs (Nov 22 @ 09:45 AM PST) [SEC Network]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/SECN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - California (PA) vs. Virginia Union (Nov 22 @ 10:00 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/cfb-3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/7289590eeb6b57832a7079736640a23a-thumbnail.jpg" group-title="Combat Sports",🟢 LIVE - Cage Warriors 198 (Nov 22 @ 10:30 AM PST) [UFC Fight Pass]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -48,7 +38,7 @@ https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_nap/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/seriea_nap/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6c2a0406f4d0a6370fd66d6402505940-thumbnail.jpg" group-title="Combat Sports",🟢 LIVE - Ring IV: Night Of Champions - Benavidez vs. Yarde (Nov 22 @ 12:00 PM PST) [DAZN PPV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -63,7 +53,7 @@ https://gg.poocloud.in/ll_vil/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_psg/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ligue1_psg/index.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/75a28e5b6b0a18f3883f09bc67a02f2c-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - USC Trojans vs. Oregon Ducks (Nov 22 @ 12:30 PM PST) [CBS]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -104,7 +94,7 @@ https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d33331780fe9b86319bf08daecdeb628-thumbnail.jpg" group-title="NBA Games",New York Knicks vs. Orlando Magic (Nov 22 @ 02:00 PM PST) [NBA TV]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d33331780fe9b86319bf08daecdeb628-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - New York Knicks vs. Orlando Magic (Nov 22 @ 02:00 PM PST) [NBA TV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -129,11 +119,11 @@ https://gg.poocloud.in/ABC/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e47dd3379cc97df15e22c8497faf046-thumbnail.jpg" group-title="NFL Action",BYU Cougars vs. Cincinnati Bearcats (Nov 22 @ 05:00 PM PST) [FOX]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/1e47dd3379cc97df15e22c8497faf046-thumbnail.jpg" group-title="NFL Action",❌ NO STREAM - BYU Cougars vs. Cincinnati Bearcats (Nov 22 @ 05:00 PM PST) [FOX]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/FOX/tracks-v1a1/mono.ts.m3u8
+https://example.com/stream_unavailable.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d083ff96c3aaed762ad44c2cec0b4de3-thumbnail.jpg" group-title="NFL Action",Arizona State Sun Devils vs. Colorado Buffaloes (Nov 22 @ 05:00 PM PST) [ESPN2]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -149,28 +139,28 @@ https://gg.poocloud.in/nba_chicagobulls/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f2d481c39236d16f7ddb0cdb4db9a9dc-thumbnail.jpg" group-title="Wrestling Events",❌ NO STREAM - AEW: Full Gear (Nov 22 @ 05:00 PM PST) [TrillerTV]
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f2d481c39236d16f7ddb0cdb4db9a9dc-thumbnail.jpg" group-title="Wrestling Events",AEW: Full Gear (Nov 22 @ 05:00 PM PST) [TrillerTV]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/372a10d72dc23e0e10db6387d16d79c1-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Memphis Grizzlies vs. Dallas Mavericks (Nov 22 @ 05:30 PM PST) [KFAA]
+https://gg.poocloud.in/aew/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/372a10d72dc23e0e10db6387d16d79c1-thumbnail.jpg" group-title="NBA Games",Memphis Grizzlies vs. Dallas Mavericks (Nov 22 @ 05:30 PM PST) [KFAA]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="PPVLand - Cricket",❌ NO STREAM - 1st Test, Day 3: Australia vs. England (Nov 22 @ 06:20 PM PST) [TNT Sports]
+https://gg.poocloud.in/nba_dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4f7494ce49163f4a7d4b4db2cc21b53-thumbnail.jpg" group-title="PPVLand - Cricket",1st Test, Day 3: Australia vs. England (Nov 22 @ 06:20 PM PST) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Sacramento Kings vs. Denver Nuggets (Nov 22 @ 07:00 PM PST) [ALT]
+https://gg.poocloud.in/ashes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6b543476fa4872380c932f71807a0acb-thumbnail.jpg" group-title="NBA Games",Sacramento Kings vs. Denver Nuggets (Nov 22 @ 07:00 PM PST) [ALT]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg" group-title="Racing Action",❌ NO STREAM - Las Vegas Grand Prix - Race (Nov 22 @ 08:00 PM PST) [Formula 1]
+https://gg.poocloud.in/nba_denvernuggets/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ad652c26f1e7b8e8c36cf316f47f0d4b-thumbnail.jpg" group-title="Racing Action",Las Vegas Grand Prix - Race (Nov 22 @ 08:00 PM PST) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
+https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
