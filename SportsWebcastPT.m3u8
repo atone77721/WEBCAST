@@ -104,16 +104,16 @@ https://gg.poocloud.in/cfb-1/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ABC/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ddf55bf1be599acd2b7c520b834312d2-thumbnail.jpg" group-title="NFL Action",Miami Hurricanes vs. Virginia Tech Hokies (Nov 22 @ 09:00 AM PST) [ESPN]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ddf55bf1be599acd2b7c520b834312d2-thumbnail.jpg" group-title="NFL Action",❌ NO STREAM - Miami Hurricanes vs. Virginia Tech Hokies (Nov 22 @ 09:00 AM PST) [ESPN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ESPN/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/30aa4e5735a03820f9bccf4760aef42b-thumbnail.jpg" group-title="Global Football Streams",Fiorentina vs. Juventus (Nov 22 @ 09:00 AM PST) [Serie A]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/30aa4e5735a03820f9bccf4760aef42b-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Fiorentina vs. Juventus (Nov 22 @ 09:00 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_fio/index.m3u8
+https://example.com/stream_unavailable.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/6f8388b9ff7d0fe774805f57f22f7aed-thumbnail.jpg" group-title="Global Football Streams",Newcastle United vs. Manchester City (Nov 22 @ 09:30 AM PST) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -258,7 +258,7 @@ https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/372a10d72dc23e0e10db6387d16d79c1-thumbnail.jpg" group-title="NBA Games",Memphis Grizzlies vs. Dallas Mavericks (Nov 22 @ 05:30 PM PST) [KFAA]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
