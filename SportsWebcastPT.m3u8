@@ -39,16 +39,6 @@ https://gg.poocloud.in/kansascitychiefs/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/baltimoreravens/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/f015b6b70b59fac4849e79a6e0893b59-thumbnail.jpg" group-title="NBA Games",🟢 LIVE - Miami Heat vs. Philadelphia 76ers (Nov 23 @ 10:00 AM PST) [NBCSP]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_philadelphia76ers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/c93ac600ce78f093a3842a345d6fb3c0-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Carolina Hurricanes vs. Buffalo Sabres (Nov 23 @ 10:00 AM PST) [MSGB]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/buffalosabres/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5b9a5ce79119092d9eedc98b88518062-thumbnail.jpg" group-title="Darts",🟢 LIVE - Players Championship Finals - Semis & Finals (Nov 23 @ 11:00 AM PST) [DAZN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -69,22 +59,22 @@ https://gg.poocloud.in/ligue1_lil/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ll_elc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95b3a21f916559706b859473d0795e3d-thumbnail.jpg" group-title="NCAA College Basketball",Howard Bison vs. Duke Blue Devils (Nov 23 @ 01:00 PM PST) [ACC Network]
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/95b3a21f916559706b859473d0795e3d-thumbnail.jpg" group-title="NCAA College Basketball",🟢 LIVE - Howard Bison vs. Duke Blue Devils (Nov 23 @ 01:00 PM PST) [ACC Network]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ACC%20Network/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5056572c00afbb0a6087170e6b92c0ae-thumbnail.jpg" group-title="NHL Action",Minnesota Wild vs. Winnipeg Jets (Nov 23 @ 01:00 PM PST) [ESPN+]
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/5056572c00afbb0a6087170e6b92c0ae-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Minnesota Wild vs. Winnipeg Jets (Nov 23 @ 01:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/winnipegjets/index.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ca612289f5e9ff4c725ee0b35d2c1627-thumbnail.jpg" group-title="NFL Action",Cleveland Browns vs. Las Vegas Raiders (Nov 23 @ 01:05 PM PST) [CBS]
+https://gg.poocloud.in/winnipegjets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/ca612289f5e9ff4c725ee0b35d2c1627-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Cleveland Browns vs. Las Vegas Raiders (Nov 23 @ 01:05 PM PST) [CBS]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/lasvegasraiders/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/be2319257c167fee1cff360e551234ec-thumbnail.jpg" group-title="NFL Action",Jacksonville Jaguars vs. Arizona Cardinals (Nov 23 @ 01:05 PM PST) [CBS]
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/be2319257c167fee1cff360e551234ec-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Jacksonville Jaguars vs. Arizona Cardinals (Nov 23 @ 01:05 PM PST) [CBS]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
