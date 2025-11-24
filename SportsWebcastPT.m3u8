@@ -79,3 +79,8 @@ https://gg.poocloud.in/nba_goldenstatewarriors/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_sacramentokings/index.m3u8
+#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/2ea94947186df7758180e20c0c56273f-thumbnail.jpg" group-title="PPVLand - Cricket",India vs. South Africa (Nov 24 @ 07:30 PM PST) [TNT Sports]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/cricket/tracks-v1a1/mono.ts.m3u8
