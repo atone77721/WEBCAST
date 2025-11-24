@@ -1,66 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #DATE: 2025-11-24
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/19e5cb0e40a328202d20fb78a7dee0e2-thumbnail.jpg" group-title="NHL Action",Boston Bruins vs. San Jose Sharks (Nov 24 @ 09:00 AM PHT) [NBC Sports BA]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/1e338a6cfb422a03d2c94240330c3dfc-thumbnail.jpg" group-title="NBA Games",Brooklyn Nets vs. Toronto Raptors (Nov 24 @ 07:00 AM PHT) [YES]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/2e2d5db457e6c4e97c8b487f93a9f142-thumbnail.jpg" group-title="NCAA College Basketball",Bryant Bulldogs vs. UConn Huskies (Nov 24 @ 07:00 AM PHT) [truTV]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/88bc06316d5a64126d060cbf84a18f44-thumbnail.jpg" group-title="NBA Games",Charlotte Hornets vs. Atlanta Hawks (Nov 24 @ 07:00 AM PHT) [FDSNSE-ATL]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_atlantahawks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/04d991639449ca643022fd3498a845f2-thumbnail.jpg" group-title="NHL Action",Colorado Avalanche vs. Chicago Blackhawks (Nov 24 @ 08:00 AM PHT) [Altitude Sports]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/chicagoblackhawks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/8b03de63720e21893428ea48aeba0e92-thumbnail.jpg" group-title="NBA Games",LA Clippers vs. Cleveland Cavaliers (Nov 24 @ 07:00 AM PHT) [FDSNOH]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/04490974b7d6e108d443031c1ef97346-thumbnail.jpg" group-title="NBA Games",Los Angeles Lakers vs. Utah Jazz (Nov 24 @ 09:00 AM PHT) [KJZZ]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_utahjazz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/0fdcd1e0836994c126fc27d5fcdc4fee-thumbnail.jpg" group-title="NBA Games",Orlando Magic vs. Boston Celtics (Nov 24 @ 07:00 AM PHT) [NBCSB]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_bostonceltics/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/b6eebf9f6513907285e7e6d5bb5878fc-thumbnail.jpg" group-title="NBA Games",Portland Trail Blazers vs. Oklahoma City Thunder (Nov 24 @ 08:00 AM PHT) [FDSNOK]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_oklahomacitythunder/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/24f8327df6314950536180e444f63c10-thumbnail.jpg" group-title="NBA Games",San Antonio Spurs vs. Phoenix Suns (Nov 24 @ 09:00 AM PHT) [KTVK]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg" group-title="NFL Action",Tampa Bay Buccaneers vs. Los Angeles Rams (Nov 24 @ 09:20 AM PHT) [NBC]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangelesrams/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/d0254389167401a507840310f91f872f-thumbnail.jpg" group-title="NHL Action",Calgary Flames vs. Vancouver Canucks (Nov 24 @ 10:00 AM PHT) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vancouvercanucks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Misc.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg" group-title="PPVLand - Cricket",India vs. South Africa (Nov 24 @ 11:30 AM PHT) [TNT Sports]
+#EXTINF:-1 tvg-id="Misc.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg" group-title="PPVLand - Cricket",India vs. South Africa (Nov 24 @ 11:30 AM PHT) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
