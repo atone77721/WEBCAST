@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/e4bf8e4d971d6e82614627621458e6e4-thumbnail.jpg" group-title="NFL Action",🟢 LIVE - Tampa Bay Buccaneers vs. Los Angeles Rams (Nov 23 @ 05:20 PM PST) [NBC]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/losangelesrams/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/d0254389167401a507840310f91f872f-thumbnail.jpg" group-title="NHL Action",🟢 LIVE - Calgary Flames vs. Vancouver Canucks (Nov 23 @ 06:00 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/vancouvercanucks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://ppv.to/assets/thumb/8165fb5e2d33a599beb55489fcbcb4a3-thumbnail.jpg" group-title="PPVLand - Cricket",🟢 LIVE - India vs. South Africa (Nov 23 @ 07:30 PM PST) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
