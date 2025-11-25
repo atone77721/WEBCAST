@@ -1,15 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #DATE: 2025-11-25
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/8e8d6caf0769a40f2024e7e823aca2b1-thumbnail.jpg" group-title="NCAA College Basketball",Auburn Tigers vs. Oregon Ducks (Nov 25 @ 09:00 AM PHT) [truTV]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/45e1423f3c25d4472ca1798542e99dc7-thumbnail.jpg" group-title="NFL Action",Carolina Panthers vs. San Francisco 49ers (Nov 25 @ 09:15 AM PHT) [ESPN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/sanfrancisco49ers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/afaf5d73e5343bb0aa80a65aa5180c17-thumbnail.jpg" group-title="NCAA College Basketball",Denver Pioneers vs. Arizona Wildcats (Nov 25 @ 11:30 AM PHT) [CBSSN]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -25,7 +15,7 @@ https://gg.poocloud.in/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_phoenixsuns/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Misc.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/2ea94947186df7758180e20c0c56273f-thumbnail.jpg" group-title="PPVLand - Cricket",India vs. South Africa (Nov 25 @ 11:30 AM PHT) [TNT Sports]
+#EXTINF:-1 tvg-id="Cricket.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/2ea94947186df7758180e20c0c56273f-thumbnail.jpg" group-title="Cricket Games",India vs. South Africa (Nov 25 @ 11:30 AM PHT) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -45,11 +35,6 @@ https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/truTV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/c798d9e7bd8cd8c0408b9ca84503642f-thumbnail.jpg" group-title="NCAA College Basketball",UT Rio Grande Valley Vaqueros vs. Illinois Fighting Illini (Nov 25 @ 09:00 AM PHT) [BTN]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/BTN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|LIVE" tvg-logo="https://ppv.to/assets/thumb/d2d4ee575b327992f13dfbd2a67668b0-thumbnail.jpg" group-title="NBA Games",Utah Jazz vs. Golden State Warriors (Nov 25 @ 11:00 AM PHT) [NBCSBA]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
