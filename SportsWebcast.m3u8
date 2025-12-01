@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#DATE: 2025-12-01
+#DATE: 2025-12-02
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/77f4b9491d064e643437a1311a715741-thumbnail.jpg" group-title="NBA Games",Atlanta Hawks vs. Detroit Pistons (Dec 02 @ 08:00 AM PHT) [FDSNDT]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -10,6 +10,11 @@ https://gg.poocloud.in/nba_detroitpistons/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/seriea_bol/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/8fb939cddb931ba2a133faba9b5fa003-thumbnail.jpg" group-title="Global Football Streams",Bournemouth vs. Everton (Dec 03 @ 03:30 AM PHT) [Premier League]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_bou/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/b2a898e84f62293c4f145a469d7c3901-thumbnail.jpg" group-title="NBA Games",Charlotte Hornets vs. Brooklyn Nets (Dec 02 @ 08:30 AM PHT) [YES]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -30,6 +35,11 @@ https://gg.poocloud.in/nba_indianapacers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/adcd8f54219369d06c35e745f9459666-thumbnail.jpg" group-title="Global Football Streams",Fulham vs. Manchester City (Dec 03 @ 03:30 AM PHT) [Premier League]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_ful/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/e9bbb6f5591d2ecd85b0b58ee7ab6e3a-thumbnail.jpg" group-title="NBA Games",Houston Rockets vs. Utah Jazz (Dec 02 @ 10:00 AM PHT) [KJZZ]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -50,6 +60,11 @@ https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/f0dd8c9b3fc130d820becd99b1b27700-thumbnail.jpg" group-title="Global Football Streams",Newcastle United vs. Tottenham Hotspur (Dec 03 @ 04:15 AM PHT) [Premier League]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/epl_new/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/d4eab29ee32129c51ccd7dc025c98183-thumbnail.jpg" group-title="NBA Games",Phoenix Suns vs. Los Angeles Lakers (Dec 02 @ 11:00 AM PHT) [Peacock]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -60,3 +75,13 @@ https://gg.poocloud.in/nba_losangeleslakers/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/ll_ray/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling Events",WWE: Monday Night RAW (Dec 02 @ 09:00 AM PHT) [Netflix]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling Events",WWE: NXT (Dec 03 @ 09:00 AM PHT) [Netflix]
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
