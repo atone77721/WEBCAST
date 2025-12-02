@@ -75,11 +75,11 @@ https://gg.poocloud.in/nba_bostonceltics/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/epl_new/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|NO_STREAM" tvg-logo="https://ppv.to/assets/thumb/857ee57acf86edc95f24cc0fc2ff30d2-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Oklahoma City Thunder vs. Golden State Warriors (Dec 02 @ 08:00 PM PT) [Peacock]
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/857ee57acf86edc95f24cc0fc2ff30d2-thumbnail.jpg" group-title="NBA Games",Oklahoma City Thunder vs. Golden State Warriors (Dec 02 @ 08:00 PM PT) [Peacock]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
+https://gg.poocloud.in/nba_goldenstatewarriors/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/1ec43e376fa6221e57db8db128ff98a4-thumbnail.jpg" group-title="NBA Games",Portland Trail Blazers vs. Toronto Raptors (Dec 02 @ 04:30 PM PT) [KATU]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
