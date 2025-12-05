@@ -9,7 +9,7 @@ permissions:
   contents: write   # REQUIRED for commit/push
 
 jobs:
-  Scraping Streams:
+  Scraping-Streams:
     runs-on: ubuntu-latest
 
     steps:
