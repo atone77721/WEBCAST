@@ -13,552 +13,191 @@ CUSTOM_HEADERS = [
     '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0'
 ]
 
-CATEGORY_LOGOS = {
-    "Wrestling": "http://drewlive24.duckdns.org:9000/Logos/Wrestling.png",
-    "Football": "http://drewlive24.duckdns.org:9000/Logos/Football.png",
-    "Basketball": "http://drewlive24.duckdns.org:9000/Logos/NCAA.png",
-    "Baseball": "http://drewlive24.duckdns.org:9000/Logos/Baseball.png",
-    "American Football": "http://drewlive24.duckdns.org:9000/Logos/NFL3.png",
-    "Combat Sports": "http://drewlive24.duckdns.org:9000/Logos/CombatSports2.png",
-    "Darts": "http://drewlive24.duckdns.org:9000/Logos/Darts.png",
-    "Motorsports": "http://drewlive24.duckdns.org:9000/Logos/Motorsports2.png",
-    "Ice Hockey": "http://drewlive24.duckdns.org:9000/Logos/Hockey.png",
-    "NBA": "http://drewlive24.duckdns.org:9000/Logos/NBA.png",
-    "NCAA": "http://drewlive24.duckdns.org:9000/Logos/NCAA.png",
-    "Cricket": "https://i.imgur.com/rA9TeSu.png"
-}
 
-CATEGORY_TVG_IDS = {
-    "Wrestling": "PPV.EVENTS.Dummy.us",
-    "Football": "Soccer.Dummy.us",
-    "Basketball": "NCAA.Basketball.Dummy.us",
-    "NBA": "NBA.Basketball.Dummy.us",
-    "NCAA": "NCAA.Basketball.Dummy.us",
-    "Baseball": "MLB.Baseball.Dummy.us",
-    "American Football": "NFL.Dummy.us",
-    "College Football": "NCAA.Football.Dummy.us",
-    "Combat Sports": "PPV.EVENTS.Dummy.us",
-    "Darts": "Darts.Dummy.us",
-    "Motorsports": "Racing.Dummy.us",
-    "Ice Hockey": "NHL.Hockey.Dummy.us",
-    "Cricket": "Cricket.Dummy.us"
-}
-
-GROUP_RENAME_MAP = {
-    "Wrestling": "Wrestling Events",
-    "Football": "Global Football Streams",
-    "Basketball": "NCAA College Basketball",
-    "NBA": "NBA Games",
-    "NCAA": "NCAA College Basketball",
-    "Baseball": "MLB",
-    "American Football": "NFL Action",
-    "College Football": "NCAA College Football",
-    "Combat Sports": "Combat Sports",
-    "Darts": "Darts",
-    "Motorsports": "Racing Action",
-    "Ice Hockey": "NHL Action",
-    "Cricket": "Cricket Games"
-}
-
-NBA_TEAMS = [
-    "hawks", "celtics", "nets", "hornets", "bulls", "cavaliers", "mavericks", "nuggets",
-    "pistons", "warriors", "rockets", "pacers", "clippers", "lakers", "grizzlies",
-    "heat", "bucks", "timberwolves", "pelicans", "knicks", "thunder", "magic", "sixers",
-    "suns", "blazers", "kings", "spurs", "raptors", "jazz", "wizards"
-]
-
-NCAA_KEYWORDS = [
-    "wildcats", "falcons", "zips", "crimson tide", "bulldogs", "hornets", "great danes",
-    "braves", "eagles", "mountaineers", "wildcats", "sun devils", "razorbacks",
-    "golden lions", "red wolves", "black knights", "tigers", "governors",
-    "cardinals", "bears", "bruins", "wildcats", "cougars", "bearcats",
-    "broncos", "eagles", "terriers", "falcons", "braves", "cougars",
-    "bears", "bison", "bulls", "dawgs", "lions", "huskies", "matadors",
-    "titans", "gauchos", "golden bears", "camels", "golden griffins",
-    "mocs", "panthers", "spiders", "tigers", "tigers", "rams",
-    "buffaloes", "rams", "lions", "huskies", "eagles", "big red",
-    "bluejays", "big green", "wildcats", "flyers", "blue hens",
-    "hornets", "pioneers", "blue demons", "titans", "bulldogs",
-    "dragons", "blue devils", "dukes", "pirates", "bucs",
-    "panthers", "eagles", "vikings", "lions", "raiders",
-    "red raiders", "gators", "seminoles", "rams", "bulldogs",
-    "paladins", "runnin bulldogs", "patriots", "colonials",
-    "hoyas", "bulldogs", "eagles", "panthers", "yellow jackets",
-    "bulldogs", "lopes", "pirates", "crimson", "warriors",
-    "panthers", "phoenix", "crusaders", "cougars", "bison",
-    "vandals", "bengals", "fighting illini", "redbirds",
-    "flames", "cardinals", "hoosiers", "sycamores",
-    "gaels", "hawkeyes", "cyclones", "mastodons",
-    "jaguars", "tigers", "dolphins", "gamecocks",
-    "dukes", "jayhawks", "wildcats", "owls",
-    "golden flashes", "wildcats", "explorers",
-    "leopards", "cardinals", "mountain hawks",
-    "flames", "bisons", "trojans", "beach", "sharks",
-    "lancers", "ragin cajuns", "warhawks",
-    "bulldogs", "cardinals", "cardinals",
-    "tigers", "ramblers", "greyhounds", "lions",
-    "tigers", "black bears", "jaspers", "red foxes",
-    "thundering herd", "terps", "hawks", "minutemen",
-    "river hawks", "cowboys", "tigers", "bears",
-    "hurricanes", "redhawks", "wolverines",
-    "spartans", "raiders", "panthers", "golden gophers",
-    "rebels", "bulldogs", "tigers", "kangaroos",
-    "bears", "hawks", "grizzlies", "bobcats",
-    "bobcats", "lions", "mountaineers", "huskies",
-    "tigers", "blue knights", "grizzlies",
-    "tigers", "mountaineers", "brown bears",
-    "cardinals", "jackrabbits", "mavericks", "lancers",
-    "rams", "panthers", "spiders", "broncs",
-    "vaqueros", "colonials", "scarlet knights",
-    "hornets", "pioneers", "billikens", "gaels",
-    "peacocks", "bearkats", "bulldogs", "toreros",
-    "aztecs", "dons", "spartans", "tigers",
-    "redhawks", "pirates", "saints", "siue cougars",
-    "mustangs", "jaguars", "gamecocks", "cocks",
-    "coyotes", "jackrabbits", "bulls", "redhawks",
-    "lions", "trojans", "screaming eagles", "trojans",
-    "eagles", "knights", "crusaders", "trojans",
-    "seahawks", "mercer bears", "blue hoses", "tigers",
-    "hoos", "rams", "owls", "spiders", "broncs",
-    "highlanders", "highlanders", "spiders",
-    "hornets", "tillicums", "cavaliers", "hokies",
-    "keydets", "rams", "seahawks", "demon deacons",
-    "huskies", "cougars", "wildcats", "dutchmen",
-    "mountaineers", "hilltoppers", "broncos",
-    "shockers", "tribe", "eagles", "badgers",
-    "terriers", "raiders", "cowboys", "musketeers",
-    "bulldogs", "penguins"
-]
-
-
-# --- Utilities ---
+# ---------------------------------------------------------------------
+# UTILITIES
+# ---------------------------------------------------------------------
 
 def format_timestamp(ts):
     try:
         phil_tz = pytz.timezone('Asia/Manila')
         dt = datetime.fromtimestamp(int(ts), tz=timezone.utc).astimezone(phil_tz)
         return dt.strftime("%b %d @ %I:%M %p") + " PHT"
-    except Exception as e:
-        print(f"❌ Time format error: {e}")
+    except Exception:
         return None
 
 
 def detect_basketball_type(name: str):
     name_lower = name.lower()
-    if any(team in name_lower for team in NBA_TEAMS):
+    nba_teams = ["hawks", "celtics", "nets", "hornets", "bulls", "cavaliers", "mavericks", "nuggets",
+                 "pistons", "warriors", "rockets", "pacers", "clippers", "lakers", "grizzlies",
+                 "heat", "bucks", "timberwolves", "pelicans", "knicks", "thunder", "magic", "sixers",
+                 "suns", "blazers", "kings", "spurs", "raptors", "jazz", "wizards"]
+
+    if any(team in name_lower for team in nba_teams):
         return "NBA"
-    if any(keyword in name_lower for keyword in NCAA_KEYWORDS):
-        return "NCAA"
+
     return "Basketball"
 
 
-def clean_tvg_id(tvg_id: str) -> str:
-    """Ensure tvg-id has no |status suffix."""
+def clean_tvg_id(tvg_id: str):
     if not tvg_id:
         return tvg_id
     return tvg_id.split("|")[0].strip()
 
 
-# Rewrite index.m3u8 → tracks-v1a1/mono.ts.m3u8
-def fix_m3u8(url: str) -> str:
+def fix_m3u8(url: str):
     if url.endswith("index.m3u8"):
         return url.replace("index.m3u8", "tracks-v1a1/mono.ts.m3u8")
     return url
 
 
-# --- Network ---
+# ---------------------------------------------------------------------
+# API CALL
+# ---------------------------------------------------------------------
 
 async def get_streams():
     try:
         timeout = aiohttp.ClientTimeout(total=30)
-        headers = {'User-Agent': 'Mozilla/5.0'}
+        headers = {"User-Agent": "Mozilla/5.0"}
         async with aiohttp.ClientSession(timeout=timeout, headers=headers) as session:
-            async with session.get(API_URL) as resp:
-                if resp.status != 200:
-                    print(f"❌ API request failed: {resp.status}")
+            async with session.get(API_URL) as r:
+                if r.status != 200:
+                    print("❌ API error:", r.status)
                     return None
-                return await resp.json()
+                return await r.json()
     except Exception as e:
-        print(f"❌ Error fetching API: {e}")
+        print("❌ API fetch error:", e)
         return None
 
 
-# --- Playwright Helper ---
+# ---------------------------------------------------------------------
+# M3U8 SCRAPER (FIXED FOR GITHUB ACTIONS)
+# ---------------------------------------------------------------------
 
 async def grab_m3u8_from_iframe(page, iframe_url):
-    found_streams = set()
+    print(f"   → Loading iframe: {iframe_url}")
+    found = set()
 
-    def handle_response(response):
-        if ".m3u8" in response.url:
-            found_streams.add(response.url)
+    def on_response(resp):
+        if ".m3u8" in resp.url:
+            print("   🎯 Found stream:", resp.url)
+            found.add(resp.url)
 
-    page.on("response", handle_response)
+    page.on("response", on_response)
+
     try:
-        await page.goto(iframe_url, timeout=25000, wait_until="domcontentloaded")
-    except Exception:
+        await page.goto(iframe_url, timeout=25000, wait_until="load")
+    except Exception as e:
+        print("   ❌ Iframe load failed:", e)
+        page.remove_listener("response", on_response)
         return set()
 
-    await asyncio.sleep(6)
-    page.remove_listener("response", handle_response)
+    await asyncio.sleep(7)
 
-    # Prefer index.m3u8 or already-correct tracks URLs if available
-    filtered = [url for url in found_streams
-                if url.endswith("index.m3u8") or "/tracks-v1a1/mono.ts.m3u8" in url]
-    if not filtered:
-        filtered = list(found_streams)
+    page.remove_listener("response", on_response)
 
-    final_urls = set()
-    for u in filtered:
-        final_urls.add(fix_m3u8(u))
-
-    return final_urls
+    if not found:
+        print("   ❌ No .m3u8 detected")
+    return {fix_m3u8(u) for u in found}
 
 
-# --- Build Playlist ---
+# ---------------------------------------------------------------------
+# M3U BUILDER
+# ---------------------------------------------------------------------
 
 def build_m3u(streams, url_map):
-    # tvg-id now ALWAYS clean, no |status
-    lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"']
-    seen = set()
+    lines = ['#EXTM3U']
 
     for s in streams:
-        name = s["name"].strip()
-        if name.lower() in seen:
-            continue
-        seen.add(name.lower())
-
-        cat = s.get("category") or "Misc"
-        if cat == "Basketball":
-            cat = detect_basketball_type(name)
-
-        urls = url_map.get(f"{s['name']}::{s['category']}::{s['iframe']}", [])
-        group = GROUP_RENAME_MAP.get(cat, f"PPVLand - {cat}")
-        logo = s.get("poster") or CATEGORY_LOGOS.get(cat, "")
-        base_tvg = CATEGORY_TVG_IDS.get(cat, "Misc.Dummy.us")
-
-        status = s.get("status", "UPCOMING")  # LIVE / ENDED / UPCOMING
-
-        tvg = clean_tvg_id(base_tvg)
+        key = f"{s['name']}::{s['category']}::{s['iframe']}"
+        urls = url_map.get(key, [])
 
         if urls:
-            for url in urls:
-                fixed_url = fix_m3u8(url)
-                # status stored in separate attribute, NOT in name or tvg-id
-                lines.append(
-                    f'#EXTINF:-1 tvg-id="{tvg}" tvg-logo="{logo}" group-title="{group}" status="{status}",{name}'
-                )
+            for u in urls:
+                lines.append(f'#EXTINF:-1,{s["name"]}')
                 lines.extend(CUSTOM_HEADERS)
-                lines.append(fixed_url)
+                lines.append(u)
         else:
-            # No stream found – still keep placeholder (NO_STREAM status)
-            no_stream_status = "NO_STREAM"
-            lines.append(
-                f'#EXTINF:-1 tvg-id="{clean_tvg_id(base_tvg)}" tvg-logo="{logo}" '
-                f'group-title="{group}" status="{no_stream_status}",❌ NO STREAM - {name}'
-            )
+            lines.append(f'#EXTINF:-1,❌ NO STREAM - {s["name"]}')
             lines.extend(CUSTOM_HEADERS)
-            lines.append("https://example.com/stream_unavailable.m3u8")
+            lines.append("https://example.com/nostream.m3u8")
 
     return "\n".join(lines)
 
 
-def merge_with_existing(existing_file, new_playlist_lines):
-    """
-    Preserve ended games, update live ones, and reset daily.
-
-    Status is tracked via:
-      - status="LIVE/ENDED/UPCOMING/NO_STREAM" attribute (new style)
-      - group-title="Ended Games" (for ended items)
-      - legacy emoji prefixes (for backward compatibility)
-    tvg-id is kept CLEAN (no |status) and untouched beyond that.
-    """
-    import re
-    import pytz
-    from datetime import datetime
-
-    def normalize_name(line):
-        """Simplify game name for comparison (based on the text after the comma)."""
-        name = line.split(",", 1)[-1].lower()
-        # remove emojis / prefixes if any exist from older versions
-        name = re.sub(r"[🟢🔴❌]|(^live\s*-\s*)|(^ended\s*-\s*)", "", name)
-        name = re.sub(r"\(.*?\)", "", name)
-        name = re.sub(r"\[.*?\]", "", name)
-        name = re.sub(r"[^a-z0-9\s]", " ", name)
-        name = re.sub(r"\s+", " ", name).strip()
-        return name
-
-    def today_ph():
-        tz = pytz.timezone("Asia/Manila")
-        return datetime.now(tz).strftime("%Y-%m-%d")
-
-    def get_status_from_line(line: str) -> str:
-        """
-        Extract LIVE/ENDED/UPCOMING/NO_STREAM status.
-
-        Priority:
-          1) status="..." attribute (new style)
-          2) group-title="Ended Games"
-          3) legacy tvg-id="Base|STATUS" (backward compatibility)
-          4) legacy emojis
-          5) default UPCOMING
-        """
-        l = line.lower()
-
-        # New style: status="..."
-        m = re.search(r'status="([^"]*)"', line, re.IGNORECASE)
-        if m:
-            val = m.group(1).strip().upper()
-            if val in ("LIVE", "ENDED", "UPCOMING", "NO_STREAM"):
-                return val
-
-        # Group for ended
-        if 'group-title="ended games"' in l:
-            return "ENDED"
-
-        # Legacy tvg-id based detection: tvg-id="Base.ID|STATUS"
-        m = re.search(r'tvg-id="([^"]*)"', line, re.IGNORECASE)
-        if m:
-            val = m.group(1)
-            parts = val.split("|")
-            if len(parts) > 1:
-                status = parts[-1].upper()
-                if status in ("LIVE", "ENDED", "UPCOMING", "NO_STREAM"):
-                    return status
-
-        # Legacy emoji detection (for backward compatibility)
-        if "🟢 live" in l:
-            return "LIVE"
-        if "🔴 ended" in l:
-            return "ENDED"
-
-        return "UPCOMING"
-
-    def set_status_in_line(line: str, new_status: str) -> str:
-        """
-        Set LIVE/ENDED/UPCOMING status in a dedicated status="..." attribute.
-        tvg-id remains clean (no |status).
-        """
-        import re as _re
-        new_status = new_status.upper()
-
-        # update existing status="..."
-        m = _re.search(r'status="([^"]*)"', line)
-        if m:
-            return line[:m.start(1)] + new_status + line[m.end(1):]
-
-        # otherwise, inject a status attribute before the comma
-        m2 = _re.search(r'#EXTINF:-1([^,]*),', line)
-        if m2:
-            before_attrs = m2.group(1)
-            new_attrs = before_attrs + f' status="{new_status}"'
-            return line[:m2.start(1)] + new_attrs + line[m2.end(1):]
-
-        return line
-
-    def normalize_tvg_id_in_line(line: str) -> str:
-        """Ensure any legacy tvg-id with |STATUS is cleaned."""
-        m = re.search(r'tvg-id="([^"]*)"', line)
-        if not m:
-            return line
-        base = clean_tvg_id(m.group(1))
-        return line[:m.start(1)] + base + line[m.end(1):]
-
-    today = today_ph()
-    date_marker = f"#DATE: {today}"
-
-    # read old file
-    old_lines = []
-    if os.path.exists(existing_file):
-        with open(existing_file, "r", encoding="utf-8") as f:
-            old_lines = [l.rstrip("\n") for l in f]
-
-    # reset if new day
-    if not old_lines or not old_lines[0].startswith("#DATE") or today not in old_lines[0]:
-        print("🕛 New day detected — starting fresh playlist.")
-        old_lines = []
-
-    # extract blocks from both sources
-    def extract_blocks(lines):
-        blocks = {}
-        i = 0
-        while i < len(lines):
-            line = lines[i]
-            if line.startswith("#EXTINF"):
-                key = normalize_name(line)
-                block = [line]
-                j = i + 1
-                while j < len(lines) and not lines[j].startswith("#EXTINF"):
-                    block.append(lines[j])
-                    j += 1
-                blocks[key] = block
-                i = j
-            else:
-                i += 1
-        return blocks
-
-    # remove headers/date markers for parsing
-    old_body_lines = [l for l in old_lines if not l.startswith("#EXTM3U") and not l.startswith("#DATE")]
-    new_body_lines = [l for l in new_playlist_lines if not l.startswith("#EXTM3U") and not l.startswith("#DATE")]
-
-    old_blocks = extract_blocks(old_body_lines)
-    new_blocks = extract_blocks(new_body_lines)
-
-    merged = {}
-
-    # Step 1 — start from old: assume everything continues (keep previous status)
-    for key, block in old_blocks.items():
-        merged[key] = block
-
-    # Step 2 — update with new API data (overwrite or add fresh)
-    for key, block in new_blocks.items():
-        merged[key] = block
-
-    # Step 3 — mark disappeared (ended) games
-    for key, block in list(merged.items()):
-        if key not in new_blocks:
-            line = block[0]
-            status = get_status_from_line(line)
-            if status != "ENDED":
-                # mark as ENDED, keep same channel name, move to Ended Games group
-                ended_line = set_status_in_line(line, "ENDED")
-                ended_line = re.sub(r'group-title="[^"]*"', 'group-title="Ended Games"', ended_line)
-                block[0] = ended_line
-                merged[key] = block
-
-    # Step 4 — sort LIVE → UPCOMING → ENDED
-    def sort_key(block):
-        l0 = block[0]
-        status = get_status_from_line(l0)
-        name_key = normalize_name(l0)
-        if status == "LIVE":
-            return (0, name_key)
-        elif status == "ENDED":
-            return (2, name_key)
-        else:
-            return (1, name_key)
-
-    sorted_blocks = sorted(merged.values(), key=sort_key)
-
-    # Step 5 — rebuild, ensuring tvg-id is always clean
-    final_lines = [
-        '#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"',
-        date_marker,
-    ]
-    for block in sorted_blocks:
-        # normalize tvg-id in the main #EXTINF line
-        block[0] = normalize_tvg_id_in_line(block[0])
-        final_lines.extend(block)
-
-    print(f"✅ Playlist merged: {len(sorted_blocks)} total games (LIVE/upcoming/ENDED).")
-    return final_lines
-
-
-# --- Main ---
+# ---------------------------------------------------------------------
+# MAIN WORKFLOW
+# ---------------------------------------------------------------------
 
 async def main():
-    print("🚀 Starting PPV scraper")
-    data = await get_streams()
-    if not data or "streams" not in data:
-        print("❌ No valid data from API.")
+
+    print("🚀 Starting scraper...")
+
+    api = await get_streams()
+    if not api or "streams" not in api:
+        print("❌ No API data")
         return
 
-    phil_tz = pytz.timezone('Asia/Manila')
-    local_now = datetime.now(phil_tz)
+    phil_tz = pytz.timezone("Asia/Manila")
+    now = datetime.now(phil_tz)
+    today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    tomorrow_end = today_start + timedelta(days=2)
 
-    # Today 00:00 PHT
-    start_of_today = local_now.replace(hour=0, minute=0, second=0, microsecond=0)
+    start_ts = int(today_start.timestamp())
+    end_ts = int(tomorrow_end.timestamp())
+    now_ts = int(now.timestamp())
 
-    # 48-hour window → today + tomorrow
-    end_of_tomorrow = start_of_today + timedelta(days=2)
+    all_streams = []
 
-    start_ts = int(start_of_today.timestamp())
-    end_ts = int(end_of_tomorrow.timestamp())
-    now_ts = int(local_now.timestamp())
+    for cat in api["streams"]:
+        for s in cat.get("streams", []):
+            st = int(s.get("starts_at", 0))
+            if start_ts <= st < end_ts:
+                name = s.get("name", "Event")
+                stamp = format_timestamp(st)
+                if stamp:
+                    name = f"{name} ({stamp})"
 
-    today_streams = []
+                is_live = st <= now_ts < int(s.get("ends_at", st + 7200))
+                status = "LIVE" if is_live else "UPCOMING"
 
-    for category in data["streams"]:
-        raw_cat = category.get("category", "Misc").strip()
-        if "24/7" in raw_cat:
-            continue
-
-        for s in category.get("streams", []):
-            starts_at = s.get("starts_at")
-            if not starts_at:
-                continue
-
-            starts_at = int(starts_at)
-            ends_at = int(s.get("ends_at", starts_at + 4 * 3600))
-
-            # include today + tomorrow
-            if start_ts <= starts_at < end_ts:
-                name = s.get("name", "Unnamed Event").strip()
-                cat_name = raw_cat
-
-                if raw_cat.lower() == "basketball":
-                    cat_name = detect_basketball_type(name)
-                if raw_cat.lower() == "american football" and "college" in name.lower():
-                    cat_name = "College Football"
-
-                iframe = s.get("iframe")
-                poster = s.get("poster")
-                tag = s.get("tag")
-
-                date_str = format_timestamp(starts_at)
-                if date_str:
-                    name += f" ({date_str})"
-                if tag:
-                    name += f" [{tag}]"
-
-                is_live = starts_at <= now_ts < ends_at
-                is_ended = ends_at <= now_ts
-
-                status = "LIVE" if is_live else ("ENDED" if is_ended else "UPCOMING")
-
-                today_streams.append({
+                all_streams.append({
                     "name": name,
-                    "iframe": iframe,
-                    "category": cat_name,
-                    "poster": poster,
-                    "starts_at": starts_at,
-                    "ends_at": ends_at,
-                    "is_live": is_live,
-                    "is_ended": is_ended,
-                    "status": status,
+                    "iframe": s.get("iframe"),
+                    "category": cat.get("category", "Misc"),
+                    "status": status
                 })
 
-    # sort using internal status flags, but names are clean
-    today_streams.sort(
-        key=lambda x: (
-            0 if x["is_live"] else (2 if x["is_ended"] else 1),
-            x.get("starts_at", 0)
-        )
-    )
+    print(f"📌 Streams found today: {len(all_streams)}")
 
-    print(f"✅ Found {len(today_streams)} live/scheduled/ended games for {local_now.strftime('%b %d, %Y')} PHT")
-
+    # PLAYWRIGHT FIX FOR GITHUB ACTIONS
     async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=True)
+        browser = await p.firefox.launch(
+            headless=True,
+            args=[
+                "--no-sandbox",
+                "--disable-gpu",
+                "--disable-dev-shm-usage",
+            ]
+        )
         context = await browser.new_context()
         page = await context.new_page()
 
         url_map = {}
-        total = len(today_streams)
-        for idx, s in enumerate(today_streams, start=1):
-            key = f"{s['name']}::{s['category']}::{s['iframe']}"
-            print(f"🔎 [{idx}/{total}] Checking: {s['name']}")
+        for i, s in enumerate(all_streams, 1):
+            print(f"\n🔎 [{i}/{len(all_streams)}] {s['name']}")
             urls = await grab_m3u8_from_iframe(page, s["iframe"])
-            url_map[key] = urls
+            url_map[f"{s['name']}::{s['category']}::{s['iframe']}"] = urls
 
         await browser.close()
 
-    new_playlist = build_m3u(today_streams, url_map).splitlines()
-    merged_playlist = merge_with_existing("SportsWebcast.m3u8", new_playlist)
+    playlist = build_m3u(all_streams, url_map)
 
     with open("SportsWebcast.m3u8", "w", encoding="utf-8") as f:
-        f.write("\n".join(merged_playlist))
+        f.write(playlist)
 
-    print(f"✅ Updated SportsWebcast.m3u8 ({len(today_streams)} streams) at {datetime.now(phil_tz).strftime('%I:%M %p %Z')}")
+    print("✅ Playlist written!")
 
 
 if __name__ == "__main__":
