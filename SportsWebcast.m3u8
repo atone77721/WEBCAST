@@ -1,207 +1,142 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #DATE: 2025-12-05
-#EXTINF:-1 tvg-id="Racing.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg" group-title="Racing Action",Abu Dhabi Grand Prix - FP1 (Dec 05 @ 05:30 PM PHT) [Formula 1]
+#EXTINF:-1 tvg-id="NFL.Dummy.us|LIVE" tvg-logo="https://api.ppv.to/assets/thumb/f9b20d318285cdeb938c77fe8297c4c5-thumbnail.jpg" group-title="NFL Action",Cowboys vs. Lions (Dec 05 @ 09:15 AM PHT) [NFL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" group-title="Racing Action",Abu Dhabi Grand Prix - FP2 (Dec 05 @ 09:00 PM PHT) [Formula 1]
+https://gg.poocloud.in/nfl_dal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg" group-title="Racing Action",❌ NO STREAM - Abu Dhabi Grand Prix - FP1 (Dec 05 @ 05:30 PM PHT) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg" group-title="Racing Action",Abu Dhabi Grand Prix - FP3 (Dec 06 @ 06:30 PM PHT) [Formula 1]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/dcba7ff5908d374016964a7369ce3168-thumbnail.jpg" group-title="Racing Action",❌ NO STREAM - Abu Dhabi Grand Prix - FP2 (Dec 05 @ 09:00 PM PHT) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/e53715e90a78c2d744d6ebad3cac4082-thumbnail.jpg" group-title="Racing Action",Abu Dhabi Grand Prix - Qualifying (Dec 06 @ 10:00 PM PHT) [Formula 1]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/e691fdcd52c74ad7a1f499ce87247c61-thumbnail.jpg" group-title="Racing Action",❌ NO STREAM - Abu Dhabi Grand Prix - FP3 (Dec 06 @ 06:30 PM PHT) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/5669eb4d695b129543260e546460c3d9-thumbnail.jpg" group-title="Global Football Streams",Aston Villa vs. Arsenal (Dec 06 @ 08:30 PM PHT) [Premier League]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/e53715e90a78c2d744d6ebad3cac4082-thumbnail.jpg" group-title="Racing Action",❌ NO STREAM - Abu Dhabi Grand Prix - Qualifying (Dec 06 @ 10:00 PM PHT) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_avl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ebd6330a9e707f1c1b11f6b8e7a39a4b-thumbnail.jpg" group-title="Global Football Streams",Augsburg vs. Leverkusen (Dec 06 @ 10:30 PM PHT) [ESPN+]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/5669eb4d695b129543260e546460c3d9-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Aston Villa vs. Arsenal (Dec 06 @ 08:30 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_fca/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="Cricket Games",Australia vs. England (Dec 05 @ 12:00 PM PHT) [TNT Sports]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/ebd6330a9e707f1c1b11f6b8e7a39a4b-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Augsburg vs. Leverkusen (Dec 06 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/cricket/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/a864deab2f7445b9817e5c4878feaa14-thumbnail.jpg" group-title="NHL Action",Avalanche vs. Islanders (Dec 05 @ 08:00 AM PHT) [NHL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/4de443b4bf25d8cd895f9892ed00451d-thumbnail.jpg" group-title="Cricket Games",❌ NO STREAM - Australia vs. England (Dec 05 @ 12:00 PM PHT) [TNT Sports]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_col/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/6a7d04416231c99d68c7dd7494061c24-thumbnail.jpg" group-title="NHL Action",Blackhawks vs. Kings (Dec 05 @ 11:00 AM PHT) [NHL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/6a7d04416231c99d68c7dd7494061c24-thumbnail.jpg" group-title="NHL Action",❌ NO STREAM - Blackhawks vs. Kings (Dec 05 @ 11:00 AM PHT) [NHL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_chi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/4a6bfbf08c09305d88dbc1edd00e86a6-thumbnail.jpg" group-title="NHL Action",Blues vs. Bruins (Dec 05 @ 08:00 AM PHT) [NHL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/1078d5df2053b30575f47be015e1d96d-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Bournemouth vs. Chelsea (Dec 06 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_stl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/09822f0d61d0f969acfe86ce4ee2ebd8-thumbnail.jpg" group-title="NBA Games",Boston Celtics vs. Washington Wizards (Dec 05 @ 08:00 AM PHT) [MNMT]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/da3a18d1270ec1926f28fe1b64a64a5f-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Brest vs. AS Monaco (Dec 06 @ 02:00 AM PHT) [Ligue 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_washingtonwizards/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/1078d5df2053b30575f47be015e1d96d-thumbnail.jpg" group-title="Global Football Streams",Bournemouth vs. Chelsea (Dec 06 @ 11:00 PM PHT) [Premier League]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/ed0ef226b271fca14eeea02729239dc0-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Cologne vs. St. Pauli (Dec 06 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_bou/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/da3a18d1270ec1926f28fe1b64a64a5f-thumbnail.jpg" group-title="Global Football Streams",Brest vs. AS Monaco (Dec 06 @ 02:00 AM PHT) [Ligue 1]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/294edd06aa0e9953d5b0405f45284851-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Deportivo Alavés vs. Real Sociedad (Dec 06 @ 11:15 PM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_brs/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ed0ef226b271fca14eeea02729239dc0-thumbnail.jpg" group-title="Global Football Streams",Cologne vs. St. Pauli (Dec 06 @ 10:30 PM PHT) [ESPN+]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/5021abcd9df1a881c5df4f02b7aaf4ec-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Everton vs. Nottingham Forest (Dec 06 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_koe/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/294edd06aa0e9953d5b0405f45284851-thumbnail.jpg" group-title="Global Football Streams",Deportivo Alavés vs. Real Sociedad (Dec 06 @ 11:15 PM PHT) [LaLiga]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/d865ea3b1e8ded2aab9d592e39802363-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Heidenheim vs. Freiburg (Dec 06 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_ala/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/5021abcd9df1a881c5df4f02b7aaf4ec-thumbnail.jpg" group-title="Global Football Streams",Everton vs. Nottingham Forest (Dec 06 @ 11:00 PM PHT) [Premier League]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/7f94e26bb07da557ad7fdbd9496ff45d-thumbnail.jpg" group-title="NHL Action",❌ NO STREAM - Kraken vs. Oilers (Dec 05 @ 10:00 AM PHT) [NHL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_eve/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/25257e5da7f21ce688176d7de731f317-thumbnail.jpg" group-title="NBA Games",Golden State Warriors vs. Philadelphia 76ers (Dec 05 @ 08:00 AM PHT) [NBA TV]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/1413d2759f17d798cc6e8026acb33d5d-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - LOSC vs. OM (Dec 06 @ 04:00 AM PHT) [Ligue 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_philadelphia76ers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/d865ea3b1e8ded2aab9d592e39802363-thumbnail.jpg" group-title="Global Football Streams",Heidenheim vs. Freiburg (Dec 06 @ 10:30 PM PHT) [ESPN+]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/f6a585129153f4125a428a81af52b456-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Mainz vs. Gladbach (Dec 06 @ 03:30 AM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_hdh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/7f94e26bb07da557ad7fdbd9496ff45d-thumbnail.jpg" group-title="NHL Action",Kraken vs. Oilers (Dec 05 @ 10:00 AM PHT) [NHL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/95d441ba573d712a2fbb3c6e4055ecbf-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Manchester City vs. Sunderland (Dec 06 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_sea/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/d7d745a65870c6a5ccec399dcd6778c0-thumbnail.jpg" group-title="NBA Games",Los Angeles Lakers vs. Toronto Raptors (Dec 05 @ 08:30 AM PHT) [SPECSN]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/4e437abd9a4efbdba0aaae051fbb1556-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Newcastle United vs. Burnley (Dec 06 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/1413d2759f17d798cc6e8026acb33d5d-thumbnail.jpg" group-title="Global Football Streams",LOSC vs. OM (Dec 06 @ 04:00 AM PHT) [Ligue 1]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/caa8d416a236a3dcb3059952bd5d9b0d-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Real Oviedo vs. RCD Mallorca (Dec 06 @ 04:00 AM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ligue1_lil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/f6a585129153f4125a428a81af52b456-thumbnail.jpg" group-title="Global Football Streams",Mainz vs. Gladbach (Dec 06 @ 03:30 AM PHT) [ESPN+]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/635bd397f6e7f9fa0fa857712ffbd014-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Sassuolo vs. Fiorentina (Dec 06 @ 10:00 PM PHT) [Serie A]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_m05/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/95d441ba573d712a2fbb3c6e4055ecbf-thumbnail.jpg" group-title="Global Football Streams",Manchester City vs. Sunderland (Dec 06 @ 11:00 PM PHT) [Premier League]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/0556df90068e70e28351bd888c3c9dec-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Stuttgart vs. Bayern (Dec 06 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_mci/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/6a0b314c42279f6bf01a5262247901e5-thumbnail.jpg" group-title="Global Football Streams",Manchester United vs. West Ham United (Dec 05 @ 04:00 AM PHT) [Premier League]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/7868227a5e29bd941fc4411c798e9712-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Tottenham Hotspur vs. Brentford (Dec 06 @ 11:00 PM PHT) [Premier League]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_mun/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/954638ca2b72d2889b564e4386a9e11c-thumbnail.jpg" group-title="NHL Action",Maple Leafs vs. Hurricanes (Dec 05 @ 08:00 AM PHT) [NHL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/fd0b0ffd7a390b687758d2f9228f3c0d-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Villarreal CF vs. Getafe CF (Dec 06 @ 09:00 PM PHT) [LaLiga]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_tor/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/e646c4539db5abf49783f5d9bd1e743c-thumbnail.jpg" group-title="NBA Games",Minnesota Timberwolves vs. New Orleans Pelicans (Dec 05 @ 09:00 AM PHT) [GCSEN]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/64d7e3ee61963086e58cfd3c060d3ec4-thumbnail.jpg" group-title="NHL Action",❌ NO STREAM - Wild vs. Flames (Dec 05 @ 10:00 AM PHT) [NHL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_neworleanspelicans/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/4e437abd9a4efbdba0aaae051fbb1556-thumbnail.jpg" group-title="Global Football Streams",Newcastle United vs. Burnley (Dec 06 @ 11:00 PM PHT) [Premier League]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/87dd44a5b56faf653a95e0de19a68cf8-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Wolfsburg vs. Union Berlin (Dec 06 @ 10:30 PM PHT) [ESPN+]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_new/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/d9031379e00d10761829a2536b091d2e-thumbnail.jpg" group-title="NHL Action",Penguins vs. Lightning (Dec 05 @ 08:00 AM PHT) [NHL]
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|NO_STREAM" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling Events",❌ NO STREAM - WWE: Friday Night Smackdown (Dec 06 @ 09:00 AM PHT) [USA Network]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_pit/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/50aa367c422ad8867c6aca25302a78d0-thumbnail.jpg" group-title="NHL Action",Predators vs. Panthers (Dec 05 @ 08:00 AM PHT) [NHL]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_nsh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/40dd24bf57c0113f9a7a99ba7321453b-thumbnail.jpg" group-title="NHL Action",Rangers vs. Senators (Dec 05 @ 08:00 AM PHT) [NHL]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_nyr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/caa8d416a236a3dcb3059952bd5d9b0d-thumbnail.jpg" group-title="Global Football Streams",Real Oviedo vs. RCD Mallorca (Dec 06 @ 04:00 AM PHT) [LaLiga]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_ovi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/7b60559e15ab9043f053b1113da3a74f-thumbnail.jpg" group-title="NHL Action",Red Wings vs. Blue Jackets (Dec 05 @ 08:30 AM PHT) [NHL]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_det/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/635bd397f6e7f9fa0fa857712ffbd014-thumbnail.jpg" group-title="Global Football Streams",Sassuolo vs. Fiorentina (Dec 06 @ 10:00 PM PHT) [Serie A]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_sas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/0556df90068e70e28351bd888c3c9dec-thumbnail.jpg" group-title="Global Football Streams",Stuttgart vs. Bayern (Dec 06 @ 10:30 PM PHT) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_vfb/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling Events",TNA: Impact (Dec 05 @ 09:00 AM PHT) [AXS TV]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/7868227a5e29bd941fc4411c798e9712-thumbnail.jpg" group-title="Global Football Streams",Tottenham Hotspur vs. Brentford (Dec 06 @ 11:00 PM PHT) [Premier League]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_tot/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/5589c5a1b4d8425498b118b7b838ed8e-thumbnail.jpg" group-title="NBA Games",Utah Jazz vs. Brooklyn Nets (Dec 05 @ 08:30 AM PHT) [YES]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_brooklynnets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/fd0b0ffd7a390b687758d2f9228f3c0d-thumbnail.jpg" group-title="Global Football Streams",Villarreal CF vs. Getafe CF (Dec 06 @ 09:00 PM PHT) [LaLiga]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_vil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/64d7e3ee61963086e58cfd3c060d3ec4-thumbnail.jpg" group-title="NHL Action",Wild vs. Flames (Dec 05 @ 10:00 AM PHT) [NHL]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_min/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/87dd44a5b56faf653a95e0de19a68cf8-thumbnail.jpg" group-title="Global Football Streams",Wolfsburg vs. Union Berlin (Dec 06 @ 10:30 PM PHT) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_wob/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us|UPCOMING" tvg-logo="https://ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling Events",WWE: Friday Night Smackdown (Dec 06 @ 09:00 AM PHT) [USA Network]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://example.com/stream_unavailable.m3u8
