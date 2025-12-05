@@ -373,9 +373,9 @@ async def main():
         await browser.close()
 
     new_playlist = build_m3u(today_streams, url_map).splitlines()
-    merged = merge_with_existing("SportsWebcast.m3u8", new_playlist)
+    merged = merge_with_existing("SportsWebcastPT.m3u8", new_playlist)
 
-    with open("SportsWebcast.m3u8", "w", encoding="utf-8") as f:
+    with open("SportsWebcastPT.m3u8", "w", encoding="utf-8") as f:
         f.write("\n".join(merged))
 
     print(f"✅ Playlist updated at {datetime.now(PT).strftime('%I:%M %p %Z')}")
@@ -383,3 +383,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
