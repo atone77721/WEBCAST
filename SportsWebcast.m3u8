@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #DATE: 2025-12-05
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/64d7e3ee61963086e58cfd3c060d3ec4-thumbnail.jpg" group-title="NHL Action" status="LIVE",Wild vs. Flames (Dec 05 @ 10:00 AM PHT) [NHL]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nhl_min/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/872fb7fd7bc18d07bc42ed7eee3290f5-thumbnail.jpg" group-title="Racing Action" status="NO_STREAM",❌ NO STREAM - Abu Dhabi Grand Prix - FP1 (Dec 05 @ 05:30 PM PHT) [Formula 1]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
@@ -71,11 +66,6 @@ https://example.com/stream_unavailable.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://example.com/stream_unavailable.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d865ea3b1e8ded2aab9d592e39802363-thumbnail.jpg" group-title="Global Football Streams" status="NO_STREAM",❌ NO STREAM - Heidenheim vs. Freiburg (Dec 06 @ 10:30 PM PHT) [ESPN+]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7f94e26bb07da557ad7fdbd9496ff45d-thumbnail.jpg" group-title="NHL Action" status="NO_STREAM",❌ NO STREAM - Kraken vs. Oilers (Dec 05 @ 10:00 AM PHT) [NHL]
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
