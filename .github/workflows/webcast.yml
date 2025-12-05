@@ -9,7 +9,7 @@ permissions:
   contents: write   # REQUIRED for commit/push
 
 jobs:
-  build-m3u:
+  Scraping Streams:
     runs-on: ubuntu-latest
 
     steps:
