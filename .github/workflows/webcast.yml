@@ -31,7 +31,7 @@ jobs:
           playwright install
 
       - name: 🎯 Run scraping script
-        run: python webcast.py
+        run: python webcastPH.py
 
       - name: 💾 Commit & Safely Push if Playlist Changed
         env:
