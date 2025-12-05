@@ -13,7 +13,6 @@ CUSTOM_HEADERS = [
     '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0'
 ]
 
-
 # ---------------------------------------------------------------------
 # UTILITIES
 # ---------------------------------------------------------------------
@@ -25,25 +24,6 @@ def format_timestamp(ts):
         return dt.strftime("%b %d @ %I:%M %p") + " PHT"
     except Exception:
         return None
-
-
-def detect_basketball_type(name: str):
-    name_lower = name.lower()
-    nba_teams = ["hawks", "celtics", "nets", "hornets", "bulls", "cavaliers", "mavericks", "nuggets",
-                 "pistons", "warriors", "rockets", "pacers", "clippers", "lakers", "grizzlies",
-                 "heat", "bucks", "timberwolves", "pelicans", "knicks", "thunder", "magic", "sixers",
-                 "suns", "blazers", "kings", "spurs", "raptors", "jazz", "wizards"]
-
-    if any(team in name_lower for team in nba_teams):
-        return "NBA"
-
-    return "Basketball"
-
-
-def clean_tvg_id(tvg_id: str):
-    if not tvg_id:
-        return tvg_id
-    return tvg_id.split("|")[0].strip()
 
 
 def fix_m3u8(url: str):
@@ -72,7 +52,7 @@ async def get_streams():
 
 
 # ---------------------------------------------------------------------
-# M3U8 SCRAPER (FIXED FOR GITHUB ACTIONS)
+# M3U8 SCRAPER
 # ---------------------------------------------------------------------
 
 async def grab_m3u8_from_iframe(page, iframe_url):
@@ -90,15 +70,15 @@ async def grab_m3u8_from_iframe(page, iframe_url):
         await page.goto(iframe_url, timeout=25000, wait_until="load")
     except Exception as e:
         print("   ❌ Iframe load failed:", e)
-        page.remove_listener("response", on_response)
         return set()
 
-    await asyncio.sleep(7)
+    await asyncio.sleep(8)
 
     page.remove_listener("response", on_response)
 
     if not found:
         print("   ❌ No .m3u8 detected")
+
     return {fix_m3u8(u) for u in found}
 
 
@@ -136,11 +116,12 @@ async def main():
 
     api = await get_streams()
     if not api or "streams" not in api:
-        print("❌ No API data")
+        print("❌ No API data received")
         return
 
     phil_tz = pytz.timezone("Asia/Manila")
     now = datetime.now(phil_tz)
+
     today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
     tomorrow_end = today_start + timedelta(days=2)
 
@@ -153,6 +134,7 @@ async def main():
     for cat in api["streams"]:
         for s in cat.get("streams", []):
             st = int(s.get("starts_at", 0))
+
             if start_ts <= st < end_ts:
                 name = s.get("name", "Event")
                 stamp = format_timestamp(st)
@@ -160,47 +142,70 @@ async def main():
                     name = f"{name} ({stamp})"
 
                 is_live = st <= now_ts < int(s.get("ends_at", st + 7200))
-                status = "LIVE" if is_live else "UPCOMING"
 
                 all_streams.append({
                     "name": name,
                     "iframe": s.get("iframe"),
                     "category": cat.get("category", "Misc"),
-                    "status": status
+                    "status": "LIVE" if is_live else "UPCOMING"
                 })
 
-    print(f"📌 Streams found today: {len(all_streams)}")
+    print(f"📌 Streams today & tomorrow: {len(all_streams)}")
 
-    # PLAYWRIGHT FIX FOR GITHUB ACTIONS
+    if not all_streams:
+        print("⚠ No stream events found")
+        return
+
+    # URL storage
+    url_map = {}
+
+    # Playwright + Stealth
     from playwright_stealth import stealth_async
 
-    browser = await p.chromium.launch(
-    headless=False,   # Cloudflare blocks headless in GitHub Actions
-    args=[
-        "--disable-blink-features=AutomationControlled",
-        "--no-sandbox",
-        "--disable-gpu",
-        "--disable-dev-shm-usage"
-    ]
-)
+    async with async_playwright() as p:
 
-    context = await browser.new_context(
-    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
-    viewport={"width": 1920, "height": 1080"},
-)
+        browser = await p.chromium.launch(
+            headless=False,   # IMPORTANT: Cloudflare blocks headless
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--no-sandbox",
+                "--disable-gpu",
+                "--disable-dev-shm-usage"
+            ]
+        )
 
-    page = await context.new_page()
-    await stealth_async(page)     # IMPORTANT
+        context = await browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+            viewport={"width": 1920, "height": 1080}
+        )
 
+        page = await context.new_page()
+        await stealth_async(page)
 
+        # Scrape each iframe
+        for s in all_streams:
+            key = f"{s['name']}::{s['category']}::{s['iframe']}"
+
+            iframe_url = s["iframe"]
+            if not iframe_url:
+                print(f"❌ No iframe for {s['name']}")
+                url_map[key] = []
+                continue
+
+            print(f"\n🔎 Scraping: {s['name']} ({s['category']})")
+            urls = await grab_m3u8_from_iframe(page, iframe_url)
+            url_map[key] = list(urls)
+
+        await browser.close()
+
+    # Build playlist
     playlist = build_m3u(all_streams, url_map)
 
     with open("SportsWebcast.m3u8", "w", encoding="utf-8") as f:
         f.write(playlist)
 
-    print("✅ Playlist written!")
+    print("\n✅ Playlist written: SportsWebcast.m3u8\n")
 
 
 if __name__ == "__main__":
     asyncio.run(main())
-
