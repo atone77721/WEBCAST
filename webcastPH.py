@@ -132,6 +132,7 @@ NCAA_KEYWORDS = [
 
 
 # --- Utilities ---
+
 def format_timestamp(ts):
     try:
         phil_tz = pytz.timezone('Asia/Manila')
@@ -151,6 +152,13 @@ def detect_basketball_type(name: str):
     return "Basketball"
 
 
+def clean_tvg_id(tvg_id: str) -> str:
+    """Ensure tvg-id has no |status suffix."""
+    if not tvg_id:
+        return tvg_id
+    return tvg_id.split("|")[0].strip()
+
+
 # Rewrite index.m3u8 → tracks-v1a1/mono.ts.m3u8
 def fix_m3u8(url: str) -> str:
     if url.endswith("index.m3u8"):
@@ -159,6 +167,7 @@ def fix_m3u8(url: str) -> str:
 
 
 # --- Network ---
+
 async def get_streams():
     try:
         timeout = aiohttp.ClientTimeout(total=30)
@@ -175,6 +184,7 @@ async def get_streams():
 
 
 # --- Playwright Helper ---
+
 async def grab_m3u8_from_iframe(page, iframe_url):
     found_streams = set()
 
@@ -205,7 +215,9 @@ async def grab_m3u8_from_iframe(page, iframe_url):
 
 
 # --- Build Playlist ---
+
 def build_m3u(streams, url_map):
+    # tvg-id now ALWAYS clean, no |status
     lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"']
     seen = set()
 
@@ -224,19 +236,26 @@ def build_m3u(streams, url_map):
         logo = s.get("poster") or CATEGORY_LOGOS.get(cat, "")
         base_tvg = CATEGORY_TVG_IDS.get(cat, "Misc.Dummy.us")
 
-        # Status for sorting/merging, but NOT in channel name
         status = s.get("status", "UPCOMING")  # LIVE / ENDED / UPCOMING
-        tvg = f"{base_tvg}|{status}"
+
+        tvg = clean_tvg_id(base_tvg)
 
         if urls:
             for url in urls:
                 fixed_url = fix_m3u8(url)
-                lines.append(f'#EXTINF:-1 tvg-id="{tvg}" tvg-logo="{logo}" group-title="{group}",{name}')
+                # status stored in separate attribute, NOT in name or tvg-id
+                lines.append(
+                    f'#EXTINF:-1 tvg-id="{tvg}" tvg-logo="{logo}" group-title="{group}" status="{status}",{name}'
+                )
                 lines.extend(CUSTOM_HEADERS)
                 lines.append(fixed_url)
         else:
-            # No stream found – still keep placeholder
-            lines.append(f'#EXTINF:-1 tvg-id="{base_tvg}|NO_STREAM" tvg-logo="{logo}" group-title="{group}",❌ NO STREAM - {name}')
+            # No stream found – still keep placeholder (NO_STREAM status)
+            no_stream_status = "NO_STREAM"
+            lines.append(
+                f'#EXTINF:-1 tvg-id="{clean_tvg_id(base_tvg)}" tvg-logo="{logo}" '
+                f'group-title="{group}" status="{no_stream_status}",❌ NO STREAM - {name}'
+            )
             lines.extend(CUSTOM_HEADERS)
             lines.append("https://example.com/stream_unavailable.m3u8")
 
@@ -244,7 +263,15 @@ def build_m3u(streams, url_map):
 
 
 def merge_with_existing(existing_file, new_playlist_lines):
-    """Preserve ended games, update live ones, and reset daily. Status kept in tvg-id, NOT in name."""
+    """
+    Preserve ended games, update live ones, and reset daily.
+
+    Status is tracked via:
+      - status="LIVE/ENDED/UPCOMING/NO_STREAM" attribute (new style)
+      - group-title="Ended Games" (for ended items)
+      - legacy emoji prefixes (for backward compatibility)
+    tvg-id is kept CLEAN (no |status) and untouched beyond that.
+    """
     import re
     import pytz
     from datetime import datetime
@@ -265,17 +292,31 @@ def merge_with_existing(existing_file, new_playlist_lines):
         return datetime.now(tz).strftime("%Y-%m-%d")
 
     def get_status_from_line(line: str) -> str:
-        """Extract LIVE/ENDED/UPCOMING status from tvg-id or legacy emojis."""
+        """
+        Extract LIVE/ENDED/UPCOMING/NO_STREAM status.
+
+        Priority:
+          1) status="..." attribute (new style)
+          2) group-title="Ended Games"
+          3) legacy tvg-id="Base|STATUS" (backward compatibility)
+          4) legacy emojis
+          5) default UPCOMING
+        """
         l = line.lower()
 
-        # Legacy emoji detection (for backward compatibility)
-        if "🟢 live" in l:
-            return "LIVE"
-        if "🔴 ended" in l:
+        # New style: status="..."
+        m = re.search(r'status="([^"]*)"', line, re.IGNORECASE)
+        if m:
+            val = m.group(1).strip().upper()
+            if val in ("LIVE", "ENDED", "UPCOMING", "NO_STREAM"):
+                return val
+
+        # Group for ended
+        if 'group-title="ended games"' in l:
             return "ENDED"
 
-        # New tvg-id based detection: tvg-id="Base.ID|STATUS"
-        m = re.search(r'tvg-id="([^"]*)"', line)
+        # Legacy tvg-id based detection: tvg-id="Base.ID|STATUS"
+        m = re.search(r'tvg-id="([^"]*)"', line, re.IGNORECASE)
         if m:
             val = m.group(1)
             parts = val.split("|")
@@ -284,21 +325,43 @@ def merge_with_existing(existing_file, new_playlist_lines):
                 if status in ("LIVE", "ENDED", "UPCOMING", "NO_STREAM"):
                     return status
 
+        # Legacy emoji detection (for backward compatibility)
+        if "🟢 live" in l:
+            return "LIVE"
+        if "🔴 ended" in l:
+            return "ENDED"
+
         return "UPCOMING"
 
     def set_status_in_line(line: str, new_status: str) -> str:
-        """Set LIVE/ENDED/UPCOMING status in tvg-id attribute."""
+        """
+        Set LIVE/ENDED/UPCOMING status in a dedicated status="..." attribute.
+        tvg-id remains clean (no |status).
+        """
+        import re as _re
         new_status = new_status.upper()
+
+        # update existing status="..."
+        m = _re.search(r'status="([^"]*)"', line)
+        if m:
+            return line[:m.start(1)] + new_status + line[m.end(1):]
+
+        # otherwise, inject a status attribute before the comma
+        m2 = _re.search(r'#EXTINF:-1([^,]*),', line)
+        if m2:
+            before_attrs = m2.group(1)
+            new_attrs = before_attrs + f' status="{new_status}"'
+            return line[:m2.start(1)] + new_attrs + line[m2.end(1):]
+
+        return line
+
+    def normalize_tvg_id_in_line(line: str) -> str:
+        """Ensure any legacy tvg-id with |STATUS is cleaned."""
         m = re.search(r'tvg-id="([^"]*)"', line)
         if not m:
-            # no tvg-id; just inject a basic one
-            return line  # leave unchanged if malformed
-
-        full_val = m.group(1)
-        parts = full_val.split("|")
-        base = parts[0] if parts else full_val
-        new_val = f'{base}|{new_status}'
-        return line[:m.start(1)] + new_val + line[m.end(1):]
+            return line
+        base = clean_tvg_id(m.group(1))
+        return line[:m.start(1)] + base + line[m.end(1):]
 
     today = today_ph()
     date_marker = f"#DATE: {today}"
@@ -362,7 +425,7 @@ def merge_with_existing(existing_file, new_playlist_lines):
                 block[0] = ended_line
                 merged[key] = block
 
-    # Step 4 — sort LIVE → upcoming → ENDED
+    # Step 4 — sort LIVE → UPCOMING → ENDED
     def sort_key(block):
         l0 = block[0]
         status = get_status_from_line(l0)
@@ -376,12 +439,14 @@ def merge_with_existing(existing_file, new_playlist_lines):
 
     sorted_blocks = sorted(merged.values(), key=sort_key)
 
-    # Step 5 — rebuild
+    # Step 5 — rebuild, ensuring tvg-id is always clean
     final_lines = [
         '#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"',
         date_marker,
     ]
     for block in sorted_blocks:
+        # normalize tvg-id in the main #EXTINF line
+        block[0] = normalize_tvg_id_in_line(block[0])
         final_lines.extend(block)
 
     print(f"✅ Playlist merged: {len(sorted_blocks)} total games (LIVE/upcoming/ENDED).")
@@ -389,6 +454,7 @@ def merge_with_existing(existing_file, new_playlist_lines):
 
 
 # --- Main ---
+
 async def main():
     print("🚀 Starting PPV scraper")
     data = await get_streams()
@@ -424,7 +490,7 @@ async def main():
             starts_at = int(starts_at)
             ends_at = int(s.get("ends_at", starts_at + 4 * 3600))
 
-            # NEW — include today + tomorrow
+            # include today + tomorrow
             if start_ts <= starts_at < end_ts:
                 name = s.get("name", "Unnamed Event").strip()
                 cat_name = raw_cat
