@@ -164,22 +164,41 @@ async def main():
     # Playwright
     async with async_playwright() as p:
 
+        # -----------------------------------------
+        # HEADLESS FIX + CLOUDFLARE BYPASS PATCHES
+        # -----------------------------------------
         browser = await p.chromium.launch(
-            headless=False,  # Cloudflare blocks headless
+            headless=True,
             args=[
                 "--disable-blink-features=AutomationControlled",
-                "--no-sandbox",
+                "--disable-web-security",
+                "--disable-features=IsolateOrigins,site-per-process",
                 "--disable-gpu",
-                "--disable-dev-shm-usage"
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+                "--disable-extensions",
+                "--disable-background-timer-throttling",
+                "--disable-renderer-backgrounding",
+                "--disable-ipc-flooding-protection",
+                "--disable-popup-blocking"
             ]
         )
 
         context = await browser.new_context(
+            viewport={"width": 1920, "height": 1080},
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
-            viewport={"width": 1920, "height": 1080}
         )
 
         page = await context.new_page()
+
+        # Remove webdriver property
+        await page.add_init_script("""
+Object.defineProperty(navigator, 'webdriver', {
+    get: () => undefined
+});
+""")
+
+        # Apply stealth patches
         await stealth(page)
 
         # Scrape each iframe
