@@ -156,16 +156,16 @@ async def main():
         print("⚠ No stream events found")
         return
 
-    # URL storage
     url_map = {}
 
-    # Playwright + Stealth
-    from playwright_stealth import stealth_async
+    # Import stealth
+    from playwright_stealth import stealth
 
+    # Playwright
     async with async_playwright() as p:
 
         browser = await p.chromium.launch(
-            headless=False,   # IMPORTANT: Cloudflare blocks headless
+            headless=False,  # Cloudflare blocks headless
             args=[
                 "--disable-blink-features=AutomationControlled",
                 "--no-sandbox",
@@ -180,7 +180,7 @@ async def main():
         )
 
         page = await context.new_page()
-        await stealth_async(page)
+        await stealth(page)
 
         # Scrape each iframe
         for s in all_streams:
