@@ -172,25 +172,26 @@ async def main():
     print(f"📌 Streams found today: {len(all_streams)}")
 
     # PLAYWRIGHT FIX FOR GITHUB ACTIONS
-    async with async_playwright() as p:
-        browser = await p.firefox.launch(
-            headless=True,
-            args=[
-                "--no-sandbox",
-                "--disable-gpu",
-                "--disable-dev-shm-usage",
-            ]
-        )
-        context = await browser.new_context()
-        page = await context.new_page()
+    from playwright_stealth import stealth_async
 
-        url_map = {}
-        for i, s in enumerate(all_streams, 1):
-            print(f"\n🔎 [{i}/{len(all_streams)}] {s['name']}")
-            urls = await grab_m3u8_from_iframe(page, s["iframe"])
-            url_map[f"{s['name']}::{s['category']}::{s['iframe']}"] = urls
+    browser = await p.chromium.launch(
+    headless=False,   # Cloudflare blocks headless in GitHub Actions
+    args=[
+        "--disable-blink-features=AutomationControlled",
+        "--no-sandbox",
+        "--disable-gpu",
+        "--disable-dev-shm-usage"
+    ]
+)
 
-        await browser.close()
+    context = await browser.new_context(
+    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0",
+    viewport={"width": 1920, "height": 1080"},
+)
+
+    page = await context.new_page()
+    await stealth_async(page)     # IMPORTANT
+
 
     playlist = build_m3u(all_streams, url_map)
 
@@ -202,3 +203,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
