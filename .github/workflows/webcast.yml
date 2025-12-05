@@ -2,7 +2,7 @@ name: 🏈🏒⚾ Update SportsWebcast Playlist 📺
 
 on:
   schedule:
-       - cron: '0 */8 * * *'  # every 8 hour
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,29 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
       - name: 📥 Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
-      - name: 🐍 Set up Python 3.11
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Install Python dependencies & Playwright
+      - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install playwright urllib3 aiohttp beautifulsoup4 lxml pytz
           playwright install firefox
-           playwright install-deps firefox
+          playwright install-deps
 
-      - name: 🎯 Run scraping script
+      - name: 🔎 Run scraper
         run: python webcastPH.py
 
-      - name: 💾 Commit & Safely Push if Playlist Changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 💾 Commit & Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -43,21 +40,10 @@ jobs:
           git add SportsWebcast.m3u8
 
           if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
+            echo "No updates."
             exit 0
           fi
 
-          git commit -m "🔁 Update playlist $(date -u +'%a %b %d %T UTC %Y')"
-          sleep $((RANDOM % 10 + 5))
-
-          if ! git push origin main; then
-            echo "⚠️ Push rejected. Trying safe fetch + merge..."
-            git pull origin main --rebase || {
-              echo "❌ Rebase failed. Exiting to avoid corruption."
-              exit 1
-            }
-            git push origin main || {
-              echo "❌ Second push failed. Remote may have changed again."
-              exit 1
-            }
-          fi
+          git commit -m "Updated playlist $(date -u)"
+          git pull --rebase
+          git push
