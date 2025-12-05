@@ -52,7 +52,7 @@ async def get_streams():
 
 
 # ---------------------------------------------------------------------
-# M3U8 SCRAPER
+# SCRAPER
 # ---------------------------------------------------------------------
 
 async def grab_m3u8_from_iframe(page, iframe_url):
@@ -74,7 +74,7 @@ async def grab_m3u8_from_iframe(page, iframe_url):
 
     await asyncio.sleep(8)
 
-    page.remove_listener("response", on_response)
+    page.off("response", on_response)
 
     if not found:
         print("   ❌ No .m3u8 detected")
@@ -158,15 +158,11 @@ async def main():
 
     url_map = {}
 
-    # Import stealth
-    from playwright_stealth import stealth
+    # Correct stealth import
+    from playwright_stealth.stealth import stealth
 
-    # Playwright launch
     async with async_playwright() as p:
 
-        # -------------------------------------------------------
-        # HEADLESS MODE (GitHub Actions compatible)
-        # -------------------------------------------------------
         browser = await p.chromium.launch(
             headless=True,
             args=[
@@ -176,9 +172,7 @@ async def main():
                 "--disable-gpu",
                 "--no-sandbox",
                 "--disable-dev-shm-usage",
-                "--disable-extensions",
-                "--disable-popup-blocking",
-                "--disable-background-timer-throttling"
+                "--disable-popup-blocking"
             ]
         )
 
@@ -189,17 +183,15 @@ async def main():
 
         page = await context.new_page()
 
-        # Remove webdriver flag
+        # Remove webdriver
         await page.add_init_script("""
-Object.defineProperty(navigator, 'webdriver', {
-    get: () => undefined
-});
+Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
 """)
 
-        # Apply stealth (correct method)
-        await stealth.apply_stealth(page)
+        # Apply correct stealth function
+        await stealth(page)
 
-        # Scrape each iframe
+        # Scrape streams
         for s in all_streams:
             key = f"{s['name']}::{s['category']}::{s['iframe']}"
 
@@ -215,7 +207,6 @@ Object.defineProperty(navigator, 'webdriver', {
 
         await browser.close()
 
-    # Build playlist
     playlist = build_m3u(all_streams, url_map)
 
     with open("SportsWebcast.m3u8", "w", encoding="utf-8") as f:
