@@ -5,7 +5,7 @@ from datetime import datetime, timezone, timedelta
 import pytz
 import os
 
-API_URL = "https://api.ppv.to/api/streams"
+API_URL = "https://old.ppv.to/api/streams"
 
 CUSTOM_HEADERS = [
     '#EXTVLCOPT:http-origin=https://ppv.to',
@@ -496,4 +496,5 @@ async def main():
 
 
 if __name__ == "__main__":
+
     asyncio.run(main())
