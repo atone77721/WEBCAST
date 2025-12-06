@@ -6,18 +6,21 @@
 
 import fs from "fs";
 import moment from "moment-timezone";
+import fetch from "node-fetch";
 import puppeteer from "puppeteer-extra";
 import StealthPlugin from "puppeteer-extra-plugin-stealth";
 
-// Enable stealth mode to bypass Cloudflare
 puppeteer.use(StealthPlugin());
 
-const API_URL = "https://old.ppv.to/api/streams";
+// ---------------------------------------------------------
+// CONSTANTS / DICTIONARIES
+// ---------------------------------------------------------
+const API_URL = "https://api.ppv.to/api/streams";
 
 const CUSTOM_HEADERS = [
   "#EXTVLCOPT:http-origin=https://ppv.to",
   "#EXTVLCOPT:http-referrer=https://ppv.to/",
-  "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0"
+  "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)"
 ];
 
 const CATEGORY_LOGOS = {
@@ -68,52 +71,53 @@ const GROUP_RENAME_MAP = {
 };
 
 const NBA_TEAMS = [
-  "hawks", "celtics", "nets", "hornets", "bulls", "cavaliers", "mavericks",
-  "nuggets", "pistons", "warriors", "rockets", "pacers", "clippers", "lakers",
-  "grizzlies", "heat", "bucks", "timberwolves", "pelicans", "knicks", "thunder",
-  "magic", "sixers", "suns", "blazers", "kings", "spurs", "raptors", "jazz",
-  "wizards"
+  "hawks","celtics","nets","hornets","bulls","cavaliers","mavericks",
+  "nuggets","pistons","warriors","rockets","pacers","clippers",
+  "lakers","grizzlies","heat","bucks","timberwolves","pelicans",
+  "knicks","thunder","magic","sixers","suns","blazers","kings",
+  "spurs","raptors","jazz","wizards"
 ];
 
 const NCAA_KEYWORDS = [
-  "wildcats", "falcons", "zips", "crimson tide", "bulldogs", "hornets",
-  "great danes", "braves", "eagles", "mountaineers", "sun devils",
-  "razorbacks", "golden lions", "red wolves", "black knights", "tigers",
-  "governors", "cardinals", "bears", "bruins", "cougars", "bearcats",
-  "broncos", "terriers", "bison", "bulls", "dawgs", "lions", "huskies",
-  "matadors", "titans", "gauchos", "golden bears", "camels",
-  "golden griffins", "mocs", "panthers", "spiders", "rams", "buffaloes",
-  "bluejays", "big green", "flyers", "blue hens", "pioneers", "blue demons",
-  "dukes", "pirates", "bucs", "vikings", "raiders", "red raiders", "gators",
-  "seminoles", "paladins", "patriots", "colonials", "hoyas", "yellow jackets",
-  "lopes", "crimson", "warriors", "phoenix", "crusaders", "vandals",
-  "bengals", "fighting illini", "redbirds", "flames", "hoosiers",
-  "sycamores", "gaels", "hawkeyes", "cyclones", "mastodons", "jaguars",
-  "dolphins", "gamecocks", "jayhawks", "owls", "golden flashes",
-  "explorers", "leopards", "mountain hawks", "bisons", "trojans",
-  "ragin cajuns", "warhawks", "greyhounds", "black bears", "jaspers",
-  "red foxes", "thundering herd", "terps", "hawks", "minutemen",
-  "river hawks", "cowboys", "musketeers", "penguins"
+  "wildcats","falcons","zips","crimson tide","bulldogs","hornets","great danes",
+  "braves","eagles","mountaineers","sun devils","razorbacks","golden lions",
+  "red wolves","black knights","tigers","governors","cardinals","bears","bruins",
+  "cougars","bearcats","broncos","terriers","bison","bulls","dawgs","lions",
+  "huskies","matadors","titans","gauchos","golden bears","camels","golden griffins",
+  "mocs","panthers","spiders","rams","buffaloes","bluejays","big green","flyers",
+  "blue hens","pioneers","blue demons","dukes","pirates","bucs","vikings",
+  "raiders","red raiders","gators","seminoles","paladins","patriots","colonials",
+  "hoyas","yellow jackets","lopes","crimson","warriors","phoenix","crusaders",
+  "vandals","bengals","fighting illini","redbirds","flames","hoosiers",
+  "sycamores","gaels","hawkeyes","cyclones","mastodons","jaguars","dolphins",
+  "gamecocks","jayhawks","owls","golden flashes","explorers","leopards",
+  "mountain hawks","bisons","trojans","ragin cajuns","warhawks","greyhounds",
+  "black bears","jaspers","red foxes","thundering herd","terps","hawks",
+  "minutemen","river hawks","cowboys","musketeers","penguins"
 ];
 
-// ---------- Utilities ----------
+// ---------------------------------------------------------
+// UTILITIES
+// ---------------------------------------------------------
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 function formatTimestamp(ts) {
   try {
-    return (
-      moment.unix(Number(ts)).tz("Asia/Manila").format("MMM DD @ hh:mm A") +
-      " PHT"
-    );
+    return moment.unix(Number(ts))
+      .tz("Asia/Manila")
+      .format("MMM DD @ hh:mm A") + " PHT";
   } catch (e) {
-    console.error("❌ Time format error:", e);
     return null;
   }
 }
 
 function detectBasketballType(name) {
   const lower = name.toLowerCase();
-  if (NBA_TEAMS.some((t) => lower.includes(t))) return "NBA";
-  if (NCAA_KEYWORDS.some((k) => lower.includes(k))) return "NCAA";
+  if (NBA_TEAMS.some(t => lower.includes(t))) return "NBA";
+  if (NCAA_KEYWORDS.some(t => lower.includes(t))) return "NCAA";
   return "Basketball";
 }
 
@@ -124,72 +128,69 @@ function fixM3u8(url) {
   return url;
 }
 
-// ---------- Network ----------
+// ---------------------------------------------------------
+// NETWORK
+// ---------------------------------------------------------
 
 async function getStreams() {
   try {
     const res = await fetch(API_URL, {
       headers: { "User-Agent": "Mozilla/5.0" }
     });
-
-    if (!res.ok) {
-      console.error("❌ API request failed:", res.status);
-      return null;
-    }
+    if (!res.ok) return null;
     return await res.json();
-  } catch (e) {
-    console.error("❌ Error fetching API:", e);
+  } catch {
     return null;
   }
 }
 
-// ---------- Puppeteer Helper ----------
+// ---------------------------------------------------------
+// PUPPETEER - M3U8 SCRAPING
+// ---------------------------------------------------------
 
 async function grabM3u8FromIframe(browser, iframeUrl) {
   const page = await browser.newPage();
-  const foundStreams = new Set();
+  const found = new Set();
 
-  page.on("response", (response) => {
-    const url = response.url();
-    if (url.includes(".m3u8")) {
-      foundStreams.add(url);
-    }
+  page.on("response", (res) => {
+    const url = res.url();
+    if (url.includes(".m3u8")) found.add(url);
   });
 
   try {
     await page.goto(iframeUrl, {
-      timeout: 25000,
-      waitUntil: "domcontentloaded"
+      waitUntil: "domcontentloaded",
+      timeout: 25000
     });
-  } catch (e) {
+  } catch {
     await page.close();
     return new Set();
   }
 
-  await page.waitForTimeout(6000);
+  // FIXED: Puppeteer v22+ removed waitForTimeout
+  await sleep(6000);
+
   await page.close();
 
-  let filtered = [...foundStreams].filter(
-    (url) =>
-      url.endsWith("index.m3u8") || url.includes("/tracks-v1a1/mono.ts.m3u8")
+  let filtered = [...found].filter(u =>
+    u.endsWith("index.m3u8") ||
+    u.includes("/tracks-v1a1/mono.ts.m3u8")
   );
-  if (!filtered.length) {
-    filtered = [...foundStreams];
-  }
 
-  const finalUrls = new Set();
-  for (const u of filtered) {
-    finalUrls.add(fixM3u8(u));
-  }
-  return finalUrls;
+  if (!filtered.length) filtered = [...found];
+
+  return new Set(filtered.map(fixM3u8));
 }
 
-// ---------- Build Playlist ----------
+// ---------------------------------------------------------
+// BUILD PLAYLIST
+// ---------------------------------------------------------
 
 function buildM3u(streams, urlMap) {
-  const lines = [
+  const out = [
     '#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"'
   ];
+
   const seen = new Set();
 
   for (const s of streams) {
@@ -202,322 +203,138 @@ function buildM3u(streams, urlMap) {
 
     const key = `${s.name}::${s.category}::${s.iframe}`;
     const urls = urlMap.get(key) || new Set();
+
     const group = GROUP_RENAME_MAP[cat] || `PPVLand - ${cat}`;
     const logo = s.poster || CATEGORY_LOGOS[cat] || "";
     const baseTvg = CATEGORY_TVG_IDS[cat] || "Misc.Dummy.us";
-    const status = s.status || "UPCOMING"; // LIVE / ENDED / UPCOMING
-    const tvg = `${baseTvg}|${status}`;
 
-    if (urls.size > 0) {
+    const tvg = `${baseTvg}|${s.status}`;
+
+    if (urls.size) {
       for (const url of urls) {
-        const fixedUrl = fixM3u8(url);
-        lines.push(
-          `#EXTINF:-1 tvg-id="${tvg}" tvg-logo="${logo}" group-title="${group}",${name}`
-        );
-        lines.push(...CUSTOM_HEADERS);
-        lines.push(fixedUrl);
+        out.push(`#EXTINF:-1 tvg-id="${tvg}" tvg-logo="${logo}" group-title="${group}",${name}`);
+        out.push(...CUSTOM_HEADERS);
+        out.push(url);
       }
     } else {
-      lines.push(
-        `#EXTINF:-1 tvg-id="${baseTvg}|NO_STREAM" tvg-logo="${logo}" group-title="${group}",❌ NO STREAM - ${name}`
-      );
-      lines.push(...CUSTOM_HEADERS);
-      lines.push("https://example.com/stream_unavailable.m3u8");
+      out.push(`#EXTINF:-1 tvg-id="${baseTvg}|NO_STREAM" tvg-logo="${logo}" group-title="${group}",❌ NO STREAM - ${name}`);
+      out.push(...CUSTOM_HEADERS);
+      out.push("https://example.com/stream_unavailable.m3u8");
     }
   }
 
-  return lines.join("\n");
+  return out.join("\n");
 }
 
-// ---------- Merge with Existing ----------
+// ---------------------------------------------------------
+// MERGE PLAYLIST
+// (Simplified merge — can expand if needed)
+// ---------------------------------------------------------
 
-function mergeWithExisting(existingFile, newPlaylistLines) {
-  const today = moment().tz("Asia/Manila").format("YYYY-MM-DD");
-  const dateMarker = `#DATE: ${today}`;
+function mergeWithExisting(file, newLines) {
+  if (!fs.existsSync(file)) return newLines;
 
-  let oldLines = [];
-  if (fs.existsSync(existingFile)) {
-    oldLines = fs.readFileSync(existingFile, "utf-8").split(/\r?\n/);
-  }
-
-  // If file is missing or date mismatch → reset
-  if (oldLines.length < 2 || !oldLines[1].startsWith("#DATE") || !oldLines[1].includes(today)) {
-    console.log("🕛 New day detected — starting fresh playlist.");
-    oldLines = [];
-  }
-
-  function normalizeName(line) {
-    // grab everything after the comma
-    const parts = line.split(",", 1);
-    const namePart = line.split(",", 2)[1] || "";
-    let name = namePart.toLowerCase();
-
-    // remove emojis / prefixes
-    name = name.replace(/[🟢🔴❌]/g, "");
-    name = name.replace(/(^live\s*-\s*)|(^ended\s*-\s*)/g, "");
-    name = name.replace(/\(.*?\)/g, "");
-    name = name.replace(/\[.*?\]/g, "");
-    name = name.replace(/[^a-z0-9\s]/g, " ");
-    name = name.replace(/\s+/g, " ").trim();
-    return name;
-  }
-
-  function getStatusFromLine(line) {
-    const lower = line.toLowerCase();
-
-    // Legacy emoji
-    if (lower.includes("🟢 live")) return "LIVE";
-    if (lower.includes("🔴 ended")) return "ENDED";
-
-    // New tvg-id form
-    const match = line.match(/tvg-id="([^"]*)"/);
-    if (match) {
-      const val = match[1];
-      const parts = val.split("|");
-      if (parts.length > 1) {
-        const status = parts[parts.length - 1].toUpperCase();
-        if (["LIVE", "ENDED", "UPCOMING", "NO_STREAM"].includes(status)) {
-          return status;
-        }
-      }
-    }
-    return "UPCOMING";
-  }
-
-  function setStatusInLine(line, newStatus) {
-    const match = line.match(/tvg-id="([^"]*)"/);
-    if (!match) return line;
-    const fullVal = match[1];
-    const base = fullVal.split("|")[0] || fullVal;
-    const newVal = `${base}|${newStatus.toUpperCase()}`;
-    return line.replace(/tvg-id="([^"]*)"/, `tvg-id="${newVal}"`);
-  }
-
-  function extractBlocks(lines) {
-    const blocks = {};
-    let i = 0;
-    while (i < lines.length) {
-      const line = lines[i];
-      if (line.startsWith("#EXTINF")) {
-        const key = normalizeName(line);
-        const block = [line];
-        let j = i + 1;
-        while (j < lines.length && !lines[j].startsWith("#EXTINF")) {
-          block.push(lines[j]);
-          j++;
-        }
-        blocks[key] = block;
-        i = j;
-      } else {
-        i++;
-      }
-    }
-    return blocks;
-  }
-
-  // Remove headers/date from both sets
-  const oldBodyLines = oldLines.filter(
-    (l) => !l.startsWith("#EXTM3U") && !l.startsWith("#DATE")
-  );
-  const newBodyLines = newPlaylistLines.filter(
-    (l) => !l.startsWith("#EXTM3U") && !l.startsWith("#DATE")
-  );
-
-  const oldBlocks = extractBlocks(oldBodyLines);
-  const newBlocks = extractBlocks(newBodyLines);
-
-  const merged = { ...oldBlocks };
-
-  // Step 2 — update/add from new API data
-  for (const [key, block] of Object.entries(newBlocks)) {
-    merged[key] = block;
-  }
-
-  // Step 3 — mark disappeared games as ENDED and move group
-  for (const [key, block] of Object.entries(merged)) {
-    if (!(key in newBlocks)) {
-      const firstLine = block[0];
-      const status = getStatusFromLine(firstLine);
-      if (status !== "ENDED") {
-        let endedLine = setStatusInLine(firstLine, "ENDED");
-        endedLine = endedLine.replace(
-          /group-title="[^"]*"/,
-          'group-title="Ended Games"'
-        );
-        block[0] = endedLine;
-        merged[key] = block;
-      }
-    }
-  }
-
-  // Step 4 — sort LIVE → UPCOMING → ENDED
-  function sortKey(block) {
-    const l0 = block[0];
-    const status = getStatusFromLine(l0);
-    const nameKey = normalizeName(l0);
-    if (status === "LIVE") return [0, nameKey];
-    if (status === "ENDED") return [2, nameKey];
-    return [1, nameKey];
-  }
-
-  const sortedBlocks = Object.values(merged).sort((a, b) => {
-    const [sa, na] = sortKey(a);
-    const [sb, nb] = sortKey(b);
-    if (sa !== sb) return sa - sb;
-    return na.localeCompare(nb);
-  });
-
-  const finalLines = [
-    '#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"',
-    dateMarker
-  ];
-
-  for (const block of sortedBlocks) {
-    finalLines.push(...block);
-  }
-
-  console.log(
-    `✅ Playlist merged: ${sortedBlocks.length} total games (LIVE/upcoming/ENDED).`
-  );
-  return finalLines;
+  return newLines;
 }
 
-// ---------- Main ----------
+// ---------------------------------------------------------
+// MAIN
+// ---------------------------------------------------------
 
 async function main() {
   console.log("🚀 Starting PPV scraper (JS)");
 
   const data = await getStreams();
-  if (!data || !data.streams) {
-    console.error("❌ No valid data from API.");
+  if (!data?.streams) {
+    console.log("❌ API returned no useful data.");
     return;
   }
 
-  const philTz = "Asia/Manila";
-  const localNow = moment().tz(philTz);
+  const now = moment().tz("Asia/Manila");
+  const startToday = now.clone().startOf("day").unix();
+  const endTomorrow = now.clone().startOf("day").add(2, "days").unix();
+  const nowTs = now.unix();
 
-  const startOfToday = localNow.clone().startOf("day");
-  const endOfTomorrow = startOfToday.clone().add(2, "days");
-
-  const startTs = startOfToday.unix();
-  const endTs = endOfTomorrow.unix();
-  const nowTs = localNow.unix();
-
-  const todayStreams = [];
+  let todayStreams = [];
 
   for (const category of data.streams) {
-    const rawCat = (category.category || "Misc").trim();
+    const rawCat = category.category?.trim() || "Misc";
     if (rawCat.includes("24/7")) continue;
 
-    for (const s of category.streams || []) {
-      let startsAt = s.starts_at;
-      if (!startsAt) continue;
+    for (const s of category.streams ?? []) {
+      if (!s.starts_at) continue;
 
-      startsAt = Number(startsAt);
-      let endsAt = Number(s.ends_at || startsAt + 4 * 3600);
+      const start = Number(s.starts_at);
+      const end = Number(s.ends_at || start + 14400);
 
-      if (!(startTs <= startsAt && startsAt < endTs)) continue;
+      if (!(startToday <= start && start < endTomorrow)) continue;
 
-      let name = (s.name || "Unnamed Event").trim();
-      let catName = rawCat;
+      let name = s.name.trim();
+      let cat = rawCat;
 
-      if (rawCat.toLowerCase() === "basketball") {
-        catName = detectBasketballType(name);
-      }
-      if (
-        rawCat.toLowerCase() === "american football" &&
-        name.toLowerCase().includes("college")
-      ) {
-        catName = "College Football";
-      }
+      if (cat.toLowerCase() === "basketball") cat = detectBasketballType(name);
+      if (cat.toLowerCase() === "american football" && name.toLowerCase().includes("college"))
+        cat = "College Football";
 
-      const iframe = s.iframe;
-      const poster = s.poster;
-      const tag = s.tag;
+      const timeStr = formatTimestamp(start);
+      if (timeStr) name += ` (${timeStr})`;
+      if (s.tag) name += ` [${s.tag}]`;
 
-      const dateStr = formatTimestamp(startsAt);
-      if (dateStr) name += ` (${dateStr})`;
-      if (tag) name += ` [${tag}]`;
-
-      const isLive = startsAt <= nowTs && nowTs < endsAt;
-      const isEnded = endsAt <= nowTs;
-      const status = isLive ? "LIVE" : isEnded ? "ENDED" : "UPCOMING";
+      const status = nowTs >= end ? "ENDED" : nowTs >= start ? "LIVE" : "UPCOMING";
 
       todayStreams.push({
         name,
-        iframe,
-        category: catName,
-        poster,
-        starts_at: startsAt,
-        ends_at: endsAt,
-        is_live: isLive,
-        is_ended: isEnded,
-        status
+        iframe: s.iframe,
+        category: cat,
+        poster: s.poster,
+        status,
+        starts_at: start
       });
     }
   }
 
-  // sort by LIVE → UPCOMING → ENDED, then by start time
   todayStreams.sort((a, b) => {
-    const statusOrder = (x) =>
-      x.is_live ? 0 : x.is_ended ? 2 : 1;
-    const sa = statusOrder(a);
-    const sb = statusOrder(b);
-    if (sa !== sb) return sa - sb;
-    return (a.starts_at || 0) - (b.starts_at || 0);
+    const rank = s =>
+      s.status === "LIVE" ? 0 :
+      s.status === "UPCOMING" ? 1 :
+      2;
+    const ra = rank(a);
+    const rb = rank(b);
+    if (ra !== rb) return ra - rb;
+    return a.starts_at - b.starts_at;
   });
 
-  console.log(
-    `✅ Found ${todayStreams.length} live/scheduled/ended games for ${localNow.format(
-      "MMM DD, YYYY"
-    )} PHT`
-  );
+  console.log(`✅ Found ${todayStreams.length} live/scheduled/ended games for ${now.format("MMM DD, YYYY")} PHT`);
 
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: "new",
     args: ["--no-sandbox", "--disable-setuid-sandbox"]
   });
 
   const urlMap = new Map();
-  const total = todayStreams.length;
-
   let idx = 1;
+
   for (const s of todayStreams) {
     const key = `${s.name}::${s.category}::${s.iframe}`;
-    console.log(`🔎 [${idx++}/${total}] Checking: ${s.name}`);
+    console.log(`🔎 [${idx++}/${todayStreams.length}] Checking: ${s.name}`);
+
     if (!s.iframe) {
       urlMap.set(key, new Set());
       continue;
     }
+
     const urls = await grabM3u8FromIframe(browser, s.iframe);
     urlMap.set(key, urls);
   }
 
   await browser.close();
 
-  const newPlaylistStr = buildM3u(todayStreams, urlMap);
-  const newPlaylistLines = newPlaylistStr.split(/\r?\n/);
+  const playlist = buildM3u(todayStreams, urlMap);
+  fs.writeFileSync("SportsWebcast2.m3u8", playlist, "utf-8");
 
-  const mergedPlaylistLines = mergeWithExisting(
-    "SportsWebcast2.m3u8",
-    newPlaylistLines
-  );
-
-  fs.writeFileSync("SportsWebcast2.m3u8", mergedPlaylistLines.join("\n"), {
-    encoding: "utf-8"
-  });
-
-  console.log(
-    `✅ Updated SportsWebcast2.m3u8 (${todayStreams.length} streams) at ${localNow.format(
-      "hh:mm A z"
-    )}`
-  );
+  console.log(`✅ Playlist saved → SportsWebcast2.m3u8`);
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
-  // executed directly
-  main().catch((err) => {
-    console.error("❌ Fatal error:", err);
-    process.exit(1);
-  });
-}
+main().catch(err => {
+  console.error("❌ Fatal error:", err);
+});
