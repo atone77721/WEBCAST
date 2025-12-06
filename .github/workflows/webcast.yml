@@ -2,8 +2,8 @@ name: 🏈🏒⚾ Update SportsWebcast Playlist 📺
 
 on:
   schedule:
-    - cron: '0 */8 * * *' # Runs every 8 Hours
-  workflow_dispatch:          # Allows manual run
+    - cron: '0 */8 * * *' # Runs every 8 hours
+  workflow_dispatch:       # Allows manual run
 
 permissions:
   contents: write   # REQUIRED for commit/push
@@ -30,7 +30,6 @@ jobs:
           playwright install chromium firefox
           playwright install-deps chromium firefox
 
-
       - name: Run script to generate M3U8
         run: |
           python -u PH.py
@@ -45,6 +44,16 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+
+          # Fetch latest remote changes and reset local branch
+          git fetch origin main
+          git reset --hard origin/main
+
+          # Add updated file
           git add SportsWebcast2.m3u8
-          git commit -m "Auto-update SportsWebcast2.m3u8" || echo "No changes"
-          git push
+
+          # Commit changes if any
+          git commit -m "Auto-update SportsWebcast2.m3u8" || echo "No changes to commit"
+
+          # Push changes to remote
+          git push origin main
