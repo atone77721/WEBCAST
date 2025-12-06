@@ -13,7 +13,7 @@ import StealthPlugin from "puppeteer-extra-plugin-stealth";
 // enable stealth mode to bypass Cloudflare
 puppeteer.use(StealthPlugin());
 
-const API_URL = "https://old.ppv.to/api/streams";
+const API_URL = "https://api.ppv.to/api/streams";
 
 const CUSTOM_HEADERS = [
   '#EXTVLCOPT:http-origin=https://ppv.to',
