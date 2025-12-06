@@ -198,28 +198,32 @@ function buildM3u(streams, urlMap) {
     if (seen.has(name.toLowerCase())) continue;
     seen.add(name.toLowerCase());
 
-    let cat = s.category || "Misc";
-    if (cat === "Basketball") cat = detectBasketballType(name);
-
     const key = `${s.name}::${s.category}::${s.iframe}`;
     const urls = urlMap.get(key) || new Set();
 
+    const cat = s.category;
     const group = GROUP_RENAME_MAP[cat] || `PPVLand - ${cat}`;
     const logo = s.poster || CATEGORY_LOGOS[cat] || "";
+
+    // 🔥 tvg-id should NOT include LIVE/ENDED/UPCOMING
     const baseTvg = CATEGORY_TVG_IDS[cat] || "Misc.Dummy.us";
+    const tvg = baseTvg;
 
-    const tvg = `${baseTvg}|${s.status}`;
-
-    if (urls.size) {
+    if (urls.size > 0) {
       for (const url of urls) {
-        out.push(`#EXTINF:-1 tvg-id="${tvg}" tvg-logo="${logo}" group-title="${group}",${name}`);
+        out.push(
+          `#EXTINF:-1 tvg-id="${tvg}" tvg-logo="${logo}" group-title="${group}",${name}`
+        );
         out.push(...CUSTOM_HEADERS);
         out.push(url);
       }
     } else {
-      out.push(`#EXTINF:-1 tvg-id="${baseTvg}|NO_STREAM" tvg-logo="${logo}" group-title="${group}",❌ NO STREAM - ${name}`);
+      // 🔥 Even here: remove |NO_STREAM (must be clean)
+      out.push(
+        `#EXTINF:-1 tvg-id="${tvg}" tvg-logo="${logo}" group-title="${group}",❌ NO STREAM - ${name}`
+      );
       out.push(...CUSTOM_HEADERS);
-      out.push("https://example.com/stream_unavailable.m3u8");
+      out.push("https://example.com/no_stream.m3u8");
     }
   }
 
