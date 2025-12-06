@@ -2,7 +2,7 @@ name: Generate Pixelsports M3U
 
 on:
   schedule:
-    - cron: "* */8 * * *"   # Runs every 8 Hours
+    - cron: "0 */8 * * *"   # Runs every 8 Hours
   workflow_dispatch:          # Allows manual run
 
 permissions:
