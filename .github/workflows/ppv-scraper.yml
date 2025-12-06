@@ -1,46 +1,46 @@
-name: PPV Scraper Auto Update
+name: Generate SportsWebcast M3U
 
 on:
   schedule:
-    # Every 8 hours
-    - cron: "0 */8 * * *"
-  workflow_dispatch:  # manual run
+    - cron: "0 */8 * * *"    # Runs every 8 hours
+  workflow_dispatch:          # Manual trigger
+
+permissions:
+  contents: write    # REQUIRED so Action can push changes
 
 jobs:
-  run-scraper:
+  build-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (with write token)
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "20"
 
       - name: Install dependencies
         run: |
           npm install
 
-      - name: Run scraper
+      - name: Run JS scraper to generate M3U8
         run: |
           node scraper.js
 
-      - name: Commit & Push updated playlist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action Bot"
+      - name: Upload artifact (SportsWebcast2.m3u8)
+        uses: actions/upload-artifact@v4
+        with:
+          name: SportsWebcast2
+          path: SportsWebcast2.m3u8
 
-          if [[ `git status --porcelain` ]]; then
-            git add SportsWebcast2.m3u8
-            git commit -m "Auto-update playlist (every 8 hours)"
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:main
-          else
-            echo "No changes detected → nothing to commit."
-          fi
+      - name: Commit & push updated playlist
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add SportsWebcast2.m3u8
+          git commit -m "Auto-update SportsWebcast2.m3u8" || echo "No changes"
+          git push
