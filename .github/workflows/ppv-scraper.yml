@@ -4,7 +4,7 @@ on:
   schedule:
     # Every 8 hours
     - cron: "0 */8 * * *"
-  workflow_dispatch:  # allow manual trigger
+  workflow_dispatch:  # manual run
 
 jobs:
   run-scraper:
@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install node-fetch puppeteer-extra puppeteer-extra-plugin-stealth moment-timezone
+          npm install
 
       - name: Run scraper
         run: |
@@ -37,7 +37,6 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action Bot"
 
-          # Add file only if changed
           if [[ `git status --porcelain` ]]; then
             git add SportsWebcast2.m3u8
             git commit -m "Auto-update playlist (every 8 hours)"
