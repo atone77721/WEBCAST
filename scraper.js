@@ -1,7 +1,7 @@
 // ---------------------------------------------------------
 //  PPV Scraper - JS (ESM) - No Playwright
 //  Uses puppeteer-extra + stealth to bypass Cloudflare
-//  Writes & merges SportsWebcast2.m3u8
+//  Writes & merges SportsWebcast.m3u8
 // ---------------------------------------------------------
 
 import fs from "fs";
@@ -330,9 +330,9 @@ async function main() {
   await browser.close();
 
   const playlist = buildM3u(todayStreams, urlMap);
-  fs.writeFileSync("SportsWebcast2.m3u8", playlist, "utf-8");
+  fs.writeFileSync("SportsWebcast.m3u8", playlist, "utf-8");
 
-  console.log(`✅ Playlist saved → SportsWebcast2.m3u8`);
+  console.log(`✅ Playlist saved → SportsWebcast.m3u8`);
 }
 
 main().catch(err => {
