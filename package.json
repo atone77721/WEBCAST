@@ -1,0 +1,14 @@
+{
+  "name": "webcast-ppv-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper.js"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.46",
+    "puppeteer": "^23.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
