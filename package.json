@@ -6,8 +6,9 @@
     "scrape": "node scraper.js"
   },
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "moment-timezone": "^0.5.46",
-    "puppeteer": "^23.0.0",
+    "puppeteer": "^24.2.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.1"
   }
