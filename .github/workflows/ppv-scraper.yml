@@ -2,7 +2,7 @@ name: Generate SportsWebcast M3U
 
 on:
   schedule:
-    - cron: "0 */12 * * *"    # Runs every 12 hours
+    - cron: "0 */10 * * *"    # Runs every 12 hours
   workflow_dispatch:          # Manual trigger
 
 permissions:
