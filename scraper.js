@@ -18,8 +18,8 @@ puppeteer.use(StealthPlugin());
 const API_URL = "https://api.ppv.to/api/streams";
 
 const CUSTOM_HEADERS = [
-  "#EXTVLCOPT:http-origin=https://ppv.to",
-  "#EXTVLCOPT:http-referrer=https://ppv.to/",
+  "#EXTVLCOPT:http-origin=https://playembed.top",
+  "#EXTVLCOPT:http-referrer=https://playembed.top",
   "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)"
 ];
 
