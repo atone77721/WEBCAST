@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Global Football Streams",CBS Sports Golazo Show (Dec 10 @ 04:00 AM PHT) [Champions League]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ucl_golazo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bb9b86f3eb0384ce89eb8293a227abe8-thumbnail.jpg" group-title="NBA Games",Miami Heat vs. Orlando Magic (Dec 10 @ 07:00 AM PHT) [Prime Video]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
