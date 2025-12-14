@@ -1,144 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts",World Darts Championship (Dec 13 @ 04:30 AM PST) [PDC Darts]
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/89647087f9537a270dafb8effb13c9a4-thumbnail.jpg" group-title="Combat Sports",Pacheco vs. Sadjo (Dec 13 @ 02:00 PM PST) [DAZN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/48aa5c30a9eea2f8eccd73c17d086928-thumbnail.jpg" group-title="Global Football Streams",Atlético de Madrid vs. Valencia CF (Dec 13 @ 05:00 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_atm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/70b4351c063e5fcb75c361254315a71c-thumbnail.jpg" group-title="Global Football Streams",Torino vs. Cremonese (Dec 13 @ 06:00 AM PST) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/seriea_tor/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dd9a64549d7fa6bd306566b0093c32ba-thumbnail.jpg" group-title="Global Football Streams",Goal Arena (Dec 13 @ 06:30 AM PST) [Bundesliga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bundesliga_goalarena/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ad02a343f3f7c8ea512aee59b134a420-thumbnail.jpg" group-title="Global Football Streams",Gladbach vs. Wolfsburg (Dec 13 @ 06:30 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bundesliga_bmg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8c37f91c714a7e88c48bc829cb4de7f8-thumbnail.jpg" group-title="Global Football Streams",Frankfurt vs. Augsburg (Dec 13 @ 06:30 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bundesliga_sge/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/7de87e55a97dc88d864eb1fa3858918a-thumbnail.jpg" group-title="Global Football Streams",St. Pauli vs. Heidenheim (Dec 13 @ 06:30 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bundesliga_stp/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6aef83fec9331d20997df47b8a85ecbe-thumbnail.jpg" group-title="Global Football Streams",Hoffenheim vs. Hamburg (Dec 13 @ 06:30 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bundesliga_tsg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/61d2e0b372d0deb06396633b799fff71-thumbnail.jpg" group-title="Global Football Streams",Chelsea vs. Everton (Dec 13 @ 07:00 AM PST) [Premier League]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/epl_che/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9987c73d3cb4666c0230aecb9e6aa699-thumbnail.jpg" group-title="Global Football Streams",Liverpool vs. Brighton and Hove Albion (Dec 13 @ 07:00 AM PST) [Premier League]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/epl_liv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/be7a6967d15f1852474f2560a31014e1-thumbnail.jpg" group-title="Global Football Streams",RCD Mallorca vs. Elche CF (Dec 13 @ 07:15 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_mll/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/06342935d7e5e56c58e451e6cea95bf4-thumbnail.jpg" group-title="Global Football Streams",Rennes vs. Brest (Dec 13 @ 08:00 AM PST) [Ligue 1]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ligue1_ren/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6daabaf35290c0c0796822559146270d-thumbnail.jpg" group-title="Global Football Streams",Parma vs. Lazio (Dec 13 @ 09:00 AM PST) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/seriea_par/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/38923b6c91362f43672b1539d43bc29d-thumbnail.jpg" group-title="Global Football Streams",Burnley vs. Fulham (Dec 13 @ 09:30 AM PST) [Premier League]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/epl_bur/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05eaf8f8ed2d9c75aa24c0fca08545ed-thumbnail.jpg" group-title="Global Football Streams",Leverkusen vs. Cologne (Dec 13 @ 09:30 AM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bundesliga_b04/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/67b07709cfb21ac501bc57657dcd7795-thumbnail.jpg" group-title="Global Football Streams",FC Barcelona vs. CA Osasuna (Dec 13 @ 09:30 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_bar/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/539c4e9a618ed7af85959a7a7b321ecf-thumbnail.jpg" group-title="NHL Action",Anaheim Ducks vs. New Jersey Devils (Dec 13 @ 09:30 AM PST) [MSG]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/newjerseydevils/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/56c8e279152aa266ca5d0436eed444dc-thumbnail.jpg" group-title="Global Football Streams",FC Metz vs. PSG (Dec 13 @ 10:00 AM PST) [Ligue 1]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ligue1_met/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ded48cef484932125d27ad9f9da514eb-thumbnail.jpg" group-title="NHL Action",Ottawa Senators vs. Minnesota Wild (Dec 13 @ 11:00 AM PST) [FanDuel SN North]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/84148593178f6cfef526f9a9f896fe94-thumbnail.jpg" group-title="Global Football Streams",Atalanta vs. Cagliari (Dec 13 @ 11:45 AM PST) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/seriea_ata/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/530892ab4b0c7aec2617b333a6a9b56c-thumbnail.jpg" group-title="NFL Action",Army Black Knights vs. Navy Midshipmen (Dec 13 @ 12:00 PM PST) [CBS]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/CBS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1974161db676c6548660d0da6fbaac80-thumbnail.jpg" group-title="Global Football Streams",Arsenal vs. Wolverhampton Wanderers (Dec 13 @ 12:00 PM PST) [Premier League]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/epl_ars/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1121f34fa2a4a4d387c277276942fa39-thumbnail.jpg" group-title="Global Football Streams",Getafe CF vs. RCD Espanyol de Barcelona (Dec 13 @ 12:00 PM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_get/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/23d1e7157529a3b117781bf8338f7f72-thumbnail.jpg" group-title="NHL Action",San Jose Sharks vs. Pittsburgh Penguins (Dec 13 @ 12:00 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/606fea856393ba7905b6b2674b85dd42-thumbnail.jpg" group-title="Global Football Streams",Paris FC vs. Toulouse FC (Dec 13 @ 12:05 PM PST) [Ligue 1]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ligue1_pfc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/62b3ebcf6213eb206a7be62cdcd13c16-thumbnail.jpg" group-title="NHL Action",Tampa Bay Lightning vs. New York Islanders (Dec 13 @ 12:30 PM PST) [MSGSN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/newyorkislanders/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling Events",AEW: Saturday Night Collision (Dec 13 @ 01:30 PM PST) [TNT]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eeb913f32babf4b8ddd344c98fb38cdf-thumbnail.jpg" group-title="NBA Games",New York Knicks vs. Orlando Magic (Dec 13 @ 02:30 PM PST) [Prime Video]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/orlandomagic/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/boxing/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/07e548c632b6de966682703f5478c806-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Royval vs. Kape (Dec 13 @ 04:00 PM PST) [ESPN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
@@ -204,6 +69,11 @@ https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/seriea_mil/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts",World Darts Championship (Dec 14 @ 04:30 AM PST) [PDC Darts]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/93a4b4658a0eff599be53b6aa5b641d3-thumbnail.jpg" group-title="Global Football Streams",Sevilla FC vs. Real Oviedo (Dec 14 @ 05:00 AM PST) [LaLiga]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
