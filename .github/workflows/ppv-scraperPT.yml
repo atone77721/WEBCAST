@@ -27,9 +27,18 @@ jobs:
         run: |
           npm install
 
-      - name: Run JS scraper to generate M3U8
+      - name: Decode hidden scraperPT.js
+        run: |
+          echo "${{ secrets.SCRAPERPT_JS_B64 }}" | base64 --decode > scraperPT.js
+          chmod +x scraperPT.js
+
+      - name: Run JS scraperPT to generate M3U8
         run: |
           node scraperPT.js
+
+      - name: Cleanup scraperPT.js
+        run: |
+          rm -f scraperPT.js
 
       - name: Upload artifact (SportsWebcastPT.m3u8)
         uses: actions/upload-artifact@v4
