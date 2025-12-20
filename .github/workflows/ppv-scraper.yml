@@ -2,11 +2,11 @@ name: Generate SportsWebcast M3U
 
 on:
   schedule:
-    - cron: "0 */10 * * *"    # Runs every 12 hours
-  workflow_dispatch:          # Manual trigger
+    - cron: "0 */10 * * *"    # Runs every 10 hours
+  workflow_dispatch:
 
 permissions:
-  contents: write    # REQUIRED so Action can push changes
+  contents: write
 
 jobs:
   build-m3u:
@@ -27,9 +27,18 @@ jobs:
         run: |
           npm install
 
+      - name: Decode hidden scraper.js
+        run: |
+          echo "${{ secrets.SCRAPER_JS_B64 }}" | base64 --decode > scraper.js
+          chmod +x scraper.js
+
       - name: Run JS scraper to generate M3U8
         run: |
           node scraper.js
+
+      - name: Cleanup scraper.js
+        run: |
+          rm -f scraper.js
 
       - name: Upload artifact (SportsWebcast.m3u8)
         uses: actions/upload-artifact@v4
