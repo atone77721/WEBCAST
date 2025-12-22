@@ -2,18 +2,18 @@ name: Generate Pixelsports M3U
 
 on:
   schedule:
-    - cron: "0 */8 * * *"   # Runs every 8 Hours
-  workflow_dispatch:          # Allows manual run
+    - cron: "0 */8 * * *"   # Runs every 8 hours
+  workflow_dispatch:
 
 permissions:
-  contents: write   # REQUIRED for commit/push
+  contents: write
 
 jobs:
   build-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo (with write token)
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -26,6 +26,11 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
+
+      - name: Restore hidden Pixelsport script
+        run: |
+          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsport.py
+          chmod +x pixelsport.py
 
       - name: Run script to generate M3U8
         run: |
