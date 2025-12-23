@@ -1,24 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5ca2b1d1fbaaebb3a9a69615da19d3fa-thumbnail.jpg" group-title="Global Football Streams",Napoli vs. Bologna (Dec 23 @ 03:00 AM PHT) [Italian Supercup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_nap/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/57f995fcead6b2148836731474875e9d-thumbnail.jpg" group-title="Global Football Streams",Athletic Club vs. Espanyol (Dec 23 @ 04:00 AM PHT) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_ath/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/22be0401f51be0fa52c27270d50c91b7-thumbnail.jpg" group-title="Global Football Streams",Fulham vs. Nottingham Forest (Dec 23 @ 04:00 AM PHT) [Premier League]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/pl_ful/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/24382b5a5358d26d337ad4a9866a7c94-thumbnail.jpg" group-title="Global Football Streams",Egypt vs. Zimbabwe (Dec 23 @ 04:00 AM PHT) [AFCON]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/91e38eb5dc65bc77a34be9d7d8ee4602-thumbnail.jpg" group-title="NBA Games",Charlotte Hornets vs. Cleveland Cavaliers (Dec 23 @ 08:00 AM PHT) [Peacock]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
@@ -84,6 +64,11 @@ https://gg.poocloud.in/anaheimducks/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://playembed.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/losangeleskings/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="Darts",World Darts Championship (Dec 23 @ 08:30 PM PHT) [PDC Darts]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a65ab59f4e2b4d0d8d0f5805efa3295-thumbnail.jpg" group-title="Global Football Streams",Congo DR vs. Benin (Dec 23 @ 08:30 PM PHT) [AFCON]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top
