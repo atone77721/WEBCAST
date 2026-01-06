@@ -1,24 +1,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1b55b70b64d7ccb6c652ffbdc897abba-thumbnail.jpg" group-title="Global Football Streams",Egypt vs. Benin (Jan 05 @ 08:00 AM PST) [AFCON]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5347c34c734a8f1770a212ee3e2310d6-thumbnail.jpg" group-title="Global Football Streams",Nigeria vs. Mozambique (Jan 05 @ 11:00 AM PST) [AFCON]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/21f2c7836918954d7e911971a6ac6f73-thumbnail.jpg" group-title="NHL Action",Canada vs. Finland (Jan 05 @ 01:30 PM PST) [IIHF WJC]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/iihf/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/133beba7b8cbe3c0a88fb0faf7048588-thumbnail.jpg" group-title="Cricket Games",Australia vs. England (Jan 05 @ 03:00 PM PST) [FOX Cricket]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/ashes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9e6d678901f43421f788397695b91a32-thumbnail.jpg" group-title="NCAA College Basketball",Nebraska Cornhuskers vs. Ohio State Buckeyes (Jan 05 @ 03:30 PM PST) [FS1]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cfb115207f7d813dd1531a7320902e6d-thumbnail.jpg" group-title="NBA Games",New York Knicks vs. Detroit Pistons (Jan 05 @ 04:00 PM PST) [Peacock]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
@@ -74,6 +64,11 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b4eda2c6276b26629f70a49411c4f3d6-thumbnail.jpg" group-title="NCAA College Basketball",USC Trojans vs. Michigan State Spartans (Jan 05 @ 05:30 PM PST) [FS1]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://gg.poocloud.in/FS1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a94dfbd8d996debe02535b4eaf41b757-thumbnail.jpg" group-title="NHL Action",Sweden vs. Czech Republic (Jan 05 @ 05:30 PM PST) [IIHF WJC]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
