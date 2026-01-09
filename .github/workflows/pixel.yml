@@ -1,8 +1,8 @@
-name: Generate Pixelsports M3U
+name: Generate SportsWebcast M3U
 
 on:
   schedule:
-    - cron: "0 */8 * * *"   # Runs every 8 hours
+    - cron: "0 */8 * * *"    # Runs every 8 hours
   workflow_dispatch:
 
 permissions:
@@ -13,30 +13,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (with write token)
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.11"
+          node-version: "20"
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
+          npm install
 
-      - name: Restore hidden Pixelsport script
+      - name: Decode hidden scraper.js
         run: |
-          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsport.py
-          chmod +x pixelsport.py
+          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.js
+          chmod +x pixelsports.js
 
-      - name: Run script to generate M3U8
+      - name: Run JS scraper to generate M3U8
         run: |
-          python pixelsport.py
+          node pixelsports.js
 
-      - name: Upload artifact (Pixelsports.m3u8)
+      - name: Cleanup pixelsports.js
+        run: |
+          rm -f pixelsports.js
+
+      - name: Upload artifact (SportsWebcast.m3u8)
         uses: actions/upload-artifact@v4
         with:
           name: Pixelsports
@@ -48,4 +52,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add Pixelsports.m3u8
           git commit -m "Auto-update Pixelsports.m3u8" || echo "No changes"
+          git pull --rebase origin main
           git push
