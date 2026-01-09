@@ -2,15 +2,20 @@ name: Generate PixelSports M3U
 
 on:
   schedule:
-    - cron: "0 */8 * * *"    # Runs every 8 hours
+    - cron: "0 */8 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: pixelsports-m3u
+  cancel-in-progress: true
+
 jobs:
   build-m3u:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repo (with write token)
@@ -22,7 +27,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
 
       - name: Install system dependencies for Chromium
         run: |
@@ -30,8 +34,6 @@ jobs:
           sudo apt-get install -y \
             ca-certificates \
             fonts-liberation \
-            libasound2t64 || true
-          sudo apt-get install -y \
             libatk-bridge2.0-0 \
             libatk1.0-0 \
             libcups2 \
@@ -47,28 +49,29 @@ jobs:
             libxrandr2 \
             xdg-utils
 
-      - name: Install dependencies
+      - name: Install JS dependencies
         run: |
-          npm ci
+          npm install puppeteer
 
-      - name: Decode hidden scraper.js
+      - name: Decode hidden pixelsports.js
         run: |
           echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.js
-          chmod +x pixelsports.js
 
       - name: Run JS scraper to generate M3U8
         run: |
           node pixelsports.js
 
       - name: Cleanup pixelsports.js
+        if: always()
         run: |
           rm -f pixelsports.js
 
-      - name: Upload artifact (SportsWebcast.m3u8)
+      - name: Upload artifact (Pixelsports.m3u8)
         uses: actions/upload-artifact@v4
         with:
           name: Pixelsports
           path: Pixelsports.m3u8
+          if-no-files-found: error
 
       - name: Commit & push updated playlist
         run: |
