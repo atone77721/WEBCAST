@@ -53,18 +53,18 @@ jobs:
         run: |
           npm install puppeteer
 
-      - name: Decode hidden pixelsports.js
+      - name: Decode hidden pixelsports.cjs
         run: |
-          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.js
+          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.cjs
 
       - name: Run JS scraper to generate M3U8
         run: |
-          node pixelsports.js
+          node pixelsports.cjs
 
-      - name: Cleanup pixelsports.js
+      - name: Cleanup pixelsports.cjs
         if: always()
         run: |
-          rm -f pixelsports.js
+          rm -f pixelsports.cjs
 
       - name: Upload artifact (Pixelsports.m3u8)
         uses: actions/upload-artifact@v4
