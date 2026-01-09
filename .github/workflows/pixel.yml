@@ -1,4 +1,4 @@
-name: Generate SportsWebcast M3U
+name: Generate PixelSports M3U
 
 on:
   schedule:
