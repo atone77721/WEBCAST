@@ -50,7 +50,7 @@ jobs:
             xdg-utils
 
       - name: Install JS dependencies
-        run: |
+          run: |
           npm install puppeteer
 
       - name: Decode hidden pixelsports.cjs
@@ -58,25 +58,25 @@ jobs:
           echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.cjs
 
             - name: Install JS dependencies (no repo changes)
-        run: |
+          run: |
           npm install --no-save --no-package-lock puppeteer
 
       - name: Decode hidden scraper
-        run: |
+          run: |
           echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.cjs
 
       - name: Run JS scraper to generate M3U8
-        run: |
+          run: |
           node pixelsports.cjs
 
       - name: Cleanup
         if: always()
-        run: |
+          run: |
           rm -f pixelsports.cjs
           rm -rf node_modules
 
       - name: Commit & push updated playlist
-        run: |
+          run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add Pixelsports.m3u8
