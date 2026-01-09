@@ -2,7 +2,7 @@ name: Generate PixelSports M3U
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 */8 * * *" # every 8 hours
   workflow_dispatch:
 
 permissions:
@@ -22,6 +22,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -49,34 +50,33 @@ jobs:
             libxrandr2 \
             xdg-utils
 
-      - name: Install JS dependencies
-          run: |
-          npm install puppeteer
+      - name: Install JS dependencies (no repo changes)
+        run: |
+          npm install --no-save --no-package-lock puppeteer
 
-      - name: Decode hidden pixelsports.cjs
+      - name: Decode hidden scraper (CommonJS)
         run: |
           echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.cjs
 
-            - name: Install JS dependencies (no repo changes)
-          run: |
-          npm install --no-save --no-package-lock puppeteer
-
-      - name: Decode hidden scraper
-          run: |
-          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsports.cjs
-
       - name: Run JS scraper to generate M3U8
-          run: |
+        run: |
           node pixelsports.cjs
 
-      - name: Cleanup
+      - name: Cleanup temporary files
         if: always()
-          run: |
+        run: |
           rm -f pixelsports.cjs
           rm -rf node_modules
 
+      - name: Upload artifact (Pixelsports.m3u8)
+        uses: actions/upload-artifact@v4
+        with:
+          name: Pixelsports
+          path: Pixelsports.m3u8
+          if-no-files-found: error
+
       - name: Commit & push updated playlist
-          run: |
+        run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add Pixelsports.m3u8
