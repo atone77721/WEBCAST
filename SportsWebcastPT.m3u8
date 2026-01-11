@@ -1,326 +1,206 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/765da84adbb11e9b3af5ac303697b1a4-thumbnail.jpg" group-title="Global Football Streams",Everton vs. Sunderland (Jan 10 @ 04:15 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_eve/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/daf1c87a5fafe8c7336e5eaa9929a96e-thumbnail.jpg" group-title="Global Football Streams",Macclesfield FC vs. Crystal Palace (Jan 10 @ 04:15 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_mfc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/183811e2276efad124fb151f2c56908e-thumbnail.jpg" group-title="Global Football Streams",Wolverhampton Wanderers vs. Shrewsbury Town (Jan 10 @ 04:15 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_wol/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/522f68eb8b36afdffe52f089e6b1b3a7-thumbnail.jpg" group-title="Global Football Streams",FA Cup Goals Show (Jan 10 @ 04:15 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_goals/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4117c9f430b190ef3e464c67c964ee92-thumbnail.jpg" group-title="Global Football Streams",Real Oviedo vs. Real Betis (Jan 10 @ 05:00 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_ovi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="Global Football Streams",Como vs. Bologna (Jan 10 @ 06:00 AM PST) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_como/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1d86d72651813e0d9001fa740334fd42-thumbnail.jpg" group-title="Global Football Streams",Udinese vs. Pisa (Jan 10 @ 06:00 AM PST) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_udi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a3d1215e406a558eee01f26e79b8ffcb-thumbnail.jpg" group-title="Global Football Streams",1. FC Heidenheim 1846 vs. FC Cologne (Jan 10 @ 06:30 AM PST) [Bundesliga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_hdh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/850cf761a58861eed153fbd2c0787296-thumbnail.jpg" group-title="Global Football Streams",1. FC Union Berlin vs. Mainz (Jan 10 @ 06:30 AM PST) [Bundesliga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_fcu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bd705b1a47f310595dd73bedbf535280-thumbnail.jpg" group-title="Global Football Streams",SC Freiburg vs. Hamburg SV (Jan 10 @ 06:30 AM PST) [Bundesliga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_scf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/096712689dd65aca2653f788b75ec032-thumbnail.jpg" group-title="Global Football Streams",Burnley vs. Millwall (Jan 10 @ 07:00 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_bur/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/31cf45b08e8dca7f5e802300b5e12ee7-thumbnail.jpg" group-title="Global Football Streams",Fulham vs. Middlesbrough (Jan 10 @ 07:00 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_ful/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/663ec441c37a7f42ddee0af76d8531dc-thumbnail.jpg" group-title="Global Football Streams",Manchester City vs. Exeter City (Jan 10 @ 07:00 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_mnc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d13656f1ea32e5075a60fd4ffb0b167d-thumbnail.jpg" group-title="Global Football Streams",Newcastle United vs. AFC Bournemouth (Jan 10 @ 07:00 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_new/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/28eaa90f1b326216614d91c08f0c136f-thumbnail.jpg" group-title="Global Football Streams",Sheffield Wednesday vs. Brentford (Jan 10 @ 07:00 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_shw/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0eb6546291404059ed737dd18e392c03-thumbnail.jpg" group-title="Global Football Streams",Villarreal vs. Alavés (Jan 10 @ 07:15 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_vil/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/49d5433f25fec9de4473b95a0d9a994d-thumbnail.jpg" group-title="Global Football Streams",Algeria vs. Nigeria (Jan 10 @ 08:00 AM PST) [AFCON]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="Global Football Streams",AS Roma vs. Sassuolo (Jan 10 @ 09:00 AM PST) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_roma/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="Global Football Streams",Girona vs. Osasuna (Jan 10 @ 09:30 AM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_gir/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="Global Football Streams",Bayer Leverkusen vs. VfB Stuttgart (Jan 10 @ 09:30 AM PST) [Bundesliga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_b04/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3dc06d4ef63d394a45c22926dfeafc26-thumbnail.jpg" group-title="Global Football Streams",Tottenham Hotspur vs. Aston Villa (Jan 10 @ 09:45 AM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_tot/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d6fb5090c3f8fa5de233ea0fc4123e93-thumbnail.jpg" group-title="NBA Games",Minnesota Timberwolves vs. Cleveland Cavaliers (Jan 10 @ 10:00 AM PST) [Prime Video]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/aae06419ad59c9b2ca66328e6eff7e6e-thumbnail.jpg" group-title="NHL Action",New York Rangers vs. Boston Bruins (Jan 10 @ 10:00 AM PST) [ABC]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bostonbruins/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Racing Action",Supercross: Anaheim (Jan 10 @ 10:00 AM PST) [Peacock]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/smx/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f9729b0f0fb7d66ca3ca1419bc9e0314-thumbnail.jpg" group-title="Global Football Streams",Egypt vs. Ivory Coast (Jan 10 @ 11:00 AM PST) [AFCON]
+https://strm.poocloud.in/secure/VWsALzVsVhfBvsnplRQtrnADNsApGhTI/smx/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fc28ec1d65624809c8bf9407938701e0-thumbnail.jpg" group-title="NCAA College Basketball",Arkansas Razorbacks vs. Auburn Tigers (Jan 10 @ 03:00 PM PST) [ESPN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="Global Football Streams",Atalanta vs. Torino (Jan 10 @ 11:45 AM PST) [Serie A]
+https://strm.poocloud.in/secure/amzDfZLsshdTwIqajYcJNyhIprGSSLei/ESPN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9d88dcc136e0601b6933b06e961f9929-thumbnail.jpg" group-title="NCAA College Basketball",Wake Forest Demon Deacons vs. North Carolina Tar Heels (Jan 10 @ 03:00 PM PST) [ACCN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_ata/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="Global Football Streams",Valencia vs. Elche (Jan 10 @ 12:00 PM PST) [LaLiga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_val/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b660508e40c97bd66b83c90ae4ad0cb3-thumbnail.jpg" group-title="Global Football Streams",Charlton Athletic vs. Chelsea (Jan 10 @ 12:00 PM PST) [English FA Cup]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_cha/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/405a8094c806197679a722e0002d381a-thumbnail.jpg" group-title="NHL Action",Calgary Flames vs. Pittsburgh Penguins (Jan 10 @ 12:30 PM PST) [ESPN+]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e7b4043ed4c13678f6172cd43baa7e6-thumbnail.jpg" group-title="NHL Action",Columbus Blue Jackets vs. Colorado Avalanche (Jan 10 @ 01:00 PM PST) [Altitude Sports]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/coloradoavalanche/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/058f28b32f61c881a218037f9b6b2b0c-thumbnail.jpg" group-title="NHL Action",Dallas Stars vs. San Jose Sharks (Jan 10 @ 01:00 PM PST) [NBC Sports BA]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sanjosesharks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/94b83e19e92e8e128422a2889d65114e-thumbnail.jpg" group-title="NFL Action",Los Angeles Rams vs. Carolina Panthers (Jan 10 @ 01:30 PM PST) [FOX]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/carolinapanthers/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/ribiPXiWhCtcdGCIyXlhXqIAwwwDnBTp/ACCN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/23c6f4828f053d693289d035de373b8c-thumbnail.jpg" group-title="NBA Games",Miami Heat vs. Indiana Pacers (Jan 10 @ 04:00 PM PST) [FanDuel SN IN]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/indianapacers/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/qkEqYTnHdhiBwwuxWZdaRFXcXlPdeyQT/indianapacers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5ad155f4e9838bcafe6a6cf1304e793b-thumbnail.jpg" group-title="NCAA College Basketball",Texas Tech Red Raiders vs. Colorado Buffaloes (Jan 10 @ 04:00 PM PST) [CBSSN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://strm.poocloud.in/secure/TjoGbFMpbsSgKyNeAvPwqBWepTSSbUCs/CBSSN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/62e441865850ccfd70392e0009d2d1fc-thumbnail.jpg" group-title="NHL Action",Anaheim Ducks vs. Buffalo Sabres (Jan 10 @ 04:00 PM PST) [MSGB]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/buffalosabres/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/SgyRgqgAuWSbICPABbyGIHqnDspCcVjf/buffalosabres/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/734a0adc25c5cf4722d5245a2e212374-thumbnail.jpg" group-title="NHL Action",Vancouver Canucks vs. Toronto Maple Leafs (Jan 10 @ 04:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/torontomapleleafs/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/feMVvmKuyDwjqkBnDuKwerTCUXLnwZHs/torontomapleleafs/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5b6a34d2662dd594f47b1b29f5d39d62-thumbnail.jpg" group-title="NHL Action",Detroit Red Wings vs. Montreal Canadiens (Jan 10 @ 04:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/montrealcanadiens/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/kxNUFsWZAjRVuuHbsOMRDYUknsaoyifS/montrealcanadiens/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/88195287a4e47f63350b6305876eff89-thumbnail.jpg" group-title="NHL Action",Florida Panthers vs. Ottawa Senators (Jan 10 @ 04:00 PM PST) [NHL Net]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ottawasenators/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/DduMMRXpFIBFbSaqlAuPylQHnQGayJAN/ottawasenators/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a9f76c813844291b34cb0d94381004f8-thumbnail.jpg" group-title="NHL Action",Tampa Bay Lightning vs. Philadelphia Flyers (Jan 10 @ 04:00 PM PST) [NBC Sports Phil]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/philadelphiaflyers/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/axTbzGwHTmbTRuRlXCAyuDcCSnvoqOtd/philadelphiaflyers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3f066b457d247eb3bdd538c2ccbe257b-thumbnail.jpg" group-title="NHL Action",Seattle Kraken vs. Carolina Hurricanes (Jan 10 @ 04:00 PM PST) [FanDuel SN South]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/VXhaJwCYerSANCirPveDnbLzrLFZQbdt/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1ed620820ef9c254ae7f2f98458128f3-thumbnail.jpg" group-title="NBA Games",LA Clippers vs. Detroit Pistons (Jan 10 @ 04:30 PM PST) [FanDuel SN DET Ext]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/detroitpistons/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/YsSXHYYRghwhzPxDddsqjDEDWnAthLMb/detroitpistons/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3cb40ffda5283992d755754d94972c91-thumbnail.jpg" group-title="NFL Action",Green Bay Packers vs. Chicago Bears (Jan 10 @ 05:00 PM PST) [Prime Video]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/chicagobears/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/XOMGFlDgTfEjDlUCKblthnwwtuOPteBK/chicagobears/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/59d9af96167bcd4340a4e6dd3fb9388a-thumbnail.jpg" group-title="NBA Games",San Antonio Spurs vs. Boston Celtics (Jan 10 @ 05:00 PM PST) [NBC Sports BO]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bostonceltics/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/wXJzJoRFsKCeHLyurMQhYBnvVutLRyGK/bostonceltics/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9ffff548f9f3810376adf3b4f4755e3b-thumbnail.jpg" group-title="NBA Games",Dallas Mavericks vs. Chicago Bulls (Jan 10 @ 05:00 PM PST) [CHSN+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/chicagobulls/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/tXwDOwQTBRutwrGERjGthSKSlDlruCqj/chicagobulls/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3dd84b697abbea2a9526f65e94cca81c-thumbnail.jpg" group-title="NCAA College Basketball",Texas Longhorns vs. Alabama Crimson Tide (Jan 10 @ 05:00 PM PST) [ESPN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://strm.poocloud.in/secure/BWIycsehzYtBtCyyRINNCwFHjPHkHPUh/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="Combat Sports",RAF 05: Covington vs. Rockhold (Jan 10 @ 05:00 PM PST) [FOX Nation]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/raf/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/ZUsaPIqXvzHHNgVboebRFkBQFWUzonof/raf/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4979225f913f871e31c9f7e8754d2642-thumbnail.jpg" group-title="NHL Action",Chicago Blackhawks vs. Nashville Predators (Jan 10 @ 05:00 PM PST) [FanDuel SN South]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/nashvillepredators/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/IBAxqfRkQRABMCfrfYcGTKlRNRLpiVsE/nashvillepredators/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/674d1db60cf2f59cad6f6f801383208a-thumbnail.jpg" group-title="NHL Action",New York Islanders vs. Minnesota Wild (Jan 10 @ 05:00 PM PST) [FanDuel SN North]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/minnesotawild/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/psyiBjMplzAPHPDJpJKQATqAvPsDYWbx/minnesotawild/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling Events",AEW: Saturday Night Collision (Jan 10 @ 05:00 PM PST) [TNT]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/HJnsRbPmrlbaMaPciJhtITGeCJKLOOkS/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/07c532449fcca698fef82764bad86a2f-thumbnail.jpg" group-title="NBA Games",Charlotte Hornets vs. Utah Jazz (Jan 10 @ 06:30 PM PST) [KJZZ-TV]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/utahjazz/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/XjctscKTYXvvmVIXYGEdbFGolcgwBgEK/utahjazz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="NCAA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b28bb5fa3137a4535035b3476de20f0d-thumbnail.jpg" group-title="NCAA College Basketball",BYU Cougars vs. Utah Utes (Jan 10 @ 07:00 PM PST) [ESPN]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://strm.poocloud.in/secure/YHPRoaviuhXrEpctQieZByTQxKjiORGK/ESPN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c2e89091fc91edb66f871f513bc728aa-thumbnail.jpg" group-title="NHL Action",Los Angeles Kings vs. Edmonton Oilers (Jan 10 @ 07:00 PM PST) [ESPN+]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/edmontonoilers/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/BFcjagvlALnNeQGnMwXwSmmdRSILUmNr/edmontonoilers/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/cf2c8c306634c10a536b4df7bcff3dc1-thumbnail.jpg" group-title="NHL Action",St. Louis Blues vs. Vegas Golden Knights (Jan 10 @ 07:00 PM PST) [Scripps Sports]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/QjTorsJqSqsnfDFRojgVoeKtleEXGVMo/vegasgoldenknights/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="Global Football Streams",Lecce vs. Parma (Jan 11 @ 03:30 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_lec/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/fxRdMZwEZUrKJRDdWRdjdwycyxNAQthL/sa_lec/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bdf9f55f3d9f0eacd74322b800a8f3fb-thumbnail.jpg" group-title="Global Football Streams",Derby County vs. Leeds United (Jan 11 @ 04:00 AM PST) [English FA Cup]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/english-fa-cup_der/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/ZVNbplChZCRkZCNdauuyrTQYNCgZiexr/english-fa-cup_der/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="Global Football Streams",Rayo Vallecano vs. Mallorca (Jan 11 @ 05:00 AM PST) [LaLiga]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_ray/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/AclmsVxyWGZNPTVvXpTTkthSxPvRUNUB/ll_ray/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9281e0642d8407f9155de473b9dccd88-thumbnail.jpg" group-title="PPVLand - Snooker",The Masters (Jan 11 @ 05:00 AM PST) [TNT Sports]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://strm.poocloud.in/secure/zaqzyoKPOCCWhaUQWCRfCraxOUSPiEoO/snooker/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="Global Football Streams",Fiorentina vs. AC Milan (Jan 11 @ 06:00 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_fio/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/mqOClXqirkPjgWxpzJRydNyLxasTWTBA/sa_fio/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e6c6b77490ffa711b8d142e8419549de-thumbnail.jpg" group-title="Global Football Streams",Portsmouth vs. Arsenal (Jan 11 @ 06:00 AM PST) [English FA Cup]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_por/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/bAZQrYAAdjPMqqmTHRGmZOWCJbjQVnsE/fa_por/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="Global Football Streams",Borussia Mönchengladbach vs. FC Augsburg (Jan 11 @ 06:30 AM PST) [Bundesliga]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_bmg/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/vuYebdJnTcMgIfQySQmRTDtbxrBitnew/bl_bmg/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b9e431731c24df30fdac732c31bae018-thumbnail.jpg" group-title="Global Football Streams",West Ham United vs. Queens Park Rangers (Jan 11 @ 06:30 AM PST) [English FA Cup]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_whu/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/lCgHtYCqIhOzXSnspGpEnWPTZeDpXfKq/fa_whu/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="Global Football Streams",Levante vs. Espanyol (Jan 11 @ 07:15 AM PST) [LaLiga]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/ll_lev/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/UmJrGAjHxFLlsErlIhmTXChmVnetBePY/ll_lev/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="Global Football Streams",Bayern Munich vs. VfL Wolfsburg (Jan 11 @ 08:30 AM PST) [Bundesliga]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/bl_mun/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/gMXAquXyGashUrgephstjuuCmsEjguSE/bl_mun/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1700fdbc0aa20f4e6db1e8833f48b1e9-thumbnail.jpg" group-title="Global Football Streams",Manchester United vs. Brighton & Hove Albion (Jan 11 @ 08:30 AM PST) [English FA Cup]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/fa_man/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/UpuHosCplfJHSnTPlOowImQPviWXGXee/fa_man/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="Global Football Streams",Hellas Verona vs. Lazio (Jan 11 @ 09:00 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_ver/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/BVmbJKfuFIhBUzeeWgaoUOvFwnQvrubY/sa_ver/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/90703437d9db5c8dc882b706f39e869a-thumbnail.jpg" group-title="NFL Action",Buffalo Bills vs. Jacksonville Jaguars (Jan 11 @ 10:00 AM PST) [CBS]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/jacksonvillejaguars/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/jhDjETnfCVCGHDLnSMAqAdJPNjYykdWx/jacksonvillejaguars/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/081c1d5ccc0ca5cadb53d52488e9e9a4-thumbnail.jpg" group-title="Global Football Streams",Barcelona vs. Real Madrid (Jan 11 @ 11:00 AM PST) [Spanish Supercup]
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
+https://strm.poocloud.in/secure/piHRkTGjHRnwXbQugDptasjyriuNEnKm/ll_bar/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="Global Football Streams",Internazionale vs. Napoli (Jan 11 @ 11:45 AM PST) [Serie A]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/sa_int/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/BoXSHKRxEenovQSqGqQheVnYWumCRwVp/sa_int/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="NFL Action",San Francisco 49ers vs. Philadelphia Eagles (Jan 11 @ 01:30 PM PST) [FOX]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/philadelphiaeagles/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/ueTufBWgBEZGJmhVYrsGLfUlekDeQQOy/philadelphiaeagles/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="NFL Action",Los Angeles Chargers vs. New England Patriots (Jan 11 @ 05:00 PM PST) [NBC/Peacock]
 #EXTVLCOPT:http-origin=https://playembed.top
 #EXTVLCOPT:http-referrer=https://playembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://gg.poocloud.in/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/xKoZzXONlEakaRbYOnSpyHIyXclteqCe/newenglandpatriots/tracks-v1a1/mono.ts.m3u8
