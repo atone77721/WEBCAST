@@ -28,11 +28,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Restore hidden Pixelsport script
-        run: |
-          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsport.py
-          chmod +x pixelsport.py
-
       - name: 🎯 Run PixelSports scraper
         run: python pixelsport.py
 
