@@ -2,63 +2,50 @@ name: ▶️ Update PixelSports Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: "0 */8 * * *"   # Runs every 8 hours
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  build-m3u:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🐍 Set up Python 3.11
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: 📦 Install dependencies
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests
+          pip install --upgrade pip
 
-      - name: 🎯 Run PixelSports scraper
-        run: python pixelsport.py
-
-      - name: 💾 Commit & Push if Playlist Changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Restore hidden Pixelsport script
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          echo "${{ secrets.PIXELSPORT_SCRIPT }}" | base64 --decode > pixelsport.py
+          chmod +x pixelsport.py
 
-          # --- MATCHES YOUR SCRIPT OUTPUT ---
+      - name: Run script to generate M3U8
+        run: |
+          python pixelsport.py
+
+      - name: Upload artifact (Pixelsports.m3u8)
+        uses: actions/upload-artifact@v4
+        with:
+          name: Pixelsports
+          path: Pixelsports.m3u8
+
+      - name: Commit & push updated playlist
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
           git add Pixelsports.m3u8
-
-          if git diff --cached --quiet; then
-            echo "✅ No changes detected — skipping commit."
-            exit 0
-          fi
-
-          git commit -m "✅ Updated PixelSports ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-
-          # Random delay to reduce push collisions
-          sleep $((RANDOM % 10 + 5))
-
-          if ! git push origin main; then
-            echo "⚠️ Push failed, attempting safe rebase..."
-            git pull origin main --rebase || {
-              echo "❌ Rebase failed. Stopping to avoid corruption."
-              exit 1
-            }
-            git push origin main || {
-              echo "❌ Push failed again after rebase."
-              exit 1
-            }
-          fi
+          git commit -m "Auto-update Pixelsports.m3u8" || echo "No changes"
+          git push
