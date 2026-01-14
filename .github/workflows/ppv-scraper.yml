@@ -1,8 +1,8 @@
-name: Generate StreamCenter M3U
+name: Generate SportsWebcast M3U
 
 on:
   schedule:
-    - cron: "0 */10 * * *"    # Every 10 hours
+    - cron: "0 */10 * * *"    # Runs every 10 hours
   workflow_dispatch:
 
 permissions:
@@ -13,50 +13,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (with write token)
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.11"
+          node-version: "20"
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests playwright
+          npm install
 
-      - name: Install Playwright browsers
+      - name: Decode hidden scraper.js
         run: |
-          playwright install chromium
-          playwright install-deps
+          echo "${{ secrets.SCRAPER_JS_B64 }}" | base64 --decode > scraper.js
+          chmod +x scraper.js
 
-      - name: Decode hidden StreamCenter.py
+      - name: Run JS scraper to generate M3U8
         run: |
-          echo "${{ secrets.STREAMCENTER_JS_B64 }}" | base64 --decode > StreamCenter.py
-          chmod +x StreamCenter.py
+          node scraper.js
 
-      - name: Run StreamCenter scraper
+      - name: Cleanup scraper.js
         run: |
-          python StreamCenter.py
+          rm -f scraper.js
 
-      - name: Cleanup script
-        run: |
-          rm -f StreamCenter.py
-
-      - name: Upload artifact (StreamCenter.m3u8)
+      - name: Upload artifact (SportsWebcast.m3u8)
         uses: actions/upload-artifact@v4
         with:
-          name: StreamCenter
-          path: StreamCenter.m3u8
+          name: SportsWebcast
+          path: SportsWebcast.m3u8
 
       - name: Commit & push updated playlist
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add StreamCenter.m3u8
-          git commit -m "Auto-update StreamCenter.m3u8" || echo "No changes"
+          git add SportsWebcast.m3u8
+          git commit -m "Auto-update SportsWebcast.m3u8" || echo "No changes"
           git pull --rebase origin main
           git push
