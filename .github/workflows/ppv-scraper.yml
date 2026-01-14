@@ -18,27 +18,28 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          node-version: "20"
+          python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          npm install
+            pip install requests playwright
+          fi
 
-      - name: Decode hidden scraper.js
+      - name: Decode hidden StreamCenter.py
         run: |
-          echo "${{ secrets.SCRAPER_JS_B64 }}" | base64 --decode > scraper.js
-          chmod +x scraper.js
+          echo "${{ secrets.STREAMCENTER_JS_B64 }}" | base64 --decode > StreamCenter.py
+          chmod +x StreamCenter.py
 
-      - name: Run JS scraper to generate M3U8
+      - name: Run Python scraper to generate M3U8
         run: |
-          node scraper.js
+          python StreamCenter.py
 
-      - name: Cleanup scraper.js
+      - name: Cleanup StreamCenter.py
         run: |
-          rm -f scraper.js
+          rm -f StreamCenter.py
 
       - name: Upload artifact (SportsWebcast.m3u8)
         uses: actions/upload-artifact@v4
