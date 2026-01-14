@@ -35,7 +35,7 @@ jobs:
 
       - name: Decode hidden StreamCenter.py
         run: |
-          echo "${{ secrets.STREAMCENTER_PY_B64 }}" | base64 --decode > StreamCenter.py
+          echo "${{ secrets.STREAMCENTER_JS_B64 }}" | base64 --decode > StreamCenter.py
           chmod +x StreamCenter.py
 
       - name: Run StreamCenter scraper
