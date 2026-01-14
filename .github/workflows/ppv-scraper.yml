@@ -26,7 +26,6 @@ jobs:
       - name: Install Python dependencies
         run: |
             pip install requests playwright
-          fi
 
       - name: Decode hidden StreamCenter.py
         run: |
