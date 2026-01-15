@@ -1,86 +1,66 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f0e46ad3b40b41da62312ecccf87bf27-thumbnail.jpg" group-title="NBA Games",Toronto Raptors vs. Indiana Pacers (Jan 15 @ 08:00 AM PHT) [FanDuel SN IN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/DTMYjhoXLGDZzAumAOgVXHbofoTgPrBn/1768428000/1768452480/indianapacers.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg" group-title="NBA Games",Cleveland Cavaliers vs. Philadelphia 76ers (Jan 15 @ 08:00 AM PHT) [ESPN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/NElkxEbXKyTyzHZTHpPLEZqTUegCfjYi/1768428000/1768452480/philadelphia76ers.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/94b902482afa44f4e615d8cac8c36d7c-thumbnail.jpg" group-title="NHL Action",Seattle Kraken vs. New Jersey Devils (Jan 15 @ 08:00 AM PHT) [MSGSN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/qgiKjkkNyzdMjBzxDhgtChvdXKGfPhpS/1768428000/1768453200/newjerseydevils.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5945428c5bd60960c822f88367627396-thumbnail.jpg" group-title="NHL Action",Philadelphia Flyers vs. Buffalo Sabres (Jan 15 @ 08:30 AM PHT) [TNT]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/AnzTsfHeimAlbkqIrSANttIFOIvGYlmu/1768429800/1768455000/buffalosabres.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a6f5d62da8a946fa23f3639202fe4d31-thumbnail.jpg" group-title="NHL Action",Ottawa Senators vs. New York Rangers (Jan 15 @ 08:30 AM PHT) [MSG]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/SReLCeqckEPhKRMVCKSkbRgNqmEYZrDo/1768429800/1768455000/newyorkrangers.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/77c6db38f286024b4fb20549e242363e-thumbnail.jpg" group-title="NBA Games",Utah Jazz vs. Chicago Bulls (Jan 15 @ 09:00 AM PHT) [CHSN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/jKFhTkNfSDVcKzQWhGqqIpRFQuKnuytG/1768431600/1768456080/chicagobulls.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6d031e6c10d1238c45f6fa8b3544e66b-thumbnail.jpg" group-title="NBA Games",Brooklyn Nets vs. New Orleans Pelicans (Jan 15 @ 09:00 AM PHT) [GCSEN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/hUqAWJOwoKUUVZnXIvftUaWcOlSncdtc/1768431600/1768456080/neworleanspelicans.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling Events",AEW: Wednesday Night Dynamite (Jan 15 @ 09:00 AM PHT) [TBS]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/osKBzRbRQHbGYpdgSUdVWepYpXZXXdnT/1768431600/1768456800/wrestling.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9c3a34b270c150693f95d18682c9a392-thumbnail.jpg" group-title="NBA Games",Denver Nuggets vs. Dallas Mavericks (Jan 15 @ 10:30 AM PHT) [ESPN]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/iOLyPNUuOahMsHqkRLnAiQNOBvsHjnIj/1768437000/1768461480/dallasmavericks.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/75e7c01bb06a4a7577c491ee0e3a9eba-thumbnail.jpg" group-title="NBA Games",New York Knicks vs. Sacramento Kings (Jan 15 @ 11:00 AM PHT) [NBC Sports CA]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/rFnUavDPjUEpOBLeGjupwXykxKdlxtEo/1768438800/1768463280/sacramentokings.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a41ddb5193212e2ed2dc7c04de03d466-thumbnail.jpg" group-title="NHL Action",Vegas Golden Knights vs. Los Angeles Kings (Jan 15 @ 11:00 AM PHT) [TNT]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://strm.poocloud.in/secure/MocSBsUYzkNVaxAhDPmBurAxfZAVrVnl/1768438800/1768464000/losangeleskings.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a6f705b408f454ed240eb30258508997-thumbnail.jpg" group-title="NBA Games",❌ NO STREAM - Washington Wizards vs. LA Clippers (Jan 15 @ 11:30 AM PHT) [FanDuel SN SoCal]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://example.com/no_stream.m3u8
-#EXTINF:-1 tvg-id="Misc.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9281e0642d8407f9155de473b9dccd88-thumbnail.jpg" group-title="PPVLand - Snooker",❌ NO STREAM - The Masters (Jan 15 @ 09:00 PM PHT) [TNT Sports]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://example.com/no_stream.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/39c15a14165388b5a3c762e1631cfab1-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Hellas Verona vs. Bologna (Jan 16 @ 01:30 AM PHT) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://example.com/no_stream.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/14e5c80defa411032356b3642263bf8d-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - FC Augsburg vs. 1. FC Union Berlin (Jan 16 @ 03:30 AM PHT) [Bundesliga]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://example.com/no_stream.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d8f3290c7f298af72753cb3af9f44fd1-thumbnail.jpg" group-title="Global Football Streams",❌ NO STREAM - Como vs. AC Milan (Jan 16 @ 03:45 AM PHT) [Serie A]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://example.com/no_stream.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling Events",❌ NO STREAM - TNA: Impact (Jan 16 @ 10:00 AM PHT) [AMC]
-#EXTVLCOPT:http-origin=https://playembed.top
-#EXTVLCOPT:http-referrer=https://playembed.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
-https://example.com/no_stream.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Toronto Raptors vs. Indiana Pacers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/WNohDMaoGFmFCyQDdAjYRTsmBoefJWLq/1768428000/1768452480/indianapacers.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Cleveland Cavaliers vs. Philadelphia 76ers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/eSgCRdLDZhkgLnyIhabILRTmOvgDdetI/1768428000/1768452480/philadelphia76ers.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Utah Jazz vs. Chicago Bulls
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/gmsJRXsdpEPZqcZhZzPgfBEFvJOzDboz/1768431600/1768456080/chicagobulls.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA Games" status="LIVE,Brooklyn Nets vs. New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/ZzYpkagTUGuwZlhvYRjhSLRoWbJnkEmV/1768431600/1768456080/neworleanspelicans.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Denver Nuggets vs. Dallas Mavericks
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/WAOLdaGOGaDcMDZDwsirbezIEHXZQsIi/1768437000/1768461480/dallasmavericks.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,New York Knicks vs. Sacramento Kings
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/FpfGfRvwQRZsINUXoKVQxbihwAUKtNVB/1768438800/1768463280/sacramentokings.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Washington Wizards vs. LA Clippers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/gRxkbaFhkPFGSWYSXqfubrbNRSZcCWUe/1768440600/1768465080/laclippers.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Seattle Kraken vs. New Jersey Devils
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/EfPIclVQZojvDjRMJSMYdzlHIPvmtekn/1768428000/1768453200/newjerseydevils.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Philadelphia Flyers vs. Buffalo Sabres
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/RdDCFaBKmoZcMmYRIZnpycueCivWdRIu/1768429800/1768455000/buffalosabres.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Ottawa Senators vs. New York Rangers
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/iBoCEWrYXxppDewOcJgCEFLiShhaEjOU/1768429800/1768455000/newyorkrangers.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Vegas Golden Knights vs. Los Angeles Kings
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/KsNAUyRtQtXobRcUKRyIpdhGFnJlRFeF/1768438800/1768464000/losangeleskings.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="NO_STREAM,The Masters
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://example.com/stream_unavailable.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,AEW: Wednesday Night Dynamite
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://strm.poocloud.in/secure/QocmaxpYHUrgwyBzglXkhmNREgiTNKlF/1768431600/1768456800/wrestling.m3u8
