@@ -1,66 +1,191 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Toronto Raptors vs. Indiana Pacers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/WNohDMaoGFmFCyQDdAjYRTsmBoefJWLq/1768428000/1768452480/indianapacers.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Cleveland Cavaliers vs. Philadelphia 76ers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/eSgCRdLDZhkgLnyIhabILRTmOvgDdetI/1768428000/1768452480/philadelphia76ers.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Utah Jazz vs. Chicago Bulls
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/gmsJRXsdpEPZqcZhZzPgfBEFvJOzDboz/1768431600/1768456080/chicagobulls.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBA.png" group-title="NBA Games" status="LIVE,Brooklyn Nets vs. New Orleans Pelicans
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/ZzYpkagTUGuwZlhvYRjhSLRoWbJnkEmV/1768431600/1768456080/neworleanspelicans.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Denver Nuggets vs. Dallas Mavericks
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/WAOLdaGOGaDcMDZDwsirbezIEHXZQsIi/1768437000/1768461480/dallasmavericks.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,New York Knicks vs. Sacramento Kings
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/FpfGfRvwQRZsINUXoKVQxbihwAUKtNVB/1768438800/1768463280/sacramentokings.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Washington Wizards vs. LA Clippers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/gRxkbaFhkPFGSWYSXqfubrbNRSZcCWUe/1768440600/1768465080/laclippers.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Seattle Kraken vs. New Jersey Devils
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/EfPIclVQZojvDjRMJSMYdzlHIPvmtekn/1768428000/1768453200/newjerseydevils.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Philadelphia Flyers vs. Buffalo Sabres
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/RdDCFaBKmoZcMmYRIZnpycueCivWdRIu/1768429800/1768455000/buffalosabres.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Ottawa Senators vs. New York Rangers
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/iBoCEWrYXxppDewOcJgCEFLiShhaEjOU/1768429800/1768455000/newyorkrangers.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,Vegas Golden Knights vs. Los Angeles Kings
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/KsNAUyRtQtXobRcUKRyIpdhGFnJlRFeF/1768438800/1768464000/losangeleskings.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="NO_STREAM,The Masters
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://example.com/stream_unavailable.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/PPV.png" group-title="Misc" status="LIVE,AEW: Wednesday Night Dynamite
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://strm.poocloud.in/secure/QocmaxpYHUrgwyBzglXkhmNREgiTNKlF/1768431600/1768456800/wrestling.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="SOCCER.Dummy" tvg-logo="https://streamfree.to/thumbnails/soccer_cremonese-vs-sassuolo_Cremonese_vs_Sassuolo" group-title="Soccer",Cremonese vs Sassuolo [Serie A] (Jan 25 @ 07:30 PM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/cremonese-vs-sassuolo1080p/index.m3u8
+#EXTINF:-1 tvg-id="SOCCER.Dummy" tvg-logo="https://streamfree.to/thumbnails/soccer_cremonese-vs-sassuolo_Cremonese_vs_Sassuolo" group-title="Soccer",Cremonese vs Sassuolo [Serie A] (Jan 25 @ 07:30 PM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/cremonese-vs-sassuolo720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_cleveland-cavaliers-vs-orlando-magic_Cleveland_Cavaliers_vs_Orlando" group-title="Basketball",Cleveland Cavaliers vs Orlando Magic [NBA] (Jan 25 @ 08:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/cleveland-cavaliers-vs-orlando-magic1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_cleveland-cavaliers-vs-orlando-magic_Cleveland_Cavaliers_vs_Orlando" group-title="Basketball",Cleveland Cavaliers vs Orlando Magic [NBA] (Jan 25 @ 08:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/cleveland-cavaliers-vs-orlando-magic720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_boston-celtics-vs-chicago-bulls_Boston_Celtics_vs_Chicago_Bull" group-title="Basketball",Boston Celtics vs Chicago Bulls [NBA] (Jan 25 @ 09:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/boston-celtics-vs-chicago-bulls1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_boston-celtics-vs-chicago-bulls_Boston_Celtics_vs_Chicago_Bull" group-title="Basketball",Boston Celtics vs Chicago Bulls [NBA] (Jan 25 @ 09:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/boston-celtics-vs-chicago-bulls720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_los-angeles-lakers-vs-dallas-mavericks_Los_Angeles_Lakers_vs_Dallas_M" group-title="Basketball",Los Angeles Lakers vs Dallas Mavericks [NBA] (Jan 25 @ 09:30 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/los-angeles-lakers-vs-dallas-mavericks1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_los-angeles-lakers-vs-dallas-mavericks_Los_Angeles_Lakers_vs_Dallas_M" group-title="Basketball",Los Angeles Lakers vs Dallas Mavericks [NBA] (Jan 25 @ 09:30 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/los-angeles-lakers-vs-dallas-mavericks720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_miami-heat-vs-utah-jazz_Miami_Heat_vs_Utah_Jazz" group-title="Basketball",Miami Heat vs Utah Jazz [NBA] (Jan 25 @ 10:30 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/miami-heat-vs-utah-jazz1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_miami-heat-vs-utah-jazz_Miami_Heat_vs_Utah_Jazz" group-title="Basketball",Miami Heat vs Utah Jazz [NBA] (Jan 25 @ 10:30 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/miami-heat-vs-utah-jazz720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_utah-utes-vs-byu-cougars_Utah_Utes_vs_BYU_Cougars" group-title="Basketball",Utah Utes vs BYU Cougars [NCAA Men's Basketball] (Jan 25 @ 06:30 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/utah-utes-vs-byu-cougars1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_utah-utes-vs-byu-cougars_Utah_Utes_vs_BYU_Cougars" group-title="Basketball",Utah Utes vs BYU Cougars [NCAA Men's Basketball] (Jan 25 @ 06:30 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/utah-utes-vs-byu-cougars720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_san-francisco-dons-vs-gonzaga-bulldogs_San_Francisco_Dons_vs_Gonzaga_" group-title="Basketball",San Francisco Dons vs Gonzaga Bulldogs [NCAA Men's Basketball] (Jan 25 @ 09:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/san-francisco-dons-vs-gonzaga-bulldogs1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_san-francisco-dons-vs-gonzaga-bulldogs_San_Francisco_Dons_vs_Gonzaga_" group-title="Basketball",San Francisco Dons vs Gonzaga Bulldogs [NCAA Men's Basketball] (Jan 25 @ 09:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/san-francisco-dons-vs-gonzaga-bulldogs720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_kansas-jayhawks-vs-kansas-state-wildcats_Kansas_Jayhawks_vs_Kansas_Stat" group-title="Basketball",Kansas Jayhawks vs Kansas State Wildcats [NCAA Men's Basketball] (Jan 25 @ 09:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/kansas-jayhawks-vs-kansas-state-wildcats1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_kansas-jayhawks-vs-kansas-state-wildcats_Kansas_Jayhawks_vs_Kansas_Stat" group-title="Basketball",Kansas Jayhawks vs Kansas State Wildcats [NCAA Men's Basketball] (Jan 25 @ 09:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/kansas-jayhawks-vs-kansas-state-wildcats720p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_tennessee-volunteers-vs-alabama-crimson-tide_Tennessee_Volunteers_vs_Alabam" group-title="Basketball",Tennessee Volunteers vs Alabama Crimson Tide [NCAA Men's Basketball] (Jan 25 @ 09:30 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/tennessee-volunteers-vs-alabama-crimson-tide1080p/index.m3u8
+#EXTINF:-1 tvg-id="BASKETBALL.Dummy" tvg-logo="https://streamfree.to/thumbnails/basketball_tennessee-volunteers-vs-alabama-crimson-tide_Tennessee_Volunteers_vs_Alabam" group-title="Basketball",Tennessee Volunteers vs Alabama Crimson Tide [NCAA Men's Basketball] (Jan 25 @ 09:30 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/tennessee-volunteers-vs-alabama-crimson-tide720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_montreal-canadiens-vs-boston-bruins_Montreal_Canadiens_vs_Boston_B" group-title="Hockey",Montreal Canadiens vs Boston Bruins [NHL] (Jan 25 @ 08:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/montreal-canadiens-vs-boston-bruins1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_montreal-canadiens-vs-boston-bruins_Montreal_Canadiens_vs_Boston_B" group-title="Hockey",Montreal Canadiens vs Boston Bruins [NHL] (Jan 25 @ 08:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/montreal-canadiens-vs-boston-bruins720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_carolina-hurricanes-vs-ottawa-senators_Carolina_Hurricanes_vs_Ottawa_" group-title="Hockey",Carolina Hurricanes vs Ottawa Senators [NHL] (Jan 25 @ 08:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/carolina-hurricanes-vs-ottawa-senators1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_carolina-hurricanes-vs-ottawa-senators_Carolina_Hurricanes_vs_Ottawa_" group-title="Hockey",Carolina Hurricanes vs Ottawa Senators [NHL] (Jan 25 @ 08:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/carolina-hurricanes-vs-ottawa-senators720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_tampa-bay-lightning-vs-columbus-blue-jackets_Tampa_Bay_Lightning_vs_Columbu" group-title="Hockey",Tampa Bay Lightning vs Columbus Blue Jackets [NHL] (Jan 25 @ 08:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/tampa-bay-lightning-vs-columbus-blue-jackets1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_tampa-bay-lightning-vs-columbus-blue-jackets_Tampa_Bay_Lightning_vs_Columbu" group-title="Hockey",Tampa Bay Lightning vs Columbus Blue Jackets [NHL] (Jan 25 @ 08:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/tampa-bay-lightning-vs-columbus-blue-jackets720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_detroit-red-wings-vs-winnipeg-jets_Detroit_Red_Wings_vs_Winnipeg_" group-title="Hockey",Detroit Red Wings vs Winnipeg Jets [NHL] (Jan 25 @ 08:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/detroit-red-wings-vs-winnipeg-jets1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_detroit-red-wings-vs-winnipeg-jets_Detroit_Red_Wings_vs_Winnipeg_" group-title="Hockey",Detroit Red Wings vs Winnipeg Jets [NHL] (Jan 25 @ 08:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/detroit-red-wings-vs-winnipeg-jets720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_los-angeles-kings-vs-st-louis-blues_Los_Angeles_Kings_vs_St_Louis_" group-title="Hockey",Los Angeles Kings vs St. Louis Blues [NHL] (Jan 25 @ 09:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/los-angeles-kings-vs-st-louis-blues1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_los-angeles-kings-vs-st-louis-blues_Los_Angeles_Kings_vs_St_Louis_" group-title="Hockey",Los Angeles Kings vs St. Louis Blues [NHL] (Jan 25 @ 09:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/los-angeles-kings-vs-st-louis-blues720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_florida-panthers-vs-minnesota-wild_Florida_Panthers_vs_Minnesota_" group-title="Hockey",Florida Panthers vs Minnesota Wild [NHL] (Jan 25 @ 10:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/florida-panthers-vs-minnesota-wild1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_florida-panthers-vs-minnesota-wild_Florida_Panthers_vs_Minnesota_" group-title="Hockey",Florida Panthers vs Minnesota Wild [NHL] (Jan 25 @ 10:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/florida-panthers-vs-minnesota-wild720p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_washington-capitals-vs-edmonton-oilers_Washington_Capitals_vs_Edmonto" group-title="Hockey",Washington Capitals vs Edmonton Oilers [NHL] (Jan 25 @ 11:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/washington-capitals-vs-edmonton-oilers1080p/index.m3u8
+#EXTINF:-1 tvg-id="HOCKEY.Dummy" tvg-logo="https://streamfree.to/thumbnails/hockey_washington-capitals-vs-edmonton-oilers_Washington_Capitals_vs_Edmonto" group-title="Hockey",Washington Capitals vs Edmonton Oilers [NHL] (Jan 25 @ 11:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/washington-capitals-vs-edmonton-oilers720p/index.m3u8
+#EXTINF:-1 tvg-id="COMBAT.Dummy" tvg-logo="https://streamfree.to/thumbnails/combat_ufc-324-gaethje-vs-pimblett_UFC_324_Gaethje_vs_Pimblett" group-title="Combat",UFC 324: Gaethje vs. Pimblett [UFC] (Jan 25 @ 06:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/ufc-324-gaethje-vs-pimblett1080p/index.m3u8
+#EXTINF:-1 tvg-id="COMBAT.Dummy" tvg-logo="https://streamfree.to/thumbnails/combat_ufc-324-gaethje-vs-pimblett_UFC_324_Gaethje_vs_Pimblett" group-title="Combat",UFC 324: Gaethje vs. Pimblett [UFC] (Jan 25 @ 06:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/ufc-324-gaethje-vs-pimblett720p/index.m3u8
+#EXTINF:-1 tvg-id="TENNIS.Dummy" tvg-logo="https://streamfree.to/thumbnails/tennis_d47473ab-99b7-4875-8c99-7e3b2f94d375_Sky_Sports_Tennis" group-title="Tennis",Sky Sports Tennis [SKY] (Jan 03 @ 01:00 AM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/skysportstennis1080p/index.m3u8
+#EXTINF:-1 tvg-id="TENNIS.Dummy" tvg-logo="https://streamfree.to/thumbnails/tennis_d47473ab-99b7-4875-8c99-7e3b2f94d375_Sky_Sports_Tennis" group-title="Tennis",Sky Sports Tennis [SKY] (Jan 03 @ 01:00 AM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/skysportstennis720p/index.m3u8
+#EXTINF:-1 tvg-id="TENNIS.Dummy" tvg-logo="https://streamfree.to/thumbnails/tennis_team-1-vs-team-2_Team_1_vs_Team_2" group-title="Tennis",Team 1 vs Team 2 [WTA Tour] (Jan 23 @ 01:00 PM PHT) [1080p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/team-1-vs-team-21080p/index.m3u8
+#EXTINF:-1 tvg-id="TENNIS.Dummy" tvg-logo="https://streamfree.to/thumbnails/tennis_team-1-vs-team-2_Team_1_vs_Team_2" group-title="Tennis",Team 1 vs Team 2 [WTA Tour] (Jan 23 @ 01:00 PM PHT) [720p]
+#EXTVLCOPT:http-origin=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-referrer=https://indiasmellsverybad.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/team-1-vs-team-2720p/index.m3u8
